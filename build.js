@@ -3,7 +3,7 @@ var fingerprint = require('metalsmith-fingerprint')
 var ignore = require('metalsmith-ignore')
 var markdown = require('metalsmith-markdown')
 var Metalsmith = require('metalsmith')
-//var optimize = require('webpack').optimize
+var optimize = require('webpack').optimize
 var path = require('path')
 var static = require('serve-static')
 var templates = require('metalsmith-templates')
@@ -17,6 +17,18 @@ process.argv.forEach(function(val) {
 })
 
 var metalsmith = new Metalsmith(__dirname)
+var webpackPlugins = []
+
+if (!isDev) {
+    // optimize for production build
+    webpackPlugins = [
+        new optimize.DedupePlugin(),
+        new optimize.UglifyJsPlugin({
+            comments: /^remove all comments$/,
+            mangle: true
+        })
+    ]
+}
 
 metalsmith
     .use(webpack({
@@ -32,10 +44,7 @@ metalsmith
             path: '/js',
             filename: 'index.js'
         },
-        plugins: [
-            //new optimize.DedupePlugin(),
-            //new optimize.UglifyJsPlugin()
-        ]
+        plugins: webpackPlugins
     }))
     .use(fingerprint({
         pattern: 'js/index.js'
