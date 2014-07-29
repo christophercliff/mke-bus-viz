@@ -5,8 +5,13 @@
 ```
 $ npm run dev
 $ npm run build
-$ npm run deploy
 ```
+
+## Resources
+
+- http://chriswhong.com/data-visualization/taxitechblog1/
+- http://mbtaviz.wordpress.com/2014/07/25/website-source-announcement/
+- http://formula1data.com/
 
 ## License
 

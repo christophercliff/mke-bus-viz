@@ -41,10 +41,13 @@ metalsmith
             ]
         },
         output: {
-            path: '/js',
-            filename: 'index.js'
+            filename: 'index.js',
+            library: 'app',
+            libraryTarget: 'var',
+            path: '/js'
         },
-        plugins: webpackPlugins
+        plugins: webpackPlugins,
+        target: 'node'
     }))
     .use(fingerprint({
         pattern: 'js/index.js'
