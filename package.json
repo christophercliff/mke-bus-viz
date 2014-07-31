@@ -19,8 +19,8 @@
   },
   "dependencies": {
     "handlebars": "^1.3.0",
-    "lodash-node": "^2.4.1",
-    "mke-bus": "^0.1.0"
+    "mke-bus": "^0.1.0",
+    "underscore": "^1.6.0"
   },
   "devDependencies": {
     "bluebird": "^2.2.2",

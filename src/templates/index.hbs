@@ -3,7 +3,10 @@
     <head>
         <meta charset="utf-8">
         <title>mke-bus-viz | {{ title }}</title>
-        <script src="{{ fingerprint.[js/index.js] }}"></script>
-        <script>{{& script }}</script>
+        <link href="https://api.tiles.mapbox.com/mapbox.js/v2.0.0/mapbox.css" rel="stylesheet" />
+        <link href="{{ fingerprint.[css/index.css] }}" rel="stylesheet" type="text/css" />
     </head>
 </html>
+<script src="https://api.tiles.mapbox.com/mapbox.js/v2.0.0/mapbox.js"></script>
+<script src="{{ fingerprint.[js/index.js] }}"></script>
+<script>app.map()</script>

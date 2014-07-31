@@ -1,5 +1,1 @@
-exports.map = map
-
-function map() {
-    console.log(222)
-}
+exports.map = require('./map').start

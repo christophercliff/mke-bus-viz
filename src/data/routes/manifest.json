@@ -1,0 +1,29 @@
+{
+  "routes": [
+    "/data/routes/BLU.json",
+    "/data/routes/RED.json",
+    "/data/routes/10.json",
+    "/data/routes/12.json",
+    "/data/routes/19.json",
+    "/data/routes/21.json",
+    "/data/routes/22.json",
+    "/data/routes/23.json",
+    "/data/routes/27.json",
+    "/data/routes/28.json",
+    "/data/routes/30.json",
+    "/data/routes/31.json",
+    "/data/routes/35.json",
+    "/data/routes/44.json",
+    "/data/routes/49.json",
+    "/data/routes/57.json",
+    "/data/routes/60.json",
+    "/data/routes/62.json",
+    "/data/routes/63.json",
+    "/data/routes/67.json",
+    "/data/routes/76.json",
+    "/data/routes/79.json",
+    "/data/routes/80.json",
+    "/data/routes/143.json",
+    "/data/routes/223.json"
+  ]
+}

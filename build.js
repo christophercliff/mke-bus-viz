@@ -1,6 +1,7 @@
 var connect = require('connect')
 var fingerprint = require('metalsmith-fingerprint')
 var ignore = require('metalsmith-ignore')
+var less = require('metalsmith-less')
 var markdown = require('metalsmith-markdown')
 var Metalsmith = require('metalsmith')
 var optimize = require('webpack').optimize
@@ -31,13 +32,26 @@ if (!isDev) {
 }
 
 metalsmith
+    .use(less({
+        pattern: 'less/index.less',
+        parse: {
+            paths: ['./src/less/'],
+        },
+        render: {
+            ieCompat: false,
+            compress: true,
+            sourceMap: true,
+            outputSourceFiles: true
+        }
+    }))
     .use(webpack({
         context: path.resolve(__dirname, './src/js/'),
         devtool: 'source-map',
         entry: './index.js',
         module: {
             loaders: [
-                { test: /\.json$/, loader: 'json-loader' }
+                { test: /\.json$/, loader: 'json-loader' },
+                { test: /\.hbs/, loader: 'handlebars-loader' }
             ]
         },
         output: {
@@ -50,7 +64,10 @@ metalsmith
         target: 'node'
     }))
     .use(fingerprint({
-        pattern: 'js/index.js'
+        pattern: [
+            'js/index.js',
+            'css/index.css'
+        ]
     }))
     .use(markdown({
         gfm: true
