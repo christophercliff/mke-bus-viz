@@ -1,17 +1,41 @@
 var lib = require('../')
+var linter = require('geojsonhint')
 
-var TIMEOUT = 5e3
+var TIMEOUT = 20e3
 
 describe('lib', function(){
 
-    this.timeout(TIMEOUT)
+    describe('getData()', function(){
 
-    it('getPatternPolyline()', function(done){
-        lib.getPatternPolyline()
-            .then(function(polyline){
-                polyline.should.equal('gu|eGdrkwO}DC_PQU??uM@sM?c@lNNfIHX@?dO?rL?d@tPN|JDdJF~HFvKFzFApF?jFBnFFR@vFxFxHfHjPzObIzHtFbFjE~DV`@j@ZvM|L~KjKb@h@AzEChPClN?~Gt@?pKDd@?j@?zHa@vEWbG[~Ha@hEUFhBh@|WFbEA`@Gb@QfAC`@AbCEtXCp]?tXBbFBn@Fl@Dn@A|E?xU?nK@nNAtFApK?nJA`N?zK?jPCxQClSEfV_F?eIA_I@iHA@pB?lF@zIAtJCfDGj@I`@Ob@]b@_@`@oAlA]TYDc@@oF?cG@_@?ByI{GEa@?OH}EAwICuIAwBMk@AyBlFeHdP_PBoJEiJEmJEkJCkJEoJCmKG_IGsJCiLGyMGq@TkC@_@PAzAEpQ?tSEpQGrNCxNEbMAjO?hO?~NAfR')
-                return done(null)
-            }, done)
+        this.timeout(TIMEOUT)
+
+        it('should get the data', function(done){
+            lib.getData()
+                .then(function(data){
+                    data.should.be.an.Array
+                    return done(null)
+                }, done)
+        })
+
+    })
+
+    describe('getGeoJSON()', function(){
+
+        this.timeout(TIMEOUT)
+
+        it('should get the GeoJSON', function(done){
+            lib.getGeoJSON()
+                .then(function(data){
+                    data.should.be.an.Array
+                    data.forEach(function(json){
+                        linter.hint(json).forEach(function(err){
+                            if (err) return done(new Error(err.message))
+                        })
+                    })
+                    return done(null)
+                }, done)
+        })
+
     })
 
 })
