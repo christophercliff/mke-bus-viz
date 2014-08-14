@@ -10,6 +10,9 @@ $ npm run write
 
 ## Resources
 
+- https://www.mapbox.com/mapbox.js/api
+- http://leafletjs.com/reference.html
+- https://github.com/mbostock/d3/wiki/API-Reference
 - http://chriswhong.com/data-visualization/taxitechblog1/
 - http://mbtaviz.wordpress.com/2014/07/25/website-source-announcement/
 - http://formula1data.com/
