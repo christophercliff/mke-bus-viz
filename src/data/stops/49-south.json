@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "49",
+    "name": "Bayshore-Brown Deer FLyer",
+    "color": "#008658",
+    "direction": "SOUTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp110",
+        "name": "BROWN DEER + PARK & RIDE LOT E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919349600001,
+          43.175619945934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8282",
+        "name": "GREEN BAY + BROWN DEER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.962524999999,
+          43.17863494581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2423",
+        "name": "GREEN BAY + CHERRYWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964145573413,
+          43.191035901173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2426",
+        "name": "GREEN BAY + DEERBROOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.963674791004,
+          43.182885965947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2424",
+        "name": "GREEN BAY + RIVERS EDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964511666668,
+          43.187669945442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8283",
+        "name": "GREEN BAY + SCHROEDER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964494999998,
+          43.18668494548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "741",
+        "name": "KILBOURN + 4TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.915804115741,
+          43.04158879292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2402",
+        "name": "KILBOURN + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917940000002,
+          43.041395729371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2795",
+        "name": "KILBOURN + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918374844578,
+          43.041607411907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2401",
+        "name": "KILBOURN + MILWAUKEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906819271163,
+          43.042566142987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2400",
+        "name": "KILBOURN + VAN BUREN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903067604498,
+          43.042836635475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "739",
+        "name": "KILBOURN + WATER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910956875663,
+          43.042255158376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6677",
+        "name": "PORT WASHINGTON ROAD + NORTHSHORE PARK & RIDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916657084658,
+          43.119776757718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4394",
+        "name": "PROSPECT + MASON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899231666668,
+          43.040883284886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "396",
+        "name": "WELLS + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924456146824,
+          43.040202067119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "399",
+        "name": "WELLS + 2ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913182395503,
+          43.040116303111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "484",
+        "name": "WELLS + 4TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916128333332,
+          43.040158939194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3029",
+        "name": "WELLS + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919122031084,
+          43.040175113951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "438",
+        "name": "WELLS + 8TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.921755,
+          43.040196221849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "398",
+        "name": "WELLS + OLD WORLD 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914672031085,
+          43.040141862082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7805",
+        "name": "WISCONSIN + CASS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901775519841,
+          43.038989964792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "65",
+        "name": "WISCONSIN + MILWAUKEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907232084656,
+          43.038684977375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "63",
+        "name": "WISCONSIN + PLANKINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911364791007,
+          43.038738585149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64",
+        "name": "WISCONSIN + WATER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909309426588,
+          43.038575947753
+        ]
+      }
+    }
+  ]
+}

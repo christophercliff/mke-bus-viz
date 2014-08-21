@@ -11,7 +11,7 @@
     "dev": "npm run jshint && node ./build dev",
     "start": "npm run dev",
     "test": "npm run jshint && ./node_modules/.bin/mocha --reporter spec --require should --grep ''",
-    "write": "npm run jshint && node ./lib/write-data"
+    "write": "npm run jshint && node ./lib/write"
   },
   "repository": {
     "type": "git",

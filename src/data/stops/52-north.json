@@ -1,0 +1,851 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "52",
+    "name": "Clement-15th Avenue",
+    "color": "#8dc63f",
+    "direction": "NORTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8366",
+        "name": "15TH AVENUE + 209 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.870585155425,
+          42.92871959552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1561",
+        "name": "15TH AVENUE + BEECH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.870907813492,
+          42.921492813243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1560",
+        "name": "15TH AVENUE + CHERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.870992084655,
+          42.919688290061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1559",
+        "name": "15TH AVENUE + CHESTNUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.871152031085,
+          42.917912457141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1549",
+        "name": "15TH AVENUE + MANISTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.87195724008,
+          42.902716271601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1558",
+        "name": "15TH AVENUE + MAPLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.871258333335,
+          42.916183290213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1550",
+        "name": "15TH AVENUE + MARION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.871861666667,
+          42.904461624054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1551",
+        "name": "15TH AVENUE + MARSHALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.871766666666,
+          42.906226623979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1552",
+        "name": "15TH AVENUE + MICHIGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.871628124338,
+          42.908998765671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1553",
+        "name": "15TH AVENUE + MILWAUKEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.871544426587,
+          42.910644006407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1562",
+        "name": "15TH AVENUE + OAK CREEK PKWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.870861093255,
+          42.92371043358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1563",
+        "name": "15TH AVENUE + PARK AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.870695728836,
+          42.926551748734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1556",
+        "name": "17TH AVENUE + MINNESOTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.876100208994,
+          42.912648050541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1557",
+        "name": "17TH AVENUE + RAWSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.875978906744,
+          42.915185552288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1507",
+        "name": "CHICAGO AVENUE + DREXEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.865615000002,
+          42.901148290865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5184",
+        "name": "CLEMENT + 3280 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894279217594,
+          42.984681135801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5188",
+        "name": "CLEMENT + DAKOTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894205155425,
+          42.992338668065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5185",
+        "name": "CLEMENT + EUCLID"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894262550927,
+          42.986008287214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5183",
+        "name": "CLEMENT + HOLT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894346822089,
+          42.982348878451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5187",
+        "name": "CLEMENT + IDAHO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894241613097,
+          42.990967591548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2954",
+        "name": "CLEMENT + MONTANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894178333334,
+          42.993718286887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5182",
+        "name": "CLEMENT + MORGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894363488755,
+          42.980949847256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5186",
+        "name": "CLEMENT + OKLAHOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894267915346,
+          42.9881655445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2956",
+        "name": "CLEMENT + SAVELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894457449076,
+          42.976376405525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2955",
+        "name": "CLEMENT + TRIPOLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89449448016,
+          42.97464054594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2957",
+        "name": "CLEMENT + WARNIMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89440593783,
+          42.979225331108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8347",
+        "name": "COLLEGE + ELAINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.871119791006,
+          42.930120562265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3035",
+        "name": "COLLEGE + ILLINOIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.87484463558,
+          42.930131867654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8349",
+        "name": "COLLEGE + PENNSYLVANIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879798697751,
+          42.930131156681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1547",
+        "name": "DREXEL + 14TH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.869557240081,
+          42.900869009323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1548",
+        "name": "DREXEL + 15TH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.871956666666,
+          42.900921272248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4950",
+        "name": "HOWARD + BRUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.889399271164,
+          42.973814146364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4952",
+        "name": "HOWARD + CLEMENT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894388751324,
+          42.973814146362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4951",
+        "name": "HOWARD + HANSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.892407968915,
+          42.973814146365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2953",
+        "name": "HOWARD + IOWA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.885144062171,
+          42.973730004932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2952",
+        "name": "HOWARD + PENNSYLVANIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.880523960317,
+          42.973755004952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2997",
+        "name": "KINNICKINNIC + 1902 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909293333332,
+          43.010151417025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "719",
+        "name": "KINNICKINNIC + BAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906847132935,
+          43.006233773909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1308",
+        "name": "KINNICKINNIC + CLEMENT-PRYOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894745155424,
+          42.99496158552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1315",
+        "name": "KINNICKINNIC + LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903984426588,
+          43.002677491364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7822",
+        "name": "KINNICKINNIC + MITCHELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91020051984,
+          43.01188082842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1311",
+        "name": "KINNICKINNIC + OTJEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900524791006,
+          42.998538949423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1309",
+        "name": "KINNICKINNIC + RUSSELL - LOGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.896584217592,
+          42.99591512778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1319",
+        "name": "KINNICKINNIC + SMITH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90262312434,
+          43.001029335297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "720",
+        "name": "KINNICKINNIC + STEWART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907502550927,
+          43.007041394457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2540",
+        "name": "KINNICKINNIC + WARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90571130225,
+          43.004807004849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1554",
+        "name": "MILWAUKEE + 16TH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.873070000001,
+          42.910975071818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1555",
+        "name": "MILWAUKEE + 17TH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.876073333333,
+          42.910990787684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8008",
+        "name": "PENNSYLVANIA + BOLIVAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879713333333,
+          42.9668399547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8007",
+        "name": "PENNSYLVANIA + BOTTSFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879724635581,
+          42.964718550484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8352",
+        "name": "PENNSYLVANIA + DALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879904426587,
+          42.940840070338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2950",
+        "name": "PENNSYLVANIA + DENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879698333333,
+          42.968843287948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8350",
+        "name": "PENNSYLVANIA + DONALD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.87999948016,
+          42.933572811182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2949",
+        "name": "PENNSYLVANIA + EDGERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879718177911,
+          42.951636622019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8353",
+        "name": "PENNSYLVANIA + GRANGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879863124338,
+          42.944476622328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2948",
+        "name": "PENNSYLVANIA + INTERNATIONAL DRIVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879841666667,
+          42.948076622171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2951",
+        "name": "PENNSYLVANIA + NORWICH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879681666667,
+          42.971823287822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8351",
+        "name": "PENNSYLVANIA + RAMSEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.87987765807,
+          42.93705376804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8006",
+        "name": "PENNSYLVANIA + VAN NORMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879720310847,
+          42.96264006523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2935",
+        "name": "PENNSYLVANIA + WHITNALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879687604496,
+          42.96004543665
+        ]
+      }
+    }
+  ]
+}

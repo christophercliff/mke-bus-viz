@@ -1,0 +1,319 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "17",
+    "name": "Canal Street",
+    "color": "#00aeef",
+    "direction": "WEST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2159",
+        "name": "16TH STREET + PIERCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932992240081,
+          43.024130442101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2777",
+        "name": "1ST STREET + MAPLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911121666665,
+          43.011804952782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "443",
+        "name": "CANAL + EMMBER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.931340000001,
+          43.031383290185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3052",
+        "name": "CANAL + POTOWATOMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933850000002,
+          43.031506915092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7931",
+        "name": "CANAL + POTOWATOMI CIRCLE WEST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93796724008,
+          43.031510836367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7951",
+        "name": "CHAVEZ DRIVE + GREENFIELD - MUSKEGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932870364418,
+          43.016680052576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2152",
+        "name": "CHAVEZ DRIVE + LAPHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9329385959,
+          43.014085929804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2157",
+        "name": "CHAVEZ DRIVE + MINERAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932992240078,
+          43.021071420746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2158",
+        "name": "CHAVEZ DRIVE + NATIONAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932991146826,
+          43.022891129297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2155",
+        "name": "CHAVEZ DRIVE + SCOTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93300187566,
+          43.019017207883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2156",
+        "name": "CHAVEZ DRIVE + WASHINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933012604499,
+          43.020058186416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1004",
+        "name": "MILWAUKEE + SELIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.962359635581,
+          43.02782240268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1073",
+        "name": "MITCHELL + 11TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925367604496,
+          43.012329061107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1075",
+        "name": "MITCHELL + 13TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927959271163,
+          43.012322394438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2268",
+        "name": "MITCHELL + 14TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929315208993,
+          43.012322394437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7823",
+        "name": "MITCHELL + 16TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932928333333,
+          43.012329061108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1065",
+        "name": "MITCHELL + 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913749324737,
+          43.012334448632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1068",
+        "name": "MITCHELL + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918400573413,
+          43.012310425288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1069",
+        "name": "MITCHELL + 7TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919746302248,
+          43.012321704448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1071",
+        "name": "MITCHELL + 9TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.922550000001,
+          43.012318471939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7530",
+        "name": "ROUNDHOUSE + CANAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956155937832,
+          43.028387206888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7495",
+        "name": "ROUNDHOUSE + CANAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95600724008,
+          43.028447109136
+        ]
+      }
+    }
+  ]
+}

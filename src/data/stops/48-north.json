@@ -1,0 +1,599 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "48",
+    "name": "South Shore Flyer",
+    "color": "#008658",
+    "direction": "NORTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1513",
+        "name": "10TH AVENUE + MILWAUKEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860676511242,
+          42.910390197828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4802",
+        "name": "10TH STREET + 900 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924334271164,
+          43.042352985336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4801",
+        "name": "10TH STREET + WELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924365991403,
+          43.040096809278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp99",
+        "name": "CHICAGO AVENUE + 8396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.862617031086,
+          42.8908519734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4896",
+        "name": "CHICAGO AVENUE + AMERICAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.861547652778,
+          42.877329705238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1271",
+        "name": "CHICAGO AVENUE + COLLEGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860757550925,
+          42.929861156486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1506",
+        "name": "CHICAGO AVENUE + COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.864996093254,
+          42.89791234354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1502",
+        "name": "CHICAGO AVENUE + EDISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.862468853175,
+          42.888010679825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1268",
+        "name": "CHICAGO AVENUE + ELM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859654426588,
+          42.92312282366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1504",
+        "name": "CHICAGO AVENUE + FOREST HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86349145767,
+          42.893466974121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1265",
+        "name": "CHICAGO AVENUE + HAWTHORNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.858583022487,
+          42.91776864696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1508",
+        "name": "CHICAGO AVENUE + MANISTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.865536613097,
+          42.902547098463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1511",
+        "name": "CHICAGO AVENUE + MARQUETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.864895675265,
+          42.907497815632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3007",
+        "name": "CHICAGO AVENUE + RYAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.858039683863,
+          42.870073036113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8340",
+        "name": "CHICAGO AVENUE + WILLIAMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.864555884261,
+          42.896264361172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5144",
+        "name": "LAKE DRIVE + 3210 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.869493333334,
+          42.985953287216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5059",
+        "name": "OKLAHOMA + DELAWARE - NEW YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.877933333334,
+          42.988146620457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5060",
+        "name": "OKLAHOMA + KINNICKINNIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.883380728838,
+          42.988198456023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5057",
+        "name": "OKLAHOMA + SUPERIOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.873811875661,
+          42.988118392598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5058",
+        "name": "OKLAHOMA + WENTWORTH - INDIANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.875681457672,
+          42.98813505926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp066",
+        "name": "PACKARD + 5550 S. - LADISH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859899164023,
+          42.943510800796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2590",
+        "name": "PACKARD + 6045 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86090088426,
+          42.934725187467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1274",
+        "name": "PACKARD + BIRCHWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859915310845,
+          42.939656507788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4897",
+        "name": "PACKARD + BOTTSFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860011404101,
+          42.964439734799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1279",
+        "name": "PACKARD + HAMMOND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859931404102,
+          42.949088881997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1285",
+        "name": "PACKARD + LAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860026977513,
+          42.958972103227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4899",
+        "name": "PACKARD + SIVYER AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859963124338,
+          42.97538301988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1282",
+        "name": "PACKARD + SOMERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859978070769,
+          42.95453365762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4898",
+        "name": "PACKARD + TESCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859979217593,
+          42.970861669158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4893",
+        "name": "RYAN + HOWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911079791005,
+          42.872164448194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4894",
+        "name": "RYAN + HOWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911842031086,
+          42.871940469605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3020",
+        "name": "RYAN + SHEPARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.902997454365,
+          42.871758547608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7490",
+        "name": "WELLS + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92414369775,
+          43.040276933796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "406",
+        "name": "WISCONSIN + 2ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912817395504,
+          43.03880543046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "407",
+        "name": "WISCONSIN + 4TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.915210937832,
+          43.038834377161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "408",
+        "name": "WISCONSIN + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918813386903,
+          43.038829855886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "name": "WISCONSIN + 9TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.923036875661,
+          43.038865251876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "404",
+        "name": "WISCONSIN + BROADWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907001195108,
+          43.038765430499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "764",
+        "name": "WISCONSIN + CASS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901996720236,
+          43.039037314669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "WISCONSIN + JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903709635583,
+          43.038932997776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4392",
+        "name": "WISCONSIN + JEFFERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904594271165,
+          43.038885647881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "405",
+        "name": "WISCONSIN + WATER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.908912240081,
+          43.038660360384
+        ]
+      }
+    }
+  ]
+}

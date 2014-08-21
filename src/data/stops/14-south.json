@@ -1,0 +1,879 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "14",
+    "name": "Forest Home",
+    "color": "#00539f",
+    "direction": "SOUTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2057",
+        "name": "16TH STREET + CANAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933109791005,
+          43.030655637302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2067",
+        "name": "16TH STREET + FOREST HOME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933304635583,
+          43.009262595442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2066",
+        "name": "16TH STREET + MITCHELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933099582012,
+          43.01241535604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2059",
+        "name": "16TH STREET + PIERCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933075991403,
+          43.024409169543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2056",
+        "name": "16TH STREET + SAINT PAUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933067395502,
+          43.034787495807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1093",
+        "name": "43RD STREET + OKLAHOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.967991146827,
+          42.988542527307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp14",
+        "name": "4887 SOUTH 74TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006323596507,
+          42.955744464079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1159",
+        "name": "76TH STREET + FOREST HOME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.008373542326,
+          42.964215877206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4873",
+        "name": "76TH STREET + LAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.008475519841,
+          42.959515509778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2064",
+        "name": "BOW + PEARL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933473697751,
+          43.015368386216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2063",
+        "name": "CHAVEZ DRIVE + GREENFIELD - MUSKEGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933088333332,
+          43.017144952557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2065",
+        "name": "CHAVEZ DRIVE + LAPHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933023333335,
+          43.014363286007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2061",
+        "name": "CHAVEZ DRIVE + MINERAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93307275992,
+          43.021278483955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2060",
+        "name": "CHAVEZ DRIVE + NATIONAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933072759922,
+          43.023121129259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2062",
+        "name": "CHAVEZ DRIVE + SCOTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933088333334,
+          43.019188285804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2055",
+        "name": "CLYBOURN + 16TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933166666665,
+          43.03596495176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1158",
+        "name": "COLDSPRING + 7500 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007213542329,
+          42.966541511778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7710",
+        "name": "DOWNTOWN TRANSIT CTR + TRANSIT CENTER BAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899899999999,
+          43.037489951695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1079",
+        "name": "FOREST HOME + 18TH ST - ROGERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.935190937831,
+          43.008267310637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1080",
+        "name": "FOREST HOME + 19TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.936574271164,
+          43.007532900333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1081",
+        "name": "FOREST HOME + 20TH ST - BECHER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.937966666666,
+          43.00679828633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1084",
+        "name": "FOREST HOME + 26TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.946438906745,
+          43.001996825495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1085",
+        "name": "FOREST HOME + 27TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.948017604495,
+          43.001083698539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1086",
+        "name": "FOREST HOME + 29TH ST - ARTHUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950418177908,
+          42.999622033054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1087",
+        "name": "FOREST HOME + 31ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.952813333335,
+          42.998119953365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1088",
+        "name": "FOREST HOME + 32ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.954587395504,
+          42.997051237456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp065",
+        "name": "FOREST HOME + 35TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958280000002,
+          42.994884953503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1091",
+        "name": "FOREST HOME + 38TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.962164271163,
+          42.99270759192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1092",
+        "name": "FOREST HOME + 40TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964621666665,
+          42.991221620327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1140",
+        "name": "FOREST HOME + 46TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.971489426588,
+          42.98701704325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1141",
+        "name": "FOREST HOME + 48TH ST - DURAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.974006457673,
+          42.985467802334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1142",
+        "name": "FOREST HOME + 49TH ST - SCHAUER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.975278124339,
+          42.984720166183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1143",
+        "name": "FOREST HOME + 51ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.977708697751,
+          42.983242530916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1144",
+        "name": "FOREST HOME + 52ND ST - UTAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.979101666666,
+          42.982415380305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1146",
+        "name": "FOREST HOME + 54TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.983034271165,
+          42.979992319064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1147",
+        "name": "FOREST HOME + 5554 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.984156666665,
+          42.979308287501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1148",
+        "name": "FOREST HOME + 58TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.986493333334,
+          42.977901620893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2519",
+        "name": "FOREST HOME + 60TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.987658697751,
+          42.977202803743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1151",
+        "name": "FOREST HOME + 61ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.989194999998,
+          42.976256620965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1152",
+        "name": "FOREST HOME + 63RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.991468333333,
+          42.974858503713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1154",
+        "name": "FOREST HOME + 6565 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.995918333333,
+          42.971998287813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1155",
+        "name": "FOREST HOME + 68TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.997588333335,
+          42.970916621192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2515",
+        "name": "FOREST HOME + COLDSPRING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004438333332,
+          42.966633288043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1082",
+        "name": "FOREST HOME + GRANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.941813906747,
+          43.004751234671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1153",
+        "name": "FOREST HOME + HOWARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.992851666667,
+          42.973968287728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1089",
+        "name": "FOREST HOME + LEEDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95623,
+          42.996053286787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1083",
+        "name": "FOREST HOME + LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.944468333335,
+          43.003166619816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1145",
+        "name": "FOREST HOME + MORGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.980930000002,
+          42.981280167649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1156",
+        "name": "FOREST HOME + PLAINFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.001635208993,
+          42.968373770691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp25",
+        "name": "LAYTON + 74TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0062714,
+          42.959035535035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp13",
+        "name": "LAYTON + 74TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006297506506,
+          42.956963741513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8514",
+        "name": "MICHIGAN + VAN BUREN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.902395,
+          43.037778500641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "name": "WISCONSIN + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924148595901,
+          43.038844555671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "410",
+        "name": "WISCONSIN + 12TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927159426588,
+          43.038758680921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "411",
+        "name": "WISCONSIN + 14TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.930809062169,
+          43.038758189209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "412",
+        "name": "WISCONSIN + 16TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932812341931,
+          43.0387594076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "406",
+        "name": "WISCONSIN + 2ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912817395504,
+          43.03880543046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "name": "WISCONSIN + 5TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917342031085,
+          43.038836196614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "409",
+        "name": "WISCONSIN + 8TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.921516666666,
+          43.038841618305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "WISCONSIN + JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903709635583,
+          43.038932997776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "name": "WISCONSIN + MILWAUKEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905637240078,
+          43.038829964627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "405",
+        "name": "WISCONSIN + WATER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.908912240081,
+          43.038660360384
+        ]
+      }
+    }
+  ]
+}

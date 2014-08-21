@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "15",
+    "name": "Holton-Kinnickinnic",
+    "color": "#f58220",
+    "direction": "SOUTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1477",
+        "name": "10TH AVENUE + MINNESOTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860662031085,
+          42.912520672515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1478",
+        "name": "10TH AVENUE + MONROE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860724271164,
+          42.911411743904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1476",
+        "name": "10TH AVENUE + RAWSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860460728836,
+          42.91469662585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "640",
+        "name": "1ST STREET + BRUCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911136666666,
+          43.025371618875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "644",
+        "name": "1ST STREET + GREENFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911265000001,
+          43.017153285891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "645",
+        "name": "1ST STREET + LAPHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911227449073,
+          43.014331820245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "642",
+        "name": "1ST STREET + MINERAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911343333334,
+          43.021238285718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "641",
+        "name": "1ST STREET + NATIONAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91127948016,
+          43.023562894531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8557",
+        "name": "1ST STREET + PITTSBURGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911121666667,
+          43.028851618727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "643",
+        "name": "1ST STREET + SCOTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911280000002,
+          43.019211619134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "627",
+        "name": "1ST STREET + VIRGINIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911084115741,
+          43.026467305216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1488",
+        "name": "5TH AVENUE + COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.852274582012,
+          42.897916273338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1486",
+        "name": "5TH AVENUE + MACKINAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.852063124338,
+          42.901688060653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1485",
+        "name": "5TH AVENUE + MARION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.851951977515,
+          42.904326392527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1483",
+        "name": "5TH AVENUE + MARQUETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.851777550925,
+          42.907846865578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1484",
+        "name": "5TH AVENUE + MARSHALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.851856977515,
+          42.90607007849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1487",
+        "name": "5TH AVENUE + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.852179582012,
+          42.899667832631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6052",
+        "name": "CAPITOL + 2ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912111511244,
+          43.089191204127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1028",
+        "name": "CAPITOL + HOLTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905087550925,
+          43.089132440293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6053",
+        "name": "CAPITOL + PALMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909838697751,
+          43.089163129128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1027",
+        "name": "CAPITOL + RICHARDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906834791004,
+          43.089144193066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1473",
+        "name": "CHICAGO AVENUE + ASPEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859432186508,
+          42.921393884958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1470",
+        "name": "CHICAGO AVENUE + BADGER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860528333335,
+          42.927866623044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1474",
+        "name": "CHICAGO AVENUE + CHERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859087550926,
+          42.919604361648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1472",
+        "name": "CHICAGO AVENUE + ELM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859813333332,
+          42.923376623236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1475",
+        "name": "CHICAGO AVENUE + HAWTHORNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.858828853176,
+          42.917466980478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "482",
+        "name": "CHICAGO AVENUE + MACKINAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.865530782406,
+          42.901907220376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1471",
+        "name": "CHICAGO AVENUE + PARK AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860115000001,
+          42.9249899565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1598",
+        "name": "CHICAGO AVENUE + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.865312293649,
+          42.899628535744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1599",
+        "name": "COLUMBIA + 7TH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.855384844576,
+          42.897912115285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1596",
+        "name": "COLUMBIA + 9TH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859267968914,
+          42.897968062712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1597",
+        "name": "COLUMBIA + CHICAGO AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86498,
+          42.898024957667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1034",
+        "name": "HOLTON + AUER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905208333333,
+          43.076646616715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1045",
+        "name": "HOLTON + BROWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905415,
+          43.05662828422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1035",
+        "name": "HOLTON + BURLEIGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905288333333,
+          43.074843283456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1039",
+        "name": "HOLTON + CENTER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905368333332,
+          43.067594950427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1036",
+        "name": "HOLTON + CHAMBERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905303333334,
+          43.072998283534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1040",
+        "name": "HOLTON + CLARKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905368333333,
+          43.065798283836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1033",
+        "name": "HOLTON + CONCORDIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905161666667,
+          43.078489949969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1044",
+        "name": "HOLTON + GARFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905368333334,
+          43.059131617451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1038",
+        "name": "HOLTON + HADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905351666668,
+          43.06958161701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1031",
+        "name": "HOLTON + KEEFE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905050000001,
+          43.082129949817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2899",
+        "name": "HOLTON + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905320000002,
+          43.071194950277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1042",
+        "name": "HOLTON + MEINECKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905400000001,
+          43.062126617323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1030",
+        "name": "HOLTON + NASH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905001666667,
+          43.084053283071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1043",
+        "name": "HOLTON + NORTH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905351666667,
+          43.060299950734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1032",
+        "name": "HOLTON + TOWNSEND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905113333333,
+          43.080286616561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1029",
+        "name": "HOLTON + VIENNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904955000001,
+          43.085999949656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1041",
+        "name": "HOLTON + WRIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905368333335,
+          43.063923283915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "647",
+        "name": "KINNICKINNIC + 1901 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909425884259,
+          43.010202696883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1435",
+        "name": "KINNICKINNIC + 2817 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.892026302249,
+          42.993459572091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "648",
+        "name": "KINNICKINNIC + BEECHER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907295937832,
+          43.006706925405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1451",
+        "name": "KINNICKINNIC + BOTTSFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.868581875661,
+          42.964534692549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1434",
+        "name": "KINNICKINNIC + CLEMENT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894336666666,
+          42.994659085583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7807",
+        "name": "KINNICKINNIC + CRAWFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.876583279762,
+          42.975971137285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1449",
+        "name": "KINNICKINNIC + DENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.872655573414,
+          42.969147431405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1437",
+        "name": "KINNICKINNIC + ELLEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887248333335,
+          42.992079953622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1440",
+        "name": "KINNICKINNIC + FERNWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882803124337,
+          42.986806726237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1436",
+        "name": "KINNICKINNIC + FULTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.889520000001,
+          42.992461620273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1433",
+        "name": "KINNICKINNIC + HERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.895591666666,
+          42.995307314501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1442",
+        "name": "KINNICKINNIC + HOLT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.880699426586,
+          42.982904575908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1446",
+        "name": "KINNICKINNIC + KOENIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.875723333333,
+          42.974619954367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1427",
+        "name": "KINNICKINNIC + LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904418697751,
+          43.00305474794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1450",
+        "name": "KINNICKINNIC + LUNHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.870223906747,
+          42.966398134489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2776",
+        "name": "KINNICKINNIC + MITCHELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910565000001,
+          43.012379766903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1443",
+        "name": "KINNICKINNIC + MORGAN-PENNSYLVANIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879686511244,
+          42.981060274568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1447",
+        "name": "KINNICKINNIC + NORWICH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.874081302249,
+          42.97194506305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1441",
+        "name": "KINNICKINNIC + OHIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.881753124339,
+          42.984852151105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1439",
+        "name": "KINNICKINNIC + OKLAHOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.883602395504,
+          42.988293181682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1430",
+        "name": "KINNICKINNIC + OTJEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900758333334,
+          42.998679570201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1431",
+        "name": "KINNICKINNIC + POTTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.898987968917,
+          42.997126341181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1438",
+        "name": "KINNICKINNIC + RUSK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.885086666667,
+          42.990276620367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1432",
+        "name": "KINNICKINNIC + RUSSELL - LOGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89687463558,
+          42.995977904513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1444",
+        "name": "KINNICKINNIC + SAINT FRANCIS AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.878076613096,
+          42.978335760238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1428",
+        "name": "KINNICKINNIC + SMITH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.902856666667,
+          43.001199157433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1452",
+        "name": "KINNICKINNIC + VAN NORMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.867188333334,
+          42.962917916475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "649",
+        "name": "KINNICKINNIC + WARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905653333335,
+          43.00459759445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1448",
+        "name": "KINNICKINNIC + WATERFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.873451666665,
+          42.970328287886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1429",
+        "name": "KINNICKINNIC + WILSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901998333332,
+          43.000178286611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1544",
+        "name": "MADISON + 5TH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.851760364419,
+          42.909543893067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1481",
+        "name": "MADISON + 7TH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85507775992,
+          42.909610439163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1480",
+        "name": "MADISON + 8TH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.857016093253,
+          42.90965782201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1059",
+        "name": "MILWAUKEE + BUFFALO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905986666668,
+          43.034033285176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1060",
+        "name": "MILWAUKEE + CHICAGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905844999999,
+          43.032824951893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1057",
+        "name": "MILWAUKEE + CLYBOURN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906273333334,
+          43.036433285072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "423",
+        "name": "MILWAUKEE + JUNEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907386666668,
+          43.045874951341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "425",
+        "name": "MILWAUKEE + KILBOURN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907051666668,
+          43.042639951478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "402",
+        "name": "MILWAUKEE + KNAPP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907370000002,
+          43.047066617959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1056",
+        "name": "MILWAUKEE + MICHIGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906368333333,
+          43.03762495169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1058",
+        "name": "MILWAUKEE + SAINT PAUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906130000002,
+          43.035233285123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "424",
+        "name": "MILWAUKEE + STATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907148333333,
+          43.043713284766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1054",
+        "name": "MILWAUKEE + WELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906878333335,
+          43.041313284867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2898",
+        "name": "MILWAUKEE + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906574999998,
+          43.038881618304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "400",
+        "name": "OGDEN + JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904556666667,
+          43.048194951243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "401",
+        "name": "OGDEN + JEFFERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905876666667,
+          43.048179951245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2592",
+        "name": "PACKARD + 6045 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.861021666667,
+          42.934263289432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1456",
+        "name": "PACKARD + BARNARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860109169312,
+          42.957412771222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1466",
+        "name": "PACKARD + BIRCHWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859999635583,
+          42.939937331005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1469",
+        "name": "PACKARD + COLLEGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860862240081,
+          42.930297089108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1463",
+        "name": "PACKARD + GRANGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859988386904,
+          42.945254475857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1468",
+        "name": "PACKARD + KIMBERLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.861015728837,
+          42.933640072027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1465",
+        "name": "PACKARD + LADISH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.859988333335,
+          42.943283289045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1455",
+        "name": "PACKARD + LAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860110155422,
+          42.959408991867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1462",
+        "name": "PACKARD + MALLORY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860003386904,
+          42.946693995657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1461",
+        "name": "PACKARD + MORRIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860009844578,
+          42.948420774883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1457",
+        "name": "PACKARD + PABST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860088231482,
+          42.955923400137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1459",
+        "name": "PACKARD + PULASKI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860035626984,
+          42.95102077361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1467",
+        "name": "PACKARD + RAMSEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860289480157,
+          42.937553998382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1458",
+        "name": "PACKARD + SOMERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860072604496,
+          42.954632326623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1460",
+        "name": "PACKARD + UNDERWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860030208995,
+          42.949796960529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1062",
+        "name": "PITTSBURGH + S. WATER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.908069999999,
+          43.02962328536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1453",
+        "name": "PLANKINTON + KINNICKINNIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.863781302248,
+          42.960000509294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1454",
+        "name": "PLANKINTON + PACKARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860523488756,
+          42.960012768458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6617",
+        "name": "PORT WASHINGTON ROAD + 4253 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917145,
+          43.094988282611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6616",
+        "name": "PORT WASHINGTON ROAD + 4500 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917098333332,
+          43.097531615841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp067",
+        "name": "PORT WASHINGTON ROAD + 4701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917033333332,
+          43.102546615629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6612",
+        "name": "PORT WASHINGTON ROAD + 5111 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916955,
+          43.110024948652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7754",
+        "name": "PORT WASHINGTON ROAD + 5900 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914633906748,
+          43.123869286603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6620",
+        "name": "PORT WASHINGTON ROAD + CAPITOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917239999999,
+          43.090046616153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6613",
+        "name": "PORT WASHINGTON ROAD + CHATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917001666668,
+          43.106106615481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6619",
+        "name": "PORT WASHINGTON ROAD + FIEBRANTZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917208333335,
+          43.091214949436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6614",
+        "name": "PORT WASHINGTON ROAD + HAMPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917001666666,
+          43.104223282227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6611",
+        "name": "PORT WASHINGTON ROAD + HENRY CLAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916955,
+          43.111161615272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4838",
+        "name": "PORT WASHINGTON ROAD + LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916874999998,
+          43.114149948481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6677",
+        "name": "PORT WASHINGTON ROAD + NORTHSHORE PARK & RIDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916657084658,
+          43.119776757718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6618",
+        "name": "PORT WASHINGTON ROAD + OLIVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917176666666,
+          43.092969949365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6610",
+        "name": "PORT WASHINGTON ROAD + RICHTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916811666667,
+          43.115159948438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6615",
+        "name": "PORT WASHINGTON ROAD + RIVER WOODS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917098333334,
+          43.099583282421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6609",
+        "name": "PORT WASHINGTON ROAD + SILVER SPRING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916763333332,
+          43.118114948314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "542",
+        "name": "PORT WASHINGTON ROAD + TOWNE CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.915443906747,
+          43.123357699363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1419",
+        "name": "VAN BUREN + BRADY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903396666665,
+          43.053074951038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8556",
+        "name": "VAN BUREN + LYON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903460000001,
+          43.049434951191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1048",
+        "name": "VAN BUREN + OGDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903523333331,
+          43.048354951236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1047",
+        "name": "VAN BUREN + PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903459999998,
+          43.050626617807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1061",
+        "name": "YOUNG + ERIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906623333334,
+          43.030901618641
+        ]
+      }
+    }
+  ]
+}

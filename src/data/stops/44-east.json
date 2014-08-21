@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "44",
+    "name": "National Flyer",
+    "color": "#008658",
+    "direction": "EAST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1642",
+        "name": "108TH STREET + ARTHUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.047114426587,
+          42.999073980043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4144",
+        "name": "108TH STREET + HAYES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.047088697753,
+          43.000785056297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2164",
+        "name": "16TH STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932908435184,
+          43.038416522491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8240",
+        "name": "84TH STREET + GREENFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01694724008,
+          43.016462108115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6371",
+        "name": "84TH STREET + NATIONAL-MAPLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.016961720239,
+          43.01114172054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1628",
+        "name": "84TH STREET + SCHLINGER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017153906745,
+          43.023812598543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1816",
+        "name": "CLEVELAND + 108TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.046193279763,
+          42.995223668863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2535",
+        "name": "KEARNEY + 70TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.999951822089,
+          43.029503285366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4853",
+        "name": "KEARNEY + 73RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.003690000001,
+          43.028570444334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4851",
+        "name": "KEARNEY + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00806645767,
+          43.027505638909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4844",
+        "name": "LINCOLN + 102ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.039834533729,
+          43.002689542469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4861",
+        "name": "LINCOLN + 102ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.039649791005,
+          43.002487004207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4845",
+        "name": "LINCOLN + 105TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.043077240078,
+          43.002680927376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7709",
+        "name": "MICHIGAN + DOWNTOWN TRANSIT CTR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900223424604,
+          43.037734387271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1818",
+        "name": "NATIONAL + 102ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.041678333334,
+          42.996594953431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8528",
+        "name": "NATIONAL + 88TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.022807341931,
+          43.007294931716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4846",
+        "name": "NATIONAL + 92ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027287968917,
+          43.004811415204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1820",
+        "name": "NATIONAL + 99TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.035273333332,
+          43.000213183457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1822",
+        "name": "NATIONAL + LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.031245262565,
+          43.002451490619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp85",
+        "name": "WISCONSIN + 10TH STREET NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924583333333,
+          43.038643284979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "891",
+        "name": "WISCONSIN + 12TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92741864418,
+          43.038575456055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4345",
+        "name": "WISCONSIN + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919259426588,
+          43.038779977578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7805",
+        "name": "WISCONSIN + CASS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901775519841,
+          43.038989964792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4350",
+        "name": "WISCONSIN + JEFFERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905844480157,
+          43.038763994091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "62",
+        "name": "WISCONSIN + OLD WORLD 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914745000001,
+          43.038766822736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "63",
+        "name": "WISCONSIN + PLANKINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911364791007,
+          43.038738585149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64",
+        "name": "WISCONSIN + WATER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909309426588,
+          43.038575947753
+        ]
+      }
+    }
+  ]
+}

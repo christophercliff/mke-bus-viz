@@ -1,0 +1,1075 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "21",
+    "name": "North Avenue",
+    "color": "#00aeef",
+    "direction": "EAST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3635",
+        "name": "BOOTH + MEINECKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904081093253,
+          43.061874090673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3634",
+        "name": "BOOTH + NORTH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904090728836,
+          43.060466434188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3638",
+        "name": "HUMBOLDT + MEINECKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897949324734,
+          43.061653870025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7723",
+        "name": "MAYFAIR MALL + NORTHWEST LOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.045695208994,
+          43.067043193441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "309",
+        "name": "MAYFAIR ROAD + 2457 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.047914271164,
+          43.063954768713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2556",
+        "name": "MAYFAIR ROAD + 2543 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.047935208993,
+          43.065147607368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CD1",
+        "name": "MEINECKE + BREMEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900567759919,
+          43.06201152602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3636",
+        "name": "MEINECKE + FRATNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901872132936,
+          43.062019364671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3637",
+        "name": "MEINECKE + WEIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899321822089,
+          43.062012203319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2175",
+        "name": "NORTH AVENUE + 102ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.040270257277,
+          43.060195445189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3733",
+        "name": "NORTH AVENUE + 104TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04228275992,
+          43.060382514731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2174",
+        "name": "NORTH AVENUE + 104TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.042712759919,
+          43.060147606298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2173",
+        "name": "NORTH AVENUE + 106TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.045165884257,
+          43.060092606287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2223",
+        "name": "NORTH AVENUE + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924351977513,
+          43.060326525768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2222",
+        "name": "NORTH AVENUE + 12TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927139008596,
+          43.060351525771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2220",
+        "name": "NORTH AVENUE + 14TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.930290519841,
+          43.060378778538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2219",
+        "name": "NORTH AVENUE + 16TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932844582009,
+          43.060394273016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2218",
+        "name": "NORTH AVENUE + 18TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.935344946429,
+          43.060430536821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2228",
+        "name": "NORTH AVENUE + 1ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911402861772,
+          43.060231031296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2217",
+        "name": "NORTH AVENUE + 20TH ST - MONROE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.937262915342,
+          43.060453870153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2215",
+        "name": "NORTH AVENUE + 23RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.940923853175,
+          43.060494364635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2214",
+        "name": "NORTH AVENUE + 24TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.942842341932,
+          43.060493686952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2213",
+        "name": "NORTH AVENUE + 25TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.945301404099,
+          43.060533686962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2212",
+        "name": "NORTH AVENUE + 27TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.947853853175,
+          43.060554089885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2211",
+        "name": "NORTH AVENUE + 29TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950079946428,
+          43.060554089883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2210",
+        "name": "NORTH AVENUE + 31ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.952967341933,
+          43.06057760639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2208",
+        "name": "NORTH AVENUE + 33RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95546130225,
+          43.060581525807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2207",
+        "name": "NORTH AVENUE + 35TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957708799602,
+          43.060588375638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2206",
+        "name": "NORTH AVENUE + 37TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.960076613096,
+          43.060581214476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2205",
+        "name": "NORTH AVENUE + 39TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.962466977512,
+          43.060588375637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2227",
+        "name": "NORTH AVENUE + 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91440676852,
+          43.060240353547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2204",
+        "name": "NORTH AVENUE + 41ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964792915344,
+          43.060584456221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2202",
+        "name": "NORTH AVENUE + 45TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.970207550927,
+          43.060593778556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2201",
+        "name": "NORTH AVENUE + 47TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.972029480157,
+          43.060605042301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2200",
+        "name": "NORTH AVENUE + 48TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.973704217592,
+          43.060608778557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2199",
+        "name": "NORTH AVENUE + 49TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.974876039682,
+          43.060616617387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2198",
+        "name": "NORTH AVENUE + 51ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.977710310846,
+          43.060632295041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2197",
+        "name": "NORTH AVENUE + 53RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98013551984,
+          43.060641617386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2196",
+        "name": "NORTH AVENUE + 55TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.982059426586,
+          43.060645536798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2195",
+        "name": "NORTH AVENUE + 58TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.985429426587,
+          43.060653375623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2226",
+        "name": "NORTH AVENUE + 5TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917250728836,
+          43.060259950736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2194",
+        "name": "NORTH AVENUE + 60TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.987680728836,
+          43.060668375619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2193",
+        "name": "NORTH AVENUE + 62ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.989910573413,
+          43.060680628362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2192",
+        "name": "NORTH AVENUE + 64TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99226275992,
+          43.060691708947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2191",
+        "name": "NORTH AVENUE + 67TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.995883435186,
+          43.060700536793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2190",
+        "name": "NORTH AVENUE + 68TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.997716039684,
+          43.060704950717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2189",
+        "name": "NORTH AVENUE + 70TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.999877186506,
+          43.0607121119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2188",
+        "name": "NORTH AVENUE + 72ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.002224062169,
+          43.06071260642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2187",
+        "name": "NORTH AVENUE + 73RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004168279762,
+          43.060720939753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2186",
+        "name": "NORTH AVENUE + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00765854233,
+          43.06065251484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2185",
+        "name": "NORTH AVENUE + 78TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.009630675266,
+          43.060640756604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2225",
+        "name": "NORTH AVENUE + 7TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919434946429,
+          43.06019332027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2184",
+        "name": "NORTH AVENUE + 81ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.013577759921,
+          43.060625939733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2183",
+        "name": "NORTH AVENUE + 83RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01637546627,
+          43.060593284056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2182",
+        "name": "NORTH AVENUE + 85TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.018975728836,
+          43.060556708977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2181",
+        "name": "NORTH AVENUE + 88TH ST - LUDINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.022770830689,
+          43.060486031303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2224",
+        "name": "NORTH AVENUE + 8TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.921957861774,
+          43.060223686874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2180",
+        "name": "NORTH AVENUE + 90TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.025175101852,
+          43.060454181428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2178",
+        "name": "NORTH AVENUE + 94TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.029976248678,
+          43.060395445207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3641",
+        "name": "NORTH AVENUE + BARTLETT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.889510310848,
+          43.060120353514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3640",
+        "name": "NORTH AVENUE + CAMBRIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89219051984,
+          43.060073997927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4467",
+        "name": "NORTH AVENUE + COMMERCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.895693124337,
+          43.060073503486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3643",
+        "name": "NORTH AVENUE + FARWELL - MURRAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.885822604498,
+          43.060088686839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2216",
+        "name": "NORTH AVENUE + FOND DU LAC - 21ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939075101853,
+          43.060478192459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3633",
+        "name": "NORTH AVENUE + HOLTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905484217591,
+          43.060199859083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3639",
+        "name": "NORTH AVENUE + HUMBOLDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897356093253,
+          43.060089181279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3645",
+        "name": "NORTH AVENUE + LAKE DRIVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.880753017199,
+          43.060038228435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2177",
+        "name": "NORTH AVENUE + MENOMONEE RIVER PKWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.031342915344,
+          43.060378778539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2176",
+        "name": "NORTH AVENUE + MET TO WEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03698671495,
+          43.06025535355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3642",
+        "name": "NORTH AVENUE + OAKLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.888280519842,
+          43.060105353511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3644",
+        "name": "NORTH AVENUE + PROSPECT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.884085519842,
+          43.060089364626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3632",
+        "name": "NORTH AVENUE + RICHARDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907927706348,
+          43.060208192417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2203",
+        "name": "NORTH AVENUE + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.967807031084,
+          43.060581525807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2179",
+        "name": "NORTH AVENUE + SWAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027804839285,
+          43.0603555732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2221",
+        "name": "NORTH AVENUE + TEUTONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928197031084,
+          43.060358192439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3672",
+        "name": "NORTH AVENUE + WATER TOWER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879714426589,
+          43.05986603129
+        ]
+      }
+    }
+  ]
+}

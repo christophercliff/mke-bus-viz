@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "223",
+    "name": "Park Place-Bradley Woods Shuttle",
+    "color": "#007dc5",
+    "direction": "EAST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7481",
+        "name": "1 PARK PLAZA + MAIN ENTERANCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.052293328045,
+          43.151661202148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7581",
+        "name": "107TH STREET + BROWN DEER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.043834115739,
+          43.178432562703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7579",
+        "name": "107TH STREET + DONNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.044157759922,
+          43.171119875759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8024",
+        "name": "111TH STREET + BRADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.049844528441,
+          43.162652772242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7572",
+        "name": "124TH STREET + 8100 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.064010626985,
+          43.16543393052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7573",
+        "name": "124TH STREET + 8100 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.064285417988,
+          43.165537628882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp102",
+        "name": "76TH STREET + WALLMART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.019093333335,
+          43.165051613039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7560",
+        "name": "81ST STREET + BRADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.010552341933,
+          43.162771757069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7543",
+        "name": "81ST STREET + CALUMET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.011638853174,
+          43.156147339858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7561",
+        "name": "81ST STREET + PARKLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01136775992,
+          43.161603279845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7541",
+        "name": "81ST STREET + SLESKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.011511093252,
+          43.158690526439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2481",
+        "name": "87TH STREET + 8475 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.019457759922,
+          43.172713788242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2576",
+        "name": "87TH STREET + BRADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.018441093254,
+          43.16340335162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7544",
+        "name": "87TH STREET + DEAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.018334844576,
+          43.170038350072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7489",
+        "name": "BRADLEY + 107TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.045768697752,
+          43.162808063928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7584",
+        "name": "BROWN DEER + 91ST ST - SWAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.024496613095,
+          43.177585688358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7583",
+        "name": "BROWN DEER + 95TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.028597186507,
+          43.177566266933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7549",
+        "name": "DEAN + FAULKNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.020824999998,
+          43.170395666215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7550",
+        "name": "FAULKNER + TOWER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02189,
+          43.165871613003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7565",
+        "name": "GRANVILLE + CALUMET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.028741613095,
+          43.154700461475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7529",
+        "name": "HEATHER + 8801 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.020879217594,
+          43.173417700495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7546",
+        "name": "HEATHER + 91ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.023496093254,
+          43.173682630635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8022",
+        "name": "LAKE PARK + 113TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.053012186506,
+          43.158904512254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8021",
+        "name": "LAKE PARK + 114TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.054409999999,
+          43.158933279958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8020",
+        "name": "LAKE PARK + 11925 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.056333333332,
+          43.159044946619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7587",
+        "name": "LIBERTY + 11101 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.049323333332,
+          43.153886825268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7582",
+        "name": "PARK PLACE + 11600 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.055173853176,
+          43.154137193585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7482",
+        "name": "PARK PLACE + LAKE PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.060243333335,
+          43.158078207123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7483",
+        "name": "PARK PLACE + LIBERTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.046615835979,
+          43.150317625613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8026",
+        "name": "PARKLAND + 11200 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.052561822089,
+          43.161187419617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8481",
+        "name": "WESTBROOK CROSSING + 12500 W. EMPLOYEE ENTERANCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.067190000001,
+          43.171647770719
+        ]
+      }
+    }
+  ]
+}

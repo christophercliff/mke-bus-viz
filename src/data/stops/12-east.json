@@ -1,0 +1,1733 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "12",
+    "name": "Teutonia-Hampton",
+    "color": "#8dc63f",
+    "direction": "EAST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "883",
+        "name": "12TH STREET + CHERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92712724008,
+          43.050071311879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "887",
+        "name": "12TH STREET + HIGHLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927185728837,
+          43.044542886943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "886",
+        "name": "12TH STREET + JUNEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927175000001,
+          43.045874951341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "889",
+        "name": "12TH STREET + KILBOURN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927223279763,
+          43.041742491069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "879",
+        "name": "12TH STREET + LLOYD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926999426589,
+          43.057958376252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "885",
+        "name": "12TH STREET + MCKINLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927154062169,
+          43.047257299023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "880",
+        "name": "12TH STREET + RESERVOIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927048333332,
+          43.055769950923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "888",
+        "name": "12TH STREET + STATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927200728836,
+          43.043382887364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "881",
+        "name": "12TH STREET + VINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927074635581,
+          43.054029457336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "884",
+        "name": "12TH STREET + VLIET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927143333334,
+          43.048648284558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "882",
+        "name": "12TH STREET + WALNUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927095573412,
+          43.052840230261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "890",
+        "name": "12TH STREET + WELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927232915346,
+          43.040347888459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1501",
+        "name": "12TH STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927249582011,
+          43.038853380723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "901",
+        "name": "43RD STREET + GOOD HOPE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.965634115742,
+          43.14795777473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "903",
+        "name": "43RD STREET + GREEN TREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.965820364417,
+          43.141436185235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "902",
+        "name": "43RD STREET + KIEHNAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.965725364417,
+          43.144719517382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "904",
+        "name": "43RD STREET + KIEHNAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.966037759919,
+          43.136946033002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "943",
+        "name": "92ND STREET + 4700 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027680417991,
+          43.102868365755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "189",
+        "name": "92ND STREET + GLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027712550924,
+          43.101426115953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "156",
+        "name": "92ND STREET + HAMPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02737771164,
+          43.10475694948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "911",
+        "name": "FLORIST + 35TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956336768517,
+          43.126511348509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "910",
+        "name": "FLORIST + 37TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958705155422,
+          43.12652735436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "909",
+        "name": "FLORIST + 39TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.961125519842,
+          43.126551851411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "908",
+        "name": "FLORIST + 41ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96348906217,
+          43.126571959741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4282",
+        "name": "FLORIST + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.966767759921,
+          43.126604129374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "845",
+        "name": "FLORIST + TEUTONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.952060728834,
+          43.126480184791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "899",
+        "name": "GOOD HOPE + 38TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.959000364419,
+          43.148665602175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "900",
+        "name": "GOOD HOPE + 41ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.963286666668,
+          43.148681613714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "837",
+        "name": "GOOD HOPE + TEUTONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957660573413,
+          43.148644010198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8282",
+        "name": "GREEN BAY + BROWN DEER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.962524999999,
+          43.17863494581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2423",
+        "name": "GREEN BAY + CHERRYWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964145573413,
+          43.191035901173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4806",
+        "name": "GREEN BAY + DEAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964850364417,
+          43.169196175202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2426",
+        "name": "GREEN BAY + DEERBROOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.963674791004,
+          43.182885965947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2424",
+        "name": "GREEN BAY + RIVERS EDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964511666668,
+          43.187669945442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4805",
+        "name": "GREEN BAY + RUTH - DEERWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.962597968915,
+          43.173885894186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8283",
+        "name": "GREEN BAY + SCHROEDER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964494999998,
+          43.18668494548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "975",
+        "name": "HAMPTON + 30TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950529271165,
+          43.104477782103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "974",
+        "name": "HAMPTON + 32ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.953098906747,
+          43.104510782822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "973",
+        "name": "HAMPTON + 35TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956850519842,
+          43.104549782588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "971",
+        "name": "HAMPTON + 40TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.962836822091,
+          43.104550449004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "970",
+        "name": "HAMPTON + 42ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.965206248677,
+          43.104545365858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "968",
+        "name": "HAMPTON + 45TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96922682209,
+          43.104549282461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "967",
+        "name": "HAMPTON + 47TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.971658488755,
+          43.10454978259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "966",
+        "name": "HAMPTON + 48TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.972797550927,
+          43.104549282462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "965",
+        "name": "HAMPTON + 49TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97452551984,
+          43.104549782589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "964",
+        "name": "HAMPTON + 51ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.976961977512,
+          43.104558115925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "963",
+        "name": "HAMPTON + 53RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.979225155423,
+          43.104578199071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "962",
+        "name": "HAMPTON + 55TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98163588426,
+          43.104577532664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "961",
+        "name": "HAMPTON + 57TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.983935519842,
+          43.104590282735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "960",
+        "name": "HAMPTON + 60TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.986794999998,
+          43.104629948876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "959",
+        "name": "HAMPTON + 6200 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.988766666668,
+          43.104653282208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "958",
+        "name": "HAMPTON + 64TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.991532186506,
+          43.104684282492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "956",
+        "name": "HAMPTON + 68TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.996813697751,
+          43.104795449026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "955",
+        "name": "HAMPTON + 70TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99954275992,
+          43.104804782676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "954",
+        "name": "HAMPTON + 72ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.002148853173,
+          43.104832532767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "953",
+        "name": "HAMPTON + 74TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004717968915,
+          43.104871532447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "952",
+        "name": "HAMPTON + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006059426588,
+          43.104894865786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "951",
+        "name": "HAMPTON + 79TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.010710728834,
+          43.10488703262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "950",
+        "name": "HAMPTON + 81ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01316494643,
+          43.10488703262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "946",
+        "name": "HAMPTON + 87TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.021031666666,
+          43.1048682822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "945",
+        "name": "HAMPTON + 90TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.024829999999,
+          43.104859948866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "949",
+        "name": "HAMPTON + APPLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.016305728835,
+          43.104894865786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "957",
+        "name": "HAMPTON + FOND DU LAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.995616666668,
+          43.104768199098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "947",
+        "name": "HAMPTON + GRANTOSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.018789999999,
+          43.104883282199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "972",
+        "name": "HAMPTON + HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.960023542326,
+          43.104565449006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "969",
+        "name": "HAMPTON + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.966864946428,
+          43.104534782584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "976",
+        "name": "HAMPTON + TEUTONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.946603697751,
+          43.10423669964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7709",
+        "name": "MICHIGAN + DOWNTOWN TRANSIT CTR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900223424604,
+          43.037734387271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "906",
+        "name": "SHERMAN + DOUGLAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.966207395502,
+          43.129858359449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "907",
+        "name": "SHERMAN + FLORIST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.966280884261,
+          43.127122857079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5777",
+        "name": "SHERMAN + MILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.966122031086,
+          43.133382273387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "905",
+        "name": "SHERMAN + MONROVIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.966249791004,
+          43.128386693127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "865",
+        "name": "TEUTONIA + 20TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.937214115741,
+          43.086535880496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "862",
+        "name": "TEUTONIA + 21ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.940186822091,
+          43.091924209123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "844",
+        "name": "TEUTONIA + 6200 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.952368333332,
+          43.129933281156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "843",
+        "name": "TEUTONIA + 6400 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.953560000001,
+          43.13555994759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "860",
+        "name": "TEUTONIA + ATKINSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.940951248679,
+          43.093276032025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4807",
+        "name": "TEUTONIA + BRADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.963462759921,
+          43.163253064166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "870",
+        "name": "TEUTONIA + BURLEIGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.931821511242,
+          43.075088461052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2427",
+        "name": "TEUTONIA + CALUMET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.959154426588,
+          43.155983426624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "853",
+        "name": "TEUTONIA + CAMERON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.948144271162,
+          43.107402281119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "863",
+        "name": "TEUTONIA + CAPITOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939021511241,
+          43.089902458256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "874",
+        "name": "TEUTONIA + CENTER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929282449076,
+          43.067785626245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "871",
+        "name": "TEUTONIA + CHAMBERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93120687566,
+          43.073597876433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "875",
+        "name": "TEUTONIA + CLARKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92905005357,
+          43.065964636416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8280",
+        "name": "TEUTONIA + CLINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957619217592,
+          43.15102118177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "868",
+        "name": "TEUTONIA + CONCORDIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933119999999,
+          43.079086616611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "858",
+        "name": "TEUTONIA + CONGRESS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.943032968917,
+          43.097428950753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "856",
+        "name": "TEUTONIA + CORNELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.945533333333,
+          43.102364948971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "850",
+        "name": "TEUTONIA + CUSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950316666666,
+          43.114944948446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "842",
+        "name": "TEUTONIA + ELM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.954116666665,
+          43.13838161414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "852",
+        "name": "TEUTONIA + FAIRMOUNT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.948600000001,
+          43.108300614185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "912",
+        "name": "TEUTONIA + FLORIST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.952001666668,
+          43.126619947963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7708",
+        "name": "TEUTONIA + GOOD HOPE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956468333335,
+          43.147568280426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "841",
+        "name": "TEUTONIA + GREEN TREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.954736666665,
+          43.141376614016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "873",
+        "name": "TEUTONIA + HADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929882084655,
+          43.069641390902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "855",
+        "name": "TEUTONIA + HAMPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.946772759921,
+          43.104668948599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2428",
+        "name": "TEUTONIA + HEMLOCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95825906217,
+          43.153095020691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "867",
+        "name": "TEUTONIA + KEEFE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.934973488759,
+          43.082436206571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "839",
+        "name": "TEUTONIA + KILEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.955705000002,
+          43.145096613861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "872",
+        "name": "TEUTONIA + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.930257813492,
+          43.070669950297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "877",
+        "name": "TEUTONIA + MEINECKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928668906746,
+          43.062667789202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "864",
+        "name": "TEUTONIA + MELVINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938041875663,
+          43.088034126195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "866",
+        "name": "TEUTONIA + NASH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.936315,
+          43.084864949701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "878",
+        "name": "TEUTONIA + NORTH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928160000001,
+          43.060521306097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "846",
+        "name": "TEUTONIA + ORIOLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.951478333334,
+          43.12385328141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3034",
+        "name": "TEUTONIA + PARKLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.960379426588,
+          43.159611685835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "869",
+        "name": "TEUTONIA + RING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932435573414,
+          43.076666705212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "859",
+        "name": "TEUTONIA + ROOSEVELT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.942083333335,
+          43.095561615921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "857",
+        "name": "TEUTONIA + RUBY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.943843022488,
+          43.099085370119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "849",
+        "name": "TEUTONIA + SHERIDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950491666667,
+          43.117026615025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "848",
+        "name": "TEUTONIA + SILVER SPRING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950730573412,
+          43.119482277523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "854",
+        "name": "TEUTONIA + STARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.947662240079,
+          43.106472281396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "847",
+        "name": "TEUTONIA + THURSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950958697753,
+          43.121080108145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "840",
+        "name": "TEUTONIA + VERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.955308333334,
+          43.143609947257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "851",
+        "name": "TEUTONIA + VILLARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950063333334,
+          43.111956615238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "876",
+        "name": "TEUTONIA + WRIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928826720237,
+          43.064164728315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "59",
+        "name": "WISCONSIN + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.923661146825,
+          43.038595634938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4345",
+        "name": "WISCONSIN + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919259426588,
+          43.038779977578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "65",
+        "name": "WISCONSIN + MILWAUKEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907232084656,
+          43.038684977375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "62",
+        "name": "WISCONSIN + OLD WORLD 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914745000001,
+          43.038766822736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4348",
+        "name": "WISCONSIN + PLANKINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910676666665,
+          43.03874661831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "403",
+        "name": "WISCONSIN + VAN BUREN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.902973177909,
+          43.03891859835
+        ]
+      }
+    }
+  ]
+}

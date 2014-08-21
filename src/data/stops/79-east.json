@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "79",
+    "name": "Menomonee Falls Flyer",
+    "color": "#008658",
+    "direction": "EAST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2164",
+        "name": "16TH STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932908435184,
+          43.038416522491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7327",
+        "name": "APPLETON + ARTHUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.111939217592,
+          43.173969157744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7054",
+        "name": "APPLETON + ELM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.100807186506,
+          43.167254153718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7049",
+        "name": "APPLETON + GARFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.116468697752,
+          43.17802756254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2818",
+        "name": "APPLETON + JACOBSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.113893124339,
+          43.175586913327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7051",
+        "name": "APPLETON + MILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.114858279764,
+          43.176495964573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7057",
+        "name": "APPLETON + NORTHPOINT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.085283124338,
+          43.156191973685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7053",
+        "name": "APPLETON + PILGRIM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.103297341929,
+          43.168963646369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7055",
+        "name": "APPLETON + UNIVERSITY DRIVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.095784946427,
+          43.163714223378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7056",
+        "name": "APPLETON + WOOSENCRAFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.090045519841,
+          43.159593641954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7710",
+        "name": "DOWNTOWN TRANSIT CTR + TRANSIT CENTER BAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899899999999,
+          43.037489951695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7058",
+        "name": "GOOD HOPE + APPLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.072232604496,
+          43.148148636563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8245",
+        "name": "GOOD HOPE + PARK & RIDE LOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.057432599207,
+          43.146873259996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7047",
+        "name": "MAIN + MADISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.109485573411,
+          43.179270180317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7048",
+        "name": "MAIN + MILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.114873386905,
+          43.179234601799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7709",
+        "name": "MICHIGAN + DOWNTOWN TRANSIT CTR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900223424604,
+          43.037734387271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7901",
+        "name": "PILGRIM + PARK & RIDE LOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.103317759922,
+          43.18519707596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7046",
+        "name": "PILGRIN + MAIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.103883595899,
+          43.179414161009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2817",
+        "name": "WATERTOWN PLANK + PARK & RIDE LOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.038075884258,
+          43.044377654856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp85",
+        "name": "WISCONSIN + 10TH STREET NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924583333333,
+          43.038643284979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "891",
+        "name": "WISCONSIN + 12TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92741864418,
+          43.038575456055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4345",
+        "name": "WISCONSIN + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919259426588,
+          43.038779977578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7805",
+        "name": "WISCONSIN + CASS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901775519841,
+          43.038989964792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4350",
+        "name": "WISCONSIN + JEFFERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905844480157,
+          43.038763994091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "62",
+        "name": "WISCONSIN + OLD WORLD 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914745000001,
+          43.038766822736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "63",
+        "name": "WISCONSIN + PLANKINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911364791007,
+          43.038738585149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64",
+        "name": "WISCONSIN + WATER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909309426588,
+          43.038575947753
+        ]
+      }
+    }
+  ]
+}

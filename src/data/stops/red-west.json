@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "RED",
+    "name": "Capitol Drive MetroEXpress",
+    "color": "#ed1c24",
+    "direction": "WEST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5955",
+        "name": "124TH STREET + PICK N SAVE LOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.068810000002,
+          43.088178282897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6115",
+        "name": "CAPITOL + 100TH ST - LISBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.037476929233,
+          43.089798440209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6120",
+        "name": "CAPITOL + 110TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.050801720238,
+          43.089645361716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4869",
+        "name": "CAPITOL + 11800 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.059899791007,
+          43.089104365266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6078",
+        "name": "CAPITOL + 27TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.946762031085,
+          43.089898695117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6066",
+        "name": "CAPITOL + 2ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911837240077,
+          43.089374193158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3031",
+        "name": "CAPITOL + 35TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956898333334,
+          43.089954193392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6091",
+        "name": "CAPITOL + 56TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.983007968913,
+          43.090057200352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6094",
+        "name": "CAPITOL + 60TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.986731720236,
+          43.090096702073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6099",
+        "name": "CAPITOL + 68TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.996941511244,
+          43.090073867015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6103",
+        "name": "CAPITOL + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007001564816,
+          43.090029949487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6104",
+        "name": "CAPITOL + 79TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.010816044971,
+          43.090002698618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6105",
+        "name": "CAPITOL + 81ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.013772138225,
+          43.089958952976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6107",
+        "name": "CAPITOL + 84TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017371248677,
+          43.089933472276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6109",
+        "name": "CAPITOL + 88TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.022503542327,
+          43.08984481285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6111",
+        "name": "CAPITOL + 92ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027489844578,
+          43.08979422874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6113",
+        "name": "CAPITOL + 96TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.032697813492,
+          43.089797149852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3010",
+        "name": "CAPITOL + ATKINSON-19TH PLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.935560262567,
+          43.089681444171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4525",
+        "name": "CAPITOL + ESTABROOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897674999999,
+          43.089251942194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6088",
+        "name": "CAPITOL + FOND DU LAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.976193333334,
+          43.089989949488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6117",
+        "name": "CAPITOL + GRANTOSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.042090626986,
+          43.089792734088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6069",
+        "name": "CAPITOL + GREEN BAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.922553285053,
+          43.089462852657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6063",
+        "name": "CAPITOL + HOLTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904683333335,
+          43.089323282848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6062",
+        "name": "CAPITOL + HUMBOLDT - FRATNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90095317791,
+          43.089275275539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2376",
+        "name": "CAPITOL + MARYLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882314635582,
+          43.089240189443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6119",
+        "name": "CAPITOL + MAYFAIR ROAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.047379115739,
+          43.089781479657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6060",
+        "name": "CAPITOL + MORRIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.892115937832,
+          43.089211271841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2377",
+        "name": "CAPITOL + MURRAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.884864426587,
+          43.089239691273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6095",
+        "name": "CAPITOL + OAKLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.886892968915,
+          43.089220601521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6067",
+        "name": "CAPITOL + PORT WASHINGTON ROAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916787089944,
+          43.08968551599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp104",
+        "name": "CAPITOL + PROSPECT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879888333332,
+          43.089298282851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6064",
+        "name": "CAPITOL + RICHARDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90707906217,
+          43.089347440422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6085",
+        "name": "CAPITOL + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.966740937832,
+          43.08992711441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6075",
+        "name": "CAPITOL + TEUTONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938619373018,
+          43.089740859975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6061",
+        "name": "CAPITOL + WILSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894908333332,
+          43.089236099709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2372",
+        "name": "DOWNER + BEVERLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.877579062168,
+          43.086013196285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2374",
+        "name": "DOWNER + CAPITOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.877488333334,
+          43.089154949523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7750",
+        "name": "EDGEWOOD + DOWNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.877944062169,
+          43.081885419357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3657",
+        "name": "KENWOOD + PROSPECT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.880873333333,
+          43.074723461205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4372",
+        "name": "MARYLAND + EDGEWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882638333334,
+          43.081788283166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4370",
+        "name": "MARYLAND + HARTFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882763960317,
+          43.077563868341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4369",
+        "name": "MARYLAND + KENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882828333334,
+          43.075248283438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4371",
+        "name": "MARYLAND + NEWPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882727968916,
+          43.079069949945
+        ]
+      }
+    }
+  ]
+}

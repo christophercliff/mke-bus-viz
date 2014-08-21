@@ -1,0 +1,1873 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "67",
+    "name": "N. 76th-S. 84th & S. 92nd",
+    "color": "#ffdd00",
+    "direction": "SOUTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6800",
+        "name": "76TH STREET + 9000 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004511875662,
+          43.182782768833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6318",
+        "name": "76TH STREET + ACACIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005837706347,
+          43.137928280826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6335",
+        "name": "76TH STREET + APPLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007303697752,
+          43.094301701091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6321",
+        "name": "76TH STREET + BOBOLINK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006123333333,
+          43.125133281355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "37",
+        "name": "76TH STREET + BRADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004803333332,
+          43.163463279768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6344",
+        "name": "76TH STREET + BURLEIGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007478697752,
+          43.075506209077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "38",
+        "name": "76TH STREET + CALUMET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005136666666,
+          43.156214946735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6337",
+        "name": "76TH STREET + CAPITOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007378333334,
+          43.090061616152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6322",
+        "name": "76TH STREET + CARMEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006123333334,
+          43.123321614764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6348",
+        "name": "76TH STREET + CENTER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007542550927,
+          43.068134454938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6345",
+        "name": "76TH STREET + CHAMBERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007504999999,
+          43.073571616843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6316",
+        "name": "76TH STREET + CLINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00534869775,
+          43.151922774058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6319",
+        "name": "76TH STREET + CLOVERNOOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005889217594,
+          43.135909947575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6334",
+        "name": "76TH STREET + CONGRESS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007224271164,
+          43.097333950783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6331",
+        "name": "76TH STREET + COURTLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007076666667,
+          43.103111615608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "36",
+        "name": "76TH STREET + DEAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004676666665,
+          43.170734946137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6317",
+        "name": "76TH STREET + DENVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005662706348,
+          43.143467119036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6328",
+        "name": "76TH STREET + FAIRMOUNT - PALMETTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006222604496,
+          43.108741197059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6336",
+        "name": "76TH STREET + FIEBRANTZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007356822091,
+          43.091985619041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "42",
+        "name": "76TH STREET + FLORIST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00609,
+          43.127008281277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6325",
+        "name": "76TH STREET + FOND DU LAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006186666666,
+          43.113753281829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6332",
+        "name": "76TH STREET + GLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007123333334,
+          43.101156615689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "39",
+        "name": "76TH STREET + GOOD HOPE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005491977513,
+          43.148987699941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6327",
+        "name": "76TH STREET + GRANTOSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006201666668,
+          43.110581615296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "40",
+        "name": "76TH STREET + GREEN TREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005731977515,
+          43.141607623743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6347",
+        "name": "76TH STREET + HADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007537186509,
+          43.069935040119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6330",
+        "name": "76TH STREET + HAMPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006600000001,
+          43.105121615523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6341",
+        "name": "76TH STREET + KEEFE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007442240079,
+          43.082722201127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6324",
+        "name": "76TH STREET + LEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006155000001,
+          43.116748281704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6343",
+        "name": "76TH STREET + LISBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007473333334,
+          43.078164949983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6346",
+        "name": "76TH STREET + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007526457673,
+          43.071783462457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6315",
+        "name": "76TH STREET + LOLITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004861875661,
+          43.161960453973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6338",
+        "name": "76TH STREET + MELVINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007393333331,
+          43.088154949565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6340",
+        "name": "76TH STREET + NASH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007426666665,
+          43.084514949719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6333",
+        "name": "76TH STREET + RUBY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007171666665,
+          43.099193282437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6323",
+        "name": "76TH STREET + SHERIDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006155,
+          43.11836161497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "43",
+        "name": "76TH STREET + SILVER SPRING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006155,
+          43.120284948225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6329",
+        "name": "76TH STREET + STARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006239271163,
+          43.106913364808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6314",
+        "name": "76TH STREET + TOWER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004771666665,
+          43.165323279693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6342",
+        "name": "76TH STREET + TOWNSEND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00746906217,
+          43.080639540553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6339",
+        "name": "76TH STREET + VIENNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007410000001,
+          43.086341616307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6326",
+        "name": "76TH STREET + VILLARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006192031085,
+          43.112436696852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6320",
+        "name": "76TH STREET + WINFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005942395504,
+          43.133608358574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6381",
+        "name": "84TH STREET + 3012 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01756724008,
+          42.98972683072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1630",
+        "name": "84TH STREET + ADLER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017424373015,
+          43.026336520686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6376",
+        "name": "84TH STREET + ARTHUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017419062167,
+          42.999307903308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6373",
+        "name": "84TH STREET + BECHER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017254737434,
+          43.006412209223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6380",
+        "name": "84TH STREET + BELOIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017533906746,
+          42.991885058381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6378",
+        "name": "84TH STREET + CLEVELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017486666667,
+          42.995624953472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6388",
+        "name": "84TH STREET + CRAWFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017843124338,
+          42.97568909487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6367",
+        "name": "84TH STREET + DANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017430257276,
+          43.030389363983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6374",
+        "name": "84TH STREET + GRANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017313226192,
+          43.004064465834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2611",
+        "name": "84TH STREET + GREENFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017238644179,
+          43.016780152535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6377",
+        "name": "84TH STREET + HARRISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017450728834,
+          42.997268980583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6384",
+        "name": "84TH STREET + HOLT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017699217591,
+          42.982936242564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6370",
+        "name": "84TH STREET + LAPHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017138279764,
+          43.013072898328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6375",
+        "name": "84TH STREET + LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01733416402,
+          43.002883594432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6379",
+        "name": "84TH STREET + MONTANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017503333335,
+          42.99440162019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6385",
+        "name": "84TH STREET + MORGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017741666668,
+          42.981136620756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "534",
+        "name": "84TH STREET + NATIONAL-MAPLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017201666668,
+          43.010803286159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6368",
+        "name": "84TH STREET + O CONNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017445830688,
+          43.027901422006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6383",
+        "name": "84TH STREET + OHIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017668124338,
+          42.984755757096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6382",
+        "name": "84TH STREET + OKLAHOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01758224008,
+          42.988424468498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6366",
+        "name": "84TH STREET + ORCHARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01711682209,
+          43.014215742677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6372",
+        "name": "84TH STREET + ROGERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017218799602,
+          43.008163977338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1631",
+        "name": "84TH STREET + SCHLINGER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01740822619,
+          43.024056520346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6369",
+        "name": "84TH STREET + WALKER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017275675264,
+          43.021833483718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6386",
+        "name": "84TH STREET + WARNIMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017767915345,
+          42.979297212111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1632",
+        "name": "84TH STREET + WASHINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017244582011,
+          43.01999799519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6387",
+        "name": "84TH STREET + WILBUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017800728835,
+          42.977480169265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6701",
+        "name": "92ND STREET + 1000 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.026313751322,
+          43.043922887167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "515",
+        "name": "92ND STREET + 800 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.026304062169,
+          43.041174062811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6492",
+        "name": "92ND STREET + ADLER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027443644178,
+          43.027643481246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1804",
+        "name": "92ND STREET + BECHER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027179008599,
+          43.0064161321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6501",
+        "name": "92ND STREET + BELOIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027634217593,
+          42.986596832051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6498",
+        "name": "92ND STREET + CLEVELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027454373017,
+          42.99514457148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6505",
+        "name": "92ND STREET + CRAWFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027723333334,
+          42.975613287657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6499",
+        "name": "92ND STREET + DAKOTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02751718651,
+          42.99194467738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6491",
+        "name": "92ND STREET + DIXON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027485519841,
+          43.03000446142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "516",
+        "name": "92ND STREET + DOYNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.026356666666,
+          43.040391618239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1800",
+        "name": "92ND STREET + GREENFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027179008599,
+          43.015801819619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6496",
+        "name": "92ND STREET + HAYES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027053547618,
+          43.001564288009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6502",
+        "name": "92ND STREET + HOLT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027596093254,
+          42.98336183343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1806",
+        "name": "92ND STREET + LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027258381613,
+          43.002828107353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1802",
+        "name": "92ND STREET + MITCHELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027130155425,
+          43.012153976147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6503",
+        "name": "92ND STREET + MORGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027724373017,
+          42.981101727572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6489",
+        "name": "92ND STREET + MOUNT VERNON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027501093254,
+          43.034192302915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1805",
+        "name": "92ND STREET + NATIONAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027195101854,
+          43.005005542705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6500",
+        "name": "92ND STREET + OKLAHOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027591822089,
+          42.988416345998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1801",
+        "name": "92ND STREET + ORCHARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027125884259,
+          43.013894665235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1803",
+        "name": "92ND STREET + ROGERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027168279761,
+          43.008243204944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6493",
+        "name": "92ND STREET + SCHLINGER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027432915344,
+          43.023935540694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6490",
+        "name": "92ND STREET + STEVENSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027490364417,
+          43.032153382289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6494",
+        "name": "92ND STREET + WALKER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027432915342,
+          43.021726718062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6495",
+        "name": "92ND STREET + WASHINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027395310846,
+          43.019938583905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6504",
+        "name": "92ND STREET + WILBUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027707813492,
+          42.977445545641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "518",
+        "name": "92ND STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027347084656,
+          43.03867465152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6488",
+        "name": "BLUEMOUND + 92ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027808697751,
+          43.035782707114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6487",
+        "name": "BLUEMOUND + 94TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.030282240078,
+          43.035487899555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2782",
+        "name": "BLUEMOUND + 9600 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.032681666668,
+          43.035190346598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6364",
+        "name": "GLENVIEW + BLUEMOUND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01606734193,
+          43.036322302281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6362",
+        "name": "GLENVIEW + CURRIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.013799999998,
+          43.042561618148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6361",
+        "name": "GLENVIEW + GRIDLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.013195000001,
+          43.044213284745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2523",
+        "name": "GLENVIEW + HARWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.012538542327,
+          43.047023378809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2524",
+        "name": "GLENVIEW + HAWTHORNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017371195106,
+          43.031836224872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6365",
+        "name": "GLENVIEW + HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017079737434,
+          43.033433575573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6363",
+        "name": "GLENVIEW + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.015194008598,
+          43.038813572254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6359",
+        "name": "HARMONEE + HARWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.010826666665,
+          43.048283284574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6358",
+        "name": "HARMONEE + MENOMONEE RIVER PKWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.009100364418,
+          43.050196992143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6482",
+        "name": "HARWOOD + CHESTNUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.014917604496,
+          43.046372509052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6481",
+        "name": "HARWOOD + GLENVIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.012396302249,
+          43.04743701666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8236",
+        "name": "HOWARD + 84TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.018276302247,
+          42.973821729277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "308",
+        "name": "HOWARD + 84TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.018425,
+          42.97364995441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2700",
+        "name": "HOWARD + 8606 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.020983906745,
+          42.973685762515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2699",
+        "name": "HOWARD + 89TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.024226666667,
+          42.973678129066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2698",
+        "name": "HOWARD + 92ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027119426586,
+          42.973591512827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6799",
+        "name": "NORTHRIDGE LAKES + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005106613094,
+          43.184357497305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "136",
+        "name": "NORTHRIDGE MALL + 8825 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007886720239,
+          43.180208004633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2618",
+        "name": "SERVITE + BROWN DEER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.009062240078,
+          43.178420317492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6484",
+        "name": "WATERTOWN PLANK + 86TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.019277449072,
+          43.045958682917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6485",
+        "name": "WATERTOWN PLANK + 87TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02040630225,
+          43.045906429217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "512",
+        "name": "WATERTOWN PLANK + 8948 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.023495,
+          43.04558161802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6483",
+        "name": "WATERTOWN PLANK + ELM LAWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.016883333333,
+          43.046033284667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6349",
+        "name": "WAUWATOSA AVENUE + CLARKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007533435186,
+          43.066311212401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6353",
+        "name": "WAUWATOSA AVENUE + GARFIELD - STICKNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007506613095,
+          43.058764456532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6357",
+        "name": "WAUWATOSA AVENUE + HARMONEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007458279761,
+          43.050988377884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6355",
+        "name": "WAUWATOSA AVENUE + HILLCREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007469582011,
+          43.055368376857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6351",
+        "name": "WAUWATOSA AVENUE + MEINECKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007553799602,
+          43.062809950629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6356",
+        "name": "WAUWATOSA AVENUE + MILWAUKEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007469582011,
+          43.052773284385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6352",
+        "name": "WAUWATOSA AVENUE + NORTH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007585,
+          43.060863284044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6354",
+        "name": "WAUWATOSA AVENUE + ROGERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007479791005,
+          43.057700135119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6350",
+        "name": "WAUWATOSA AVENUE + WRIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007544164022,
+          43.064542788884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2911",
+        "name": "WISCONSIN + 94TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.030074999998,
+          43.038452793317
+        ]
+      }
+    }
+  ]
+}

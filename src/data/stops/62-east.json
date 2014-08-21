@@ -1,0 +1,571 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "62",
+    "name": "Capitol Drive (Local)",
+    "color": "#812990",
+    "direction": "EAST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6048",
+        "name": "CAPITOL + 12TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925892031083,
+          43.089285705926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6047",
+        "name": "CAPITOL + 14TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928377395502,
+          43.08932245865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6046",
+        "name": "CAPITOL + 16TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93083,
+          43.089376960436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6045",
+        "name": "CAPITOL + 18TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933295,
+          43.089414039196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6042",
+        "name": "CAPITOL + 24TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.942099426586,
+          43.089595705773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6041",
+        "name": "CAPITOL + 25TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.944807550924,
+          43.08964895307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3051",
+        "name": "CAPITOL + 27TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.947165675265,
+          43.089685515989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6039",
+        "name": "CAPITOL + 29TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.949549062168,
+          43.089706874164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6052",
+        "name": "CAPITOL + 2ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912111511244,
+          43.089191204127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6038",
+        "name": "CAPITOL + 31ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.952246457671,
+          43.089727458375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6037",
+        "name": "CAPITOL + 35TH ST - 34TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95596,
+          43.089679949501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6036",
+        "name": "CAPITOL + 37TH ST - ELMHURST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.959616093255,
+          43.089731530175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6035",
+        "name": "CAPITOL + 39TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.962191613096,
+          43.089723368827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6034",
+        "name": "CAPITOL + 41ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964256666665,
+          43.089711616168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6032",
+        "name": "CAPITOL + 46TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.971155519842,
+          43.08972728638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6031",
+        "name": "CAPITOL + 48TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.973618853174,
+          43.089747200384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6029",
+        "name": "CAPITOL + 52ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.978418333333,
+          43.08978328283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6028",
+        "name": "CAPITOL + 54TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.980786666666,
+          43.08980828283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6027",
+        "name": "CAPITOL + 56TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.983361666667,
+          43.08984661616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6023",
+        "name": "CAPITOL + 60TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.987189008599,
+          43.089867526692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6022",
+        "name": "CAPITOL + 62ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.989662550926,
+          43.089848110893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6021",
+        "name": "CAPITOL + 64TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.992194062169,
+          43.089843695102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6020",
+        "name": "CAPITOL + 66TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99474275992,
+          43.089835860012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6019",
+        "name": "CAPITOL + 68TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.997275310846,
+          43.089831942465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6018",
+        "name": "CAPITOL + 70TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.999591093253,
+          43.089824605618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6017",
+        "name": "CAPITOL + 72ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.002032395502,
+          43.089816770525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6476",
+        "name": "CAPITOL + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006640782407,
+          43.089808609121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6050",
+        "name": "CAPITOL + 7TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919646457673,
+          43.089231204114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6016",
+        "name": "CAPITOL + APPLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004315937832,
+          43.08980092841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6044",
+        "name": "CAPITOL + ATKINSON-19TH PLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93581630225,
+          43.089471185999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6030",
+        "name": "CAPITOL + FOND DU LAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.976512186506,
+          43.089772852942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6049",
+        "name": "CAPITOL + GREEN BAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.922851613096,
+          43.089267114353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1028",
+        "name": "CAPITOL + HOLTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905087550925,
+          43.089132440293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6053",
+        "name": "CAPITOL + PALMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909838697751,
+          43.089163129128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8069",
+        "name": "CAPITOL + PORT WASHINGTON ROAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91730494643,
+          43.089001530065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1027",
+        "name": "CAPITOL + RICHARDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906834791004,
+          43.089144193066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6033",
+        "name": "CAPITOL + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.967410257276,
+          43.089709021317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6043",
+        "name": "CAPITOL + TEUTONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938889426586,
+          43.089541856308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6475",
+        "name": "FIEBRANTZ + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006752449072,
+          43.091882114581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6479",
+        "name": "FRATNEY + CAPITOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900901666668,
+          43.088511616218
+        ]
+      }
+    }
+  ]
+}

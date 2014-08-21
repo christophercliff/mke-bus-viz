@@ -1,0 +1,1117 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "57",
+    "name": "Walnut-N. 92nd",
+    "color": "#007dc5",
+    "direction": "WEST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3003",
+        "name": "4TH STREET + MICHIGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916002132938,
+          43.037227985653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5578",
+        "name": "92ND STREET + 3871 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027569791006,
+          43.087665533937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5573",
+        "name": "92ND STREET + AUER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027462449073,
+          43.076856705168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5572",
+        "name": "92ND STREET + BURLEIGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02743724008,
+          43.074902201954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5579",
+        "name": "92ND STREET + CAPITOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027583912036,
+          43.08947278465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5571",
+        "name": "92ND STREET + CHAMBERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027405053572,
+          43.073130535475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5574",
+        "name": "92ND STREET + CONCORDIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02748448016,
+          43.078668868222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5583",
+        "name": "92ND STREET + CONGRESS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027499999999,
+          43.096856615867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5580",
+        "name": "92ND STREET + FIEBRANTZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027561934521,
+          43.091580447886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "154",
+        "name": "92ND STREET + GLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027421666668,
+          43.101228282352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2252",
+        "name": "92ND STREET + GRANTOSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027453333333,
+          43.099399949094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190",
+        "name": "92ND STREET + GRANTOSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027717395504,
+          43.099875616693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5569",
+        "name": "92ND STREET + HADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027399689152,
+          43.069553373541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5581",
+        "name": "92ND STREET + HOPE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027548333335,
+          43.093304949348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5576",
+        "name": "92ND STREET + KEEFE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027548333334,
+          43.082233283145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5577",
+        "name": "92ND STREET + LISBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027554791004,
+          43.0847454473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5570",
+        "name": "92ND STREET + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027394324734,
+          43.071286527408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5582",
+        "name": "92ND STREET + MARION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027516666668,
+          43.094988282611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5575",
+        "name": "92ND STREET + TOWNSEND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027522604496,
+          43.080473195452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3777",
+        "name": "BLAINE + CENTER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.989709324735,
+          43.068187698137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3776",
+        "name": "CENTER STREET + 60TH ST - LISBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.987171302249,
+          43.068100670927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5553",
+        "name": "CENTER STREET + 62ND ST - BLAINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.989593333333,
+          43.068072247435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5554",
+        "name": "CENTER STREET + 64TH ST - CARLTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.991928906746,
+          43.068072607993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5555",
+        "name": "CENTER STREET + 66TH ST - SHOLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.994646666665,
+          43.068068689052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5556",
+        "name": "CENTER STREET + 68TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.997232968917,
+          43.068064770116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5557",
+        "name": "CENTER STREET + 70TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.999495,
+          43.068068689054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5558",
+        "name": "CENTER STREET + 72ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.001709271165,
+          43.06805693224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5559",
+        "name": "CENTER STREET + 73RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004924635582,
+          43.068068689053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5560",
+        "name": "CENTER STREET + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007192604496,
+          43.068068689053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5561",
+        "name": "CENTER STREET + 78TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00978963558,
+          43.068035851168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5562",
+        "name": "CENTER STREET + 80TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.012305,
+          43.068000265545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5563",
+        "name": "CENTER STREET + 82ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.014779635582,
+          43.067968103417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5564",
+        "name": "CENTER STREET + 84TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017263906746,
+          43.067932022348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5565",
+        "name": "CENTER STREET + 86TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.019877031083,
+          43.067889770056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5566",
+        "name": "CENTER STREET + 88TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.022355937831,
+          43.067857607945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5567",
+        "name": "CENTER STREET + 90TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.024825208995,
+          43.067817607937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5568",
+        "name": "CENTER STREET + 92ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027293333332,
+          43.067777607927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5552",
+        "name": "CENTER STREET + APPLETON - 56TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.985805208993,
+          43.068060986087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3055",
+        "name": "CHERRY + RIVER CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911991195105,
+          43.04912997538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1970",
+        "name": "KING DRIVE + GALENA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91425869775,
+          43.051124857723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5538",
+        "name": "LISBON + 25TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.945056146825,
+          43.053241124135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5539",
+        "name": "LISBON + 27TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.947488333333,
+          43.053519951018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5540",
+        "name": "LISBON + 29TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.949876511242,
+          43.053797790708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5541",
+        "name": "LISBON + 31ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.952526666665,
+          43.054108284327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5542",
+        "name": "LISBON + 33RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.955118333335,
+          43.054409950981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5543",
+        "name": "LISBON + 35TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957533333333,
+          43.05467995097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5544",
+        "name": "LISBON + 37TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.959918333334,
+          43.05494995096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5545",
+        "name": "LISBON + 39TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.962301666665,
+          43.055236309022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4242",
+        "name": "LISBON + 41ST ST - BROWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964654999999,
+          43.0563249509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5546",
+        "name": "LISBON + 45TH ST - GARFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.970043333334,
+          43.059114950782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5547",
+        "name": "LISBON + 49TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.974890000001,
+          43.061599676526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5548",
+        "name": "LISBON + 51ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.977481666665,
+          43.062953283955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5549",
+        "name": "LISBON + 53RD ST - WRIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.979775937832,
+          43.064119496078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5550",
+        "name": "LISBON + 55TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.981851666665,
+          43.065266617191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5551",
+        "name": "LISBON + 56TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.983309635584,
+          43.066009183679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4789",
+        "name": "LISBON + NORTH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97273911574,
+          43.060576306066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4243",
+        "name": "LISBON + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.967409271165,
+          43.057790721343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1020",
+        "name": "MICHIGAN + 2ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913160937832,
+          43.037376629775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5721",
+        "name": "MICHIGAN + PLANKINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911348697752,
+          43.037364375534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1017",
+        "name": "SAINT PAUL + 5TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91711869775,
+          43.034638197038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5530",
+        "name": "WALNUT + 12TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926919999999,
+          43.052726245379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5531",
+        "name": "WALNUT + 14TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.930098906747,
+          43.052698992109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5532",
+        "name": "WALNUT + 15TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.931276093256,
+          43.052706831948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5533",
+        "name": "WALNUT + 17TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933659426588,
+          43.05274143155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5534",
+        "name": "WALNUT + 18TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.935106093254,
+          43.052761031135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5535",
+        "name": "WALNUT + 20TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.937585000002,
+          43.052773284383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5536",
+        "name": "WALNUT + 22ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.940065,
+          43.052788284382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5537",
+        "name": "WALNUT + 24TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.942619635583,
+          43.052812790875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5526",
+        "name": "WALNUT + 5TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917092968915,
+          43.052658992078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5527",
+        "name": "WALNUT + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918338333335,
+          43.052667325416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5528",
+        "name": "WALNUT + 7TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91992130225,
+          43.052663405493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5529",
+        "name": "WALNUT + 850 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.922803333332,
+          43.052698498608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5525",
+        "name": "WALNUT + KING DRIVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914903906747,
+          43.052674485584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1318",
+        "name": "WATER STREET + JUNEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910912920635,
+          43.045597299521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "707",
+        "name": "WATER STREET + KNAPP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910920364418,
+          43.046896523759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "737",
+        "name": "WATER STREET + MASON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909182706351,
+          43.039715443434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1317",
+        "name": "WATER STREET + STATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91058547156,
+          43.04333572842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "738",
+        "name": "WATER STREET + WELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909563853173,
+          43.04094025285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "736",
+        "name": "WATER STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909013590611,
+          43.038356126667
+        ]
+      }
+    }
+  ]
+}

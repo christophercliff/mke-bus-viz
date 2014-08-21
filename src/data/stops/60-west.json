@@ -1,0 +1,1089 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "60",
+    "name": "Burleigh Street",
+    "color": "#b41e8e",
+    "direction": "WEST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5844",
+        "name": "124TH STREET + 3200 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.066409480158,
+          43.07630954212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "302",
+        "name": "124TH STREET + ROBIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.066378386904,
+          43.077901296476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8476",
+        "name": "124TH STREET + TOWNSEND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.066340782407,
+          43.079615037855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp89",
+        "name": "124TH STREET + WIRTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.066283333334,
+          43.083639949755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5782",
+        "name": "BREMEN + BURLEIGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900248906745,
+          43.074604950133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5781",
+        "name": "BREMEN + CHAMBERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900270937829,
+          43.072811527638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5834",
+        "name": "BURLEIGH + 102ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.040533906745,
+          43.07502562409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5835",
+        "name": "BURLEIGH + 104TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.042998333334,
+          43.074953283452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5836",
+        "name": "BURLEIGH + 106TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.045679062168,
+          43.074894223995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5790",
+        "name": "BURLEIGH + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.923678333335,
+          43.07490351329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5838",
+        "name": "BURLEIGH + 112TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.052630000002,
+          43.074763283459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5839",
+        "name": "BURLEIGH + 114TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.055825000001,
+          43.074714950129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5840",
+        "name": "BURLEIGH + 119TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.061055,
+          43.074643283463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "375",
+        "name": "BURLEIGH + 122ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.064890364418,
+          43.074581439009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5843",
+        "name": "BURLEIGH + 124TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.066309635583,
+          43.074568194569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5791",
+        "name": "BURLEIGH + 12TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926121302249,
+          43.074942520636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5792",
+        "name": "BURLEIGH + 14TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928579271163,
+          43.074978105811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5793",
+        "name": "BURLEIGH + 16TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.931068333335,
+          43.074998513353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5786",
+        "name": "BURLEIGH + 1ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910851666667,
+          43.07482661679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5795",
+        "name": "BURLEIGH + 20TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.937268333334,
+          43.07512094283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5796",
+        "name": "BURLEIGH + 22ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939735937832,
+          43.075148194655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5797",
+        "name": "BURLEIGH + 24TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94224224008,
+          43.07518819466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5798",
+        "name": "BURLEIGH + 25TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.944716302249,
+          43.075228691042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5799",
+        "name": "BURLEIGH + 27TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.947144271163,
+          43.075260357719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5800",
+        "name": "BURLEIGH + 30TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950873333332,
+          43.075260357718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5801",
+        "name": "BURLEIGH + 33RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.954942240078,
+          43.075247609525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5802",
+        "name": "BURLEIGH + 35TH ST-FOND DU LAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957183906746,
+          43.075251528003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5803",
+        "name": "BURLEIGH + 37TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.959620364417,
+          43.075235854086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5804",
+        "name": "BURLEIGH + 39TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.961999999999,
+          43.075243691046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5805",
+        "name": "BURLEIGH + 41ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964315208993,
+          43.075235854086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5807",
+        "name": "BURLEIGH + 45TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.969781875663,
+          43.075236846846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5808",
+        "name": "BURLEIGH + 47TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.972521666667,
+          43.075247928375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5809",
+        "name": "BURLEIGH + 49TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.974715,
+          43.075276350487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5810",
+        "name": "BURLEIGH + 51ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.977194999999,
+          43.075299683832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5811",
+        "name": "BURLEIGH + 53RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.979663697752,
+          43.075304595084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5812",
+        "name": "BURLEIGH + 55TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.981937604498,
+          43.075331846909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5813",
+        "name": "BURLEIGH + 58TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.984988177912,
+          43.075355676652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5814",
+        "name": "BURLEIGH + 60TH ST - ROOSEVELT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.986986093253,
+          43.075419861362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5815",
+        "name": "BURLEIGH + 62ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.989582604498,
+          43.075379683876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5817",
+        "name": "BURLEIGH + 66TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.993741666668,
+          43.075486616763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5818",
+        "name": "BURLEIGH + 68TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.997190573414,
+          43.075473868559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5788",
+        "name": "BURLEIGH + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918480000002,
+          43.074851935429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5820",
+        "name": "BURLEIGH + 74TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004659999998,
+          43.075454950096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5821",
+        "name": "BURLEIGH + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007139999999,
+          43.075438283432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5822",
+        "name": "BURLEIGH + 78TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.010318333333,
+          43.075391616765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "307",
+        "name": "BURLEIGH + 7TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919863333332,
+          43.074921616785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5823",
+        "name": "BURLEIGH + 80TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.012241666667,
+          43.075366616769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5824",
+        "name": "BURLEIGH + 82ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.014710364417,
+          43.075331528016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5825",
+        "name": "BURLEIGH + 84TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017804999999,
+          43.075294950104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5826",
+        "name": "BURLEIGH + 86TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.019903333335,
+          43.075263283439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5827",
+        "name": "BURLEIGH + 88TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.022398333333,
+          43.075224950108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2496",
+        "name": "BURLEIGH + 8TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.921214999998,
+          43.074946616785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5828",
+        "name": "BURLEIGH + 90TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.024909999998,
+          43.075184950109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5829",
+        "name": "BURLEIGH + 92ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027325573413,
+          43.075152787081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5830",
+        "name": "BURLEIGH + 94TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.029900573414,
+          43.075152290718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5816",
+        "name": "BURLEIGH + APPLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.992316457673,
+          43.075478779835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5831",
+        "name": "BURLEIGH + COLONIAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.032899635583,
+          43.075120942831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5784",
+        "name": "BURLEIGH + HOLTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905064999999,
+          43.074783690919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5787",
+        "name": "BURLEIGH + KING DRIVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913792240081,
+          43.074846527943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5819",
+        "name": "BURLEIGH + LISBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.001211666666,
+          43.07546328343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5837",
+        "name": "BURLEIGH + MAYFAIR ROAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.048730728836,
+          43.074831527941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5832",
+        "name": "BURLEIGH + MENOMONEE RIVER PKWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.035400000001,
+          43.075104950111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5833",
+        "name": "BURLEIGH + MENOMONEE RIVER PKWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.037609999999,
+          43.075081616779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5783",
+        "name": "BURLEIGH + PIERCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.902617759921,
+          43.074778779775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5785",
+        "name": "BURLEIGH + RICHARDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.908080728835,
+          43.074798690923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5806",
+        "name": "BURLEIGH + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.967000728837,
+          43.075204506243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2499",
+        "name": "CHAMBERS + HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933982604499,
+          43.073217023818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5780",
+        "name": "LOCUST + BREMEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900218333334,
+          43.07113094198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5779",
+        "name": "LOCUST + HUMBOLDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897617031086,
+          43.071163104508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4111",
+        "name": "MAYFAIR MALL + NORTHWEST LOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.045716666667,
+          43.06679995046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4109",
+        "name": "MAYFAIR ROAD + 2855 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.048009791005,
+          43.070384950311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4108",
+        "name": "MAYFAIR ROAD + 2979 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.048036093254,
+          43.072490624844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4107",
+        "name": "MAYFAIR ROAD + BURLEIGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.048067759921,
+          43.074143957684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "871",
+        "name": "TEUTONIA + CHAMBERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93120687566,
+          43.073597876433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5845",
+        "name": "WIRTH + 11750 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.061991666668,
+          43.083711616416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp93",
+        "name": "WIRTH + 124TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.065123333335,
+          43.08373494975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp88",
+        "name": "WIRTH + 124TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.065488333333,
+          43.083831616414
+        ]
+      }
+    }
+  ]
+}

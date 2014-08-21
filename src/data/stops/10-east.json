@@ -1,0 +1,1817 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "10",
+    "name": "Humboldt-Wisconsin",
+    "color": "#ed1c24",
+    "direction": "EAST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6486",
+        "name": "87TH STREET + 1100 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.020713906746,
+          43.04471415571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2799",
+        "name": "87TH STREET + COFFEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02009817791,
+          43.041301221448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2974",
+        "name": "87TH STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.019404635582,
+          43.0389366183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6781",
+        "name": "92ND STREET + 1000 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.026230000001,
+          43.043831618093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "569",
+        "name": "92ND STREET + 800 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.026217658067,
+          43.041051618213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CD11",
+        "name": "92ND STREET + CONNELL AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.026218697751,
+          43.042083967233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "568",
+        "name": "92ND STREET + DOYNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.026531666667,
+          43.039887014569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CDP014",
+        "name": "92ND STREET + WATERTOWN PLANK EB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.026175208995,
+          43.044853682612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2507",
+        "name": "92ND STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027262706349,
+          43.038797697497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CDP015",
+        "name": "97TH STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.033730573413,
+          43.038169855789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4464",
+        "name": "ASTOR + JUNEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899697604497,
+          43.045608379143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4462",
+        "name": "ASTOR + KILBOURN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899391613097,
+          43.042985616217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4465",
+        "name": "ASTOR + KNAPP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899681511242,
+          43.046828965818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4466",
+        "name": "ASTOR + OGDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899651457672,
+          43.048027791688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4463",
+        "name": "ASTOR + STATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899517813491,
+          43.043958966675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "564",
+        "name": "BLUEMOUND + 10000 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03820854233,
+          43.034817118318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "563",
+        "name": "BLUEMOUND + 104TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04235041799,
+          43.034625942619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "562",
+        "name": "BLUEMOUND + 106TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.044646302247,
+          43.034806249801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "560",
+        "name": "BLUEMOUND + 110TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.049976093255,
+          43.035184979091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "559",
+        "name": "BLUEMOUND + 112TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.053017031083,
+          43.035417513923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "558",
+        "name": "BLUEMOUND + 114TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.055332759922,
+          43.035631917025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "557",
+        "name": "BLUEMOUND + 116TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05726630225,
+          43.035782215775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "556",
+        "name": "BLUEMOUND + 119TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.060721093254,
+          43.036037707396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "555",
+        "name": "BLUEMOUND + 121ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.062845728835,
+          43.036204374249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "553",
+        "name": "BLUEMOUND + 124TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.067274271164,
+          43.036371041099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "552",
+        "name": "BLUEMOUND + 12821 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.072079635582,
+          43.03605711977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8061",
+        "name": "BLUEMOUND + 15901 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.109770573414,
+          43.035912206088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8060",
+        "name": "BLUEMOUND + 16095 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.112721302247,
+          43.036074845539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "565",
+        "name": "BLUEMOUND + 99TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.036719999999,
+          43.03489613596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "550",
+        "name": "BLUEMOUND + BISHOPS WAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08204093783,
+          43.035774865111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "548",
+        "name": "BLUEMOUND + EASTMOOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.092286666668,
+          43.036521041264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "551",
+        "name": "BLUEMOUND + ELM GROVE ROAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.078363333334,
+          43.035746926751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "547",
+        "name": "BLUEMOUND + ELMRIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.095805364417,
+          43.036653295687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "561",
+        "name": "BLUEMOUND + MAYFAIR ROAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.046430573414,
+          43.034885565842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2489",
+        "name": "BLUEMOUND + MORELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.104775728838,
+          43.035849662798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "549",
+        "name": "BLUEMOUND + SUNNY SLOPE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.086020155424,
+          43.036021532081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "554",
+        "name": "BLUEMOUND + UNDERWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.065758333333,
+          43.03640369064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "546",
+        "name": "BLUEMOUND + WESTMOOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.102289271163,
+          43.035842312148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "544",
+        "name": "BROOKFIELD SQ. DRIVE + EXECUTIVE DRIVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.114031666667,
+          43.030163285339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "540",
+        "name": "BROOKFIELD SQUARE + SOUTHWEST OUTER DRIVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.111938697753,
+          43.031463188118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4489",
+        "name": "CAPITOL + ESTABROOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897436093254,
+          43.089060945814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "545",
+        "name": "EXECUTIVE DRIVE + 200 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.114788488758,
+          43.032673776165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CDP016",
+        "name": "EXECUTIVE DRIVE + BLUEMOND EB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.114755782406,
+          43.034517793985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4487",
+        "name": "HUMBOLDT + ABERT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897758751323,
+          43.087356204791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4481",
+        "name": "HUMBOLDT + AUER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897595573414,
+          43.076432113248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4471",
+        "name": "HUMBOLDT + BRADY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.898067915343,
+          43.053250444595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4480",
+        "name": "HUMBOLDT + BURLEIGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897632084655,
+          43.074647201981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4488",
+        "name": "HUMBOLDT + CAPITOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89933317791,
+          43.088872870909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4478",
+        "name": "HUMBOLDT + CENTER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897721666667,
+          43.067356617103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4479",
+        "name": "HUMBOLDT + CHAMBERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897647084654,
+          43.072799950208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4477",
+        "name": "HUMBOLDT + CLARKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897753386903,
+          43.065556526551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4482",
+        "name": "HUMBOLDT + CONCORDIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89754187566,
+          43.078244276832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4469",
+        "name": "HUMBOLDT + GARFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897897706349,
+          43.059086709323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3811",
+        "name": "HUMBOLDT + HADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897765101853,
+          43.069196031493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4472",
+        "name": "HUMBOLDT + HAMILTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89803994643,
+          43.054357883394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4484",
+        "name": "HUMBOLDT + KEEFE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897440417988,
+          43.081848517885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3812",
+        "name": "HUMBOLDT + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897691093255,
+          43.070964137825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4475",
+        "name": "HUMBOLDT + MEINECKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897801666667,
+          43.061928283998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4474",
+        "name": "HUMBOLDT + NORTH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897876768519,
+          43.060553961733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2778",
+        "name": "HUMBOLDT + OGDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.898162395503,
+          43.04927319078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4468",
+        "name": "HUMBOLDT + PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.898129635581,
+          43.050389270879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4486",
+        "name": "HUMBOLDT + SINGER CIRCLE NORTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89742,
+          43.085166616356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4485",
+        "name": "HUMBOLDT + SINGER CIRCLE SOUTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897436666668,
+          43.084316616393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4483",
+        "name": "HUMBOLDT + TOWNSEND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897498906748,
+          43.079643780192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4473",
+        "name": "HUMBOLDT + WATER STREET - KANE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89797718651,
+          43.056094456985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4476",
+        "name": "HUMBOLDT + WRIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897786146826,
+          43.063737021183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7754",
+        "name": "PORT WASHINGTON ROAD + 5900 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914633906748,
+          43.123869286603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6173",
+        "name": "PORT WASHINGTON ROAD + GLEN BAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916351093253,
+          43.121656375254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4394",
+        "name": "PROSPECT + MASON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899231666668,
+          43.040883284886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4395",
+        "name": "PROSPECT + WELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8992,
+          43.041566618189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4506",
+        "name": "SANTA MONICA + BIRCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9066759914,
+          43.115902197619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4501",
+        "name": "SANTA MONICA + CHATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90692505357,
+          43.105713699515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4502",
+        "name": "SANTA MONICA + FAIRMOUNT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906866564815,
+          43.107554448245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4500",
+        "name": "SANTA MONICA + HAMPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90696635582,
+          43.103874948908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4504",
+        "name": "SANTA MONICA + HENRY CLAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906834844578,
+          43.111209447628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4503",
+        "name": "SANTA MONICA + LANCASTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906850417989,
+          43.109377198308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4505",
+        "name": "SANTA MONICA + LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906750053572,
+          43.113133281856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1370",
+        "name": "SILVER SPRING + BAYSHORE - MOHAWK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913965573413,
+          43.118719285499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1369",
+        "name": "SILVER SPRING + LYDELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911588124337,
+          43.118668201187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1371",
+        "name": "SILVER SPRING + PORT WASHINGTON ROAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916303333333,
+          43.118745128564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1368",
+        "name": "SILVER SPRING + SANTA MONICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907263697752,
+          43.118573703096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6423",
+        "name": "WATERTOWN PLANK + 87TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.020867395504,
+          43.045692414344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "572",
+        "name": "WATERTOWN PLANK + 8900 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.023796666666,
+          43.045299478826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4499",
+        "name": "WILSON + BERKELEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90590135582,
+          43.102327698892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4490",
+        "name": "WILSON + CAPITOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.895025884257,
+          43.089493196807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4495",
+        "name": "WILSON + CONGRESS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899990155422,
+          43.096296700623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4498",
+        "name": "WILSON + COURTLAND - DIVERSEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904121355822,
+          43.101052615048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4497",
+        "name": "WILSON + GLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.902494898149,
+          43.099607115244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4496",
+        "name": "WILSON + KENSINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901170573412,
+          43.098057614405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4491",
+        "name": "WILSON + OLIVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.896397968914,
+          43.091147527212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4492",
+        "name": "WILSON + OLSEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897213853174,
+          43.092072784208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4494",
+        "name": "WILSON + SHEFFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899370728836,
+          43.095354949263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4493",
+        "name": "WILSON + WILDWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.898284791006,
+          43.093717285191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "59",
+        "name": "WISCONSIN + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.923661146825,
+          43.038595634938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "891",
+        "name": "WISCONSIN + 12TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92741864418,
+          43.038575456055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8453",
+        "name": "WISCONSIN + 16TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933109791006,
+          43.038579159889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4343",
+        "name": "WISCONSIN + 18TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.935519426585,
+          43.038580851976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4340",
+        "name": "WISCONSIN + 22ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.940621093253,
+          43.038583789399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4337",
+        "name": "WISCONSIN + 27TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94791775992,
+          43.038607914611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4336",
+        "name": "WISCONSIN + 29TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950529791006,
+          43.03861907679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4334",
+        "name": "WISCONSIN + 32ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.954132759921,
+          43.038623597893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8422",
+        "name": "WISCONSIN + 35TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957184426589,
+          43.038632314349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2324",
+        "name": "WISCONSIN + 36TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95912224008,
+          43.038644076804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "591",
+        "name": "WISCONSIN + 45TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.969401822088,
+          43.038686522531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "589",
+        "name": "WISCONSIN + 49TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.975372031083,
+          43.038687014233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4346",
+        "name": "WISCONSIN + 4TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916191666667,
+          43.038775565038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "588",
+        "name": "WISCONSIN + 51ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97769369775,
+          43.038690743501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "587",
+        "name": "WISCONSIN + 53RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.980030364419,
+          43.038690251794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "586",
+        "name": "WISCONSIN + 55TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.982181822091,
+          43.038682410162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "584",
+        "name": "WISCONSIN + 60TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.987606666667,
+          43.03875015606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "583",
+        "name": "WISCONSIN + 62ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.990123644179,
+          43.038751139492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "582",
+        "name": "WISCONSIN + 64TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.992353488758,
+          43.038759472834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "581",
+        "name": "WISCONSIN + 66TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.994657395501,
+          43.038770743548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "580",
+        "name": "WISCONSIN + 68TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.997519062169,
+          43.038751139492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "579",
+        "name": "WISCONSIN + 70TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.999992604498,
+          43.038767314454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "578",
+        "name": "WISCONSIN + 72ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.002551457672,
+          43.038779076885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "577",
+        "name": "WISCONSIN + 74TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005015310848,
+          43.038785743557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "576",
+        "name": "WISCONSIN + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007500155423,
+          43.038782806188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "575",
+        "name": "WISCONSIN + 79TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.011118697753,
+          43.038710647743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2633",
+        "name": "WISCONSIN + 94TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.030346666667,
+          43.038294568255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "566",
+        "name": "WISCONSIN + 95TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.031760573414,
+          43.038298489095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4349",
+        "name": "WISCONSIN + BROADWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90804312434,
+          43.038639664286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7805",
+        "name": "WISCONSIN + CASS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901775519841,
+          43.038989964792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "574",
+        "name": "WISCONSIN + GLENVIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01539369775,
+          43.038635743468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "585",
+        "name": "WISCONSIN + HAWLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.983579062168,
+          43.038690743499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "66",
+        "name": "WISCONSIN + JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904832604498,
+          43.038810961114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "60",
+        "name": "WISCONSIN + JAMES LOVELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.920557395502,
+          43.038790347597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "63",
+        "name": "WISCONSIN + PLANKINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911364791007,
+          43.038738585149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "590",
+        "name": "WISCONSIN + WOODLAWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.972914062168,
+          43.038659076815
+        ]
+      }
+    }
+  ]
+}

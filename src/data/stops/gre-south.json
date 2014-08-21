@@ -1,0 +1,949 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "GRE",
+    "name": "Bayshore-Airport MetroEXpress",
+    "color": "#007044",
+    "direction": "SOUTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "644",
+        "name": "1ST STREET + GREENFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911265000001,
+          43.017153285891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "641",
+        "name": "1ST STREET + NATIONAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91127948016,
+          43.023562894531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "638",
+        "name": "1ST STREET + PITTSBURGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911073853175,
+          43.029474754167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "627",
+        "name": "1ST STREET + VIRGINIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911084115741,
+          43.026467305216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1416",
+        "name": "BRADY + ARLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.895343697752,
+          43.052979643604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1417",
+        "name": "BRADY + HUMBOLDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.898023906745,
+          43.05299103114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2972",
+        "name": "BRADY + VAN BUREN - HOLTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903238333332,
+          43.053024178414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1415",
+        "name": "CAMBRIDGE + BRADY - FARWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.892519635583,
+          43.053138963941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "665",
+        "name": "CHASE + BRADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909590155422,
+          42.977559954243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2380",
+        "name": "HAMPTON + BARTLETT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.888567759922,
+          43.103771115836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1385",
+        "name": "HAMPTON + CUMBERLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.892647395504,
+          43.103783532402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1386",
+        "name": "HAMPTON + WILDWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.895608333335,
+          43.103834948909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7266",
+        "name": "HOWELL + 4925 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909866039683,
+          42.954981621874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "671",
+        "name": "HOWELL + BOLIVAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909738853175,
+          42.966585656395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "652",
+        "name": "HOWELL + CLARENCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904880884259,
+          42.999323109963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "656",
+        "name": "HOWELL + DEWEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904388070769,
+          42.991778010807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7267",
+        "name": "HOWELL + EDGERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909860675263,
+          42.952053176294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2937",
+        "name": "HOWELL + GRANGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909871923942,
+          42.949251367671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "662",
+        "name": "HOWELL + HOLT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906909999999,
+          42.982519954031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "667",
+        "name": "HOWELL + HOWARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909659426589,
+          42.973943504103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7265",
+        "name": "HOWELL + LAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909823644178,
+          42.959362103259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "650",
+        "name": "HOWELL + LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904790155424,
+          43.002967312219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "661",
+        "name": "HOWELL + OHIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906173488756,
+          42.983968818655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "658",
+        "name": "HOWELL + OKLAHOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904419791007,
+          42.988483392511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "654",
+        "name": "HOWELL + RUSSELL - ROSEDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904387604498,
+          42.995295265784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "686",
+        "name": "HOWELL + VAN NORMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909781822089,
+          42.962813880533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "669",
+        "name": "HOWELL + WATERFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909685728837,
+          42.970212913835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "648",
+        "name": "KINNICKINNIC + BEECHER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907295937832,
+          43.006706925405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2776",
+        "name": "KINNICKINNIC + MITCHELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910565000001,
+          43.012379766903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1377",
+        "name": "MARLBOROUGH + BIRCH - IDLEWILD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901823333333,
+          43.116073281734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1381",
+        "name": "MARLBOROUGH + FAIRMOUNT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897198333335,
+          43.107323282097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1379",
+        "name": "MARLBOROUGH + HENRY CLAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.898739999999,
+          43.111340695129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1380",
+        "name": "MARLBOROUGH + LANCASTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897627240081,
+          43.109512863445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1378",
+        "name": "MARLBOROUGH + LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900153333333,
+          43.113331615182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1376",
+        "name": "MARLBOROUGH + SILVER SPRING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.902236666667,
+          43.118083281651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7168",
+        "name": "MITCHELL INT. AIRPORT + CELL PHONE LOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903762706349,
+          42.946046255915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1396",
+        "name": "OAKLAND + BEVERLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887570364419,
+          43.086167287439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1409",
+        "name": "OAKLAND + BRADFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.888058333333,
+          43.063859950583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1394",
+        "name": "OAKLAND + CAPITOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887507604497,
+          43.088603867172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1387",
+        "name": "OAKLAND + CUMBERLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887438853173,
+          43.101553114898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1398",
+        "name": "OAKLAND + EDGEWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88769812434,
+          43.082062201196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1400",
+        "name": "OAKLAND + HARTFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887810310847,
+          43.077743956613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1413",
+        "name": "OAKLAND + KANE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.891158333333,
+          43.055899240579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1393",
+        "name": "OAKLAND + KENMORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887485053573,
+          43.09107453678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1389",
+        "name": "OAKLAND + KENSINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887454426586,
+          43.098460785757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1402",
+        "name": "OAKLAND + KENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887893542327,
+          43.074758372325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1412",
+        "name": "OAKLAND + LAFAYETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.889643488756,
+          43.057485813675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6133",
+        "name": "OAKLAND + LAKE BLUFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887469999999,
+          43.095711615917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1404",
+        "name": "OAKLAND + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887951511242,
+          43.071183373159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1397",
+        "name": "OAKLAND + MENLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887623488757,
+          43.084327872553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1405",
+        "name": "OAKLAND + NEWBERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887962293651,
+          43.069181031492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1411",
+        "name": "OAKLAND + NORTH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.888095937831,
+          43.059837789683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1406",
+        "name": "OAKLAND + PARK PLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.888009999999,
+          43.067474950432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1392",
+        "name": "OAKLAND + WOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88747536442,
+          43.092771117421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7754",
+        "name": "PORT WASHINGTON ROAD + 5900 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914633906748,
+          43.123869286603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "542",
+        "name": "PORT WASHINGTON ROAD + TOWNE CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.915443906747,
+          43.123357699363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6675",
+        "name": "SILVER SPRING + BAYSHORE - MOHAWK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913436302248,
+          43.118540871672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1375",
+        "name": "SILVER SPRING + SANTA MONICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907005000002,
+          43.118504948298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1423",
+        "name": "WATER STREET + CHERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910771146825,
+          43.048143871458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "637",
+        "name": "WATER STREET + CHICAGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909345937832,
+          43.032578970062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1424",
+        "name": "WATER STREET + JUNEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91121182209,
+          43.045950045728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "633",
+        "name": "WATER STREET + MICHIGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909024373014,
+          43.037637205907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1421",
+        "name": "WATER STREET + PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906273333334,
+          43.050961617793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "635",
+        "name": "WATER STREET + SAINT PAUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.908785000001,
+          43.035046714946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1425",
+        "name": "WATER STREET + STATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910930000001,
+          43.043529951441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "630",
+        "name": "WATER STREET + WELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909924062171,
+          43.041099570286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "632",
+        "name": "WATER STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909162288359,
+          43.038798380734
+        ]
+      }
+    }
+  ]
+}

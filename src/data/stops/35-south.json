@@ -1,0 +1,1075 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "35",
+    "name": "35th Street",
+    "color": "#8dc63f",
+    "direction": "SOUTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4594",
+        "name": "35TH STREET + AUER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957312186508,
+          43.077088371781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4623",
+        "name": "35TH STREET + BECHER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957824791004,
+          43.006718977767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4618",
+        "name": "35TH STREET + BRANTING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957596666667,
+          43.015166619308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4606",
+        "name": "35TH STREET + BROWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957613853175,
+          43.056504549283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4595",
+        "name": "35TH STREET + BURLEIGH-FOND DU LAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957339008597,
+          43.075366297881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4596",
+        "name": "35TH STREET + BURLEIGH-FOND DU LAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957339008598,
+          43.074821883357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4621",
+        "name": "35TH STREET + BURNHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957746457674,
+          43.010365643347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4615",
+        "name": "35TH STREET + CANAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957701929232,
+          43.027628285446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2816",
+        "name": "35TH STREET + CAPITOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957136666668,
+          43.090038282821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp79",
+        "name": "35TH STREET + CAPITOL FS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957183333334,
+          43.089354949514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4600",
+        "name": "35TH STREET + CENTER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957444737434,
+          43.067976121633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4597",
+        "name": "35TH STREET + CHAMBERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957364217591,
+          43.073486070131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4608",
+        "name": "35TH STREET + CHERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957660519843,
+          43.050181804987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4601",
+        "name": "35TH STREET + CLARKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957476923945,
+          43.066132788612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4610",
+        "name": "35TH STREET + CLYBOURN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957750208995,
+          43.036242793693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4593",
+        "name": "35TH STREET + CONCORDIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95726275992,
+          43.079224541066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7092",
+        "name": "35TH STREET + CONGRESS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956928906748,
+          43.096677698767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4629",
+        "name": "35TH STREET + DAKOTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958100782406,
+          42.992076725003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4628",
+        "name": "35TH STREET + FOREST HOME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958524217591,
+          42.994774467417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4607",
+        "name": "35TH STREET + GALENA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957655155425,
+          43.051548964412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4604",
+        "name": "35TH STREET + GARFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957571404099,
+          43.059312789771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4624",
+        "name": "35TH STREET + GRANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957867186506,
+          43.004878388673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4617",
+        "name": "35TH STREET + GREENFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957698644178,
+          43.016998385834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4599",
+        "name": "35TH STREET + HADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957413070768,
+          43.06981179663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4626",
+        "name": "35TH STREET + HAYES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958138279763,
+          43.00092564616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4703",
+        "name": "35TH STREET + HAYES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957851666668,
+          43.001131619904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "275",
+        "name": "35TH STREET + HIGHLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957714271165,
+          43.044686712689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7094",
+        "name": "35TH STREET + HOPE - HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957024999999,
+          43.093606616005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4609",
+        "name": "35TH STREET + JUNEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957664844577,
+          43.045950045727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4591",
+        "name": "35TH STREET + KEEFE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957216613094,
+          43.082647288486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4331",
+        "name": "35TH STREET + KILBOURN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957725,
+          43.041838284844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4619",
+        "name": "35TH STREET + LAPHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957628333334,
+          43.014149952684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4625",
+        "name": "35TH STREET + LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958063644179,
+          43.003133978834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "273",
+        "name": "35TH STREET + LISBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957634217593,
+          43.05475180304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4605",
+        "name": "35TH STREET + LLOYD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957597186507,
+          43.057536709685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4598",
+        "name": "35TH STREET + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95740176852,
+          43.071663145528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4692",
+        "name": "35TH STREET + LOOMIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958302031085,
+          42.973252321074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7093",
+        "name": "35TH STREET + MARION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956965937832,
+          43.095438866449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4603",
+        "name": "35TH STREET + MEINECKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957529528438,
+          43.062536396197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4588",
+        "name": "35TH STREET + MELVINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957125417989,
+          43.087892114236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4620",
+        "name": "35TH STREET + MITCHELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957687915345,
+          43.012455642725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4634",
+        "name": "35TH STREET + MORGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958244062169,
+          42.981343985328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4612",
+        "name": "35TH STREET + MOUNT VERNON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957771666665,
+          43.033763285186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4590",
+        "name": "35TH STREET + NASH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957190310848,
+          43.084132785556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "277",
+        "name": "35TH STREET + NATIONAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957697084656,
+          43.021743384725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "272",
+        "name": "35TH STREET + NORTH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957556404101,
+          43.060707386582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4630",
+        "name": "35TH STREET + OKLAHOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958202706349,
+          42.988626451264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4613",
+        "name": "35TH STREET + PARK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957852706348,
+          43.032750539757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp80",
+        "name": "35TH STREET + POE - OHIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958201666665,
+          42.984951620594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4622",
+        "name": "35TH STREET + ROGERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957782395504,
+          43.008538977224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4631",
+        "name": "35TH STREET + RUSKIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958185000001,
+          42.985881620555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4611",
+        "name": "35TH STREET + SAINT PAUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957755573412,
+          43.034880539532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4616",
+        "name": "35TH STREET + SCOTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95774,
+          43.019084952473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4635",
+        "name": "35TH STREET + ST FRANCIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95828,
+          42.979451620829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4330",
+        "name": "35TH STREET + STATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957723906744,
+          43.043530141149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7095",
+        "name": "35TH STREET + TORONTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957057240081,
+          43.09169828275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4592",
+        "name": "35TH STREET + TOWNSEND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957225728836,
+          43.081223458439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4589",
+        "name": "35TH STREET + VIENNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957163435186,
+          43.086080447412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "274",
+        "name": "35TH STREET + VLIET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957660519841,
+          43.048819552063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4332",
+        "name": "35TH STREET + WELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957713177911,
+          43.040471126306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4636",
+        "name": "35TH STREET + WILBUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958322395503,
+          42.976845653336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "276",
+        "name": "35TH STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95774005357,
+          43.038920634841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4602",
+        "name": "35TH STREET + WRIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957497861772,
+          43.064364051458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4280",
+        "name": "42ND STREET + SILVER SPRING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964600782406,
+          43.119939365953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4286",
+        "name": "43RD STREET + SILVER SPRING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.966333542328,
+          43.119557859814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7089",
+        "name": "HOPKINS + 37TH ST - COURTLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.959012240078,
+          43.102228782137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7086",
+        "name": "HOPKINS + FAIRMOUNT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.961776666665,
+          43.108388282053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7090",
+        "name": "HOPKINS + GLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958502240079,
+          43.100981116027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7088",
+        "name": "HOPKINS + HAMPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.960045000001,
+          43.104819948867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7085",
+        "name": "HOPKINS + LANCASTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96247130225,
+          43.109993947013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7091",
+        "name": "HOPKINS + RUBY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957691666667,
+          43.099043114038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7087",
+        "name": "HOPKINS + STARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.960903333334,
+          43.106559948796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4287",
+        "name": "SHERMAN + CUSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.966514892857,
+          43.115818443717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4288",
+        "name": "SHERMAN + ROHR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96653,
+          43.113928281822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5715",
+        "name": "VILLARD + HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.963626457671,
+          43.11192544964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7084",
+        "name": "VILLARD + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.965926666665,
+          43.111933281904
+        ]
+      }
+    }
+  ]
+}

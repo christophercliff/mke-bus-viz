@@ -1,0 +1,697 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "22",
+    "name": "Center Street",
+    "color": "#ed1c24",
+    "direction": "WEST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3777",
+        "name": "BLAINE + CENTER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.989709324735,
+          43.068187698137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3754",
+        "name": "CENTER STREET + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.923862968914,
+          43.067665941239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "510",
+        "name": "CENTER STREET + 11TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925739635581,
+          43.067679184357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3755",
+        "name": "CENTER STREET + 12TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926592031084,
+          43.06768702228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3756",
+        "name": "CENTER STREET + 15TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.931149426585,
+          43.067742517715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3757",
+        "name": "CENTER STREET + 17TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.934279999999,
+          43.067789364794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3750",
+        "name": "CENTER STREET + 1ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910877968916,
+          43.067559184306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "269",
+        "name": "CENTER STREET + 20TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.937341302251,
+          43.067828688987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3758",
+        "name": "CENTER STREET + 22ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939784271164,
+          43.06785319356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3759",
+        "name": "CENTER STREET + 24TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.942338333333,
+          43.067873283749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3760",
+        "name": "CENTER STREET + 25TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.944801666666,
+          43.06790819357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3761",
+        "name": "CENTER STREET + 29TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.949750937832,
+          43.067948193575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3762",
+        "name": "CENTER STREET + 30TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950973697752,
+          43.067948193576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3763",
+        "name": "CENTER STREET + 32ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.953878333332,
+          43.06794427463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3764",
+        "name": "CENTER STREET + 35TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957326666665,
+          43.067940355685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3765",
+        "name": "CENTER STREET + 37TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.959726666668,
+          43.067948689019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3766",
+        "name": "CENTER STREET + 39TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.962078906746,
+          43.067960445855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3751",
+        "name": "CENTER STREET + 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913817968916,
+          43.06758251765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3767",
+        "name": "CENTER STREET + 41ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964457968914,
+          43.067956526911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3769",
+        "name": "CENTER STREET + 45TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.969809271162,
+          43.067949319277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3770",
+        "name": "CENTER STREET + 47TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.972246875662,
+          43.06796990491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3771",
+        "name": "CENTER STREET + 49TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.974858333332,
+          43.067980851144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3772",
+        "name": "CENTER STREET + 51ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.977353906746,
+          43.068015941313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3773",
+        "name": "CENTER STREET + 53RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97973187566,
+          43.068024589804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3774",
+        "name": "CENTER STREET + 55TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.982025626984,
+          43.068049094361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3752",
+        "name": "CENTER STREET + 5TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916811666666,
+          43.067607022261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3776",
+        "name": "CENTER STREET + 60TH ST - LISBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.987171302249,
+          43.068100670927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3753",
+        "name": "CENTER STREET + 7TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919656666666,
+          43.067631346407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "267",
+        "name": "CENTER STREET + 8TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.921278333335,
+          43.06768161709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3775",
+        "name": "CENTER STREET + APPLETON - 56TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.985067084654,
+          43.068063598908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3745",
+        "name": "CENTER STREET + BREMEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900234426589,
+          43.067507112484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "270",
+        "name": "CENTER STREET + FOND DU LAC-27TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.947901666667,
+          43.067944950411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3747",
+        "name": "CENTER STREET + HOLTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90505,
+          43.067523103263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3749",
+        "name": "CENTER STREET + PALMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909373333333,
+          43.06755868891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3746",
+        "name": "CENTER STREET + PIERCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.902549062169,
+          43.067512517623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3748",
+        "name": "CENTER STREET + RICHARDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907593333335,
+          43.067535355573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3768",
+        "name": "CENTER STREET + SHERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.967282604498,
+          43.067944274632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "268",
+        "name": "CENTER STREET + TEUTONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929066666667,
+          43.067698598738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3744",
+        "name": "HUMBOLDT + CENTER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897896666667,
+          43.067594950428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3743",
+        "name": "HUMBOLDT + HADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897848386903,
+          43.069355535876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3742",
+        "name": "HUMBOLDT + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.897896666665,
+          43.070718283629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7855",
+        "name": "KENWOOD + FARWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.881461666665,
+          43.074723283461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2536",
+        "name": "KENWOOD + STOWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.878834582012,
+          43.074722787153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3813",
+        "name": "LOCUST + 1300 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894882031086,
+          43.071112339969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3739",
+        "name": "LOCUST + MURRAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.885293333333,
+          43.07103661695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "209",
+        "name": "LOCUST + NEWHALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.890908697752,
+          43.071084771148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3740",
+        "name": "LOCUST + OAKLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887708333335,
+          43.071043283614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3658",
+        "name": "MARYLAND + LINNWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882972186507,
+          43.072914543348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3659",
+        "name": "MARYLAND + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.883015675264,
+          43.071127202354
+        ]
+      }
+    }
+  ]
+}

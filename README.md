@@ -16,6 +16,8 @@ $ npm run write
 - http://chriswhong.com/data-visualization/taxitechblog1/
 - http://mbtaviz.wordpress.com/2014/07/25/website-source-announcement/
 - http://formula1data.com/
+- http://new.pentagram.com/2013/06/new-work-nyc-wayfinding/
+- http://www.google.com/design/spec/material-design/introduction.html
 
 ## License
 

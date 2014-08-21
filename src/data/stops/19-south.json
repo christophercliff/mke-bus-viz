@@ -1,0 +1,2377 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "19",
+    "name": "MLK Jr. Dr. - S. 13th & S. 20th",
+    "color": "#ffdd00",
+    "direction": "SOUTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1888",
+        "name": "11TH STREET + BURNHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925616666668,
+          43.010239952851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1886",
+        "name": "11TH STREET + GREENFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925406248677,
+          43.017181719125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1887",
+        "name": "11TH STREET + LAPHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925480310845,
+          43.014366920679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1884",
+        "name": "11TH STREET + MINERAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925374008597,
+          43.021317015507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "283",
+        "name": "11TH STREET + MITCHELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925554373014,
+          43.012436231891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1883",
+        "name": "11TH STREET + NATIONAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925374062169,
+          43.022915931686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1889",
+        "name": "11TH STREET + ROGERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925686511245,
+          43.00840279843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1885",
+        "name": "11TH STREET + SCOTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.925390101854,
+          43.019231718645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1901",
+        "name": "13TH STREET + 3601 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929023177911,
+          42.9791383947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1904",
+        "name": "13TH STREET + 4001 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929139689152,
+          42.972275171482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1906",
+        "name": "13TH STREET + 4217 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929182658069,
+          42.968161949195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1920",
+        "name": "13TH STREET + 6129 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929617449075,
+          42.933290072108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1922",
+        "name": "13TH STREET + 6400 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93036948016,
+          42.928056145456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1914",
+        "name": "13TH STREET + ABBOTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929388751321,
+          42.949522808461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1893",
+        "name": "13TH STREET + ARTHUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928594271163,
+          42.999327313302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1911",
+        "name": "13TH STREET + BARNARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92929317791,
+          42.957199473818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1918",
+        "name": "13TH STREET + BODEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92958041799,
+          42.935054593226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1907",
+        "name": "13TH STREET + BOLIVAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929208386904,
+          42.966707915105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "285",
+        "name": "13TH STREET + CLEVELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928668906746,
+          42.995679883376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "291",
+        "name": "13TH STREET + COLLEGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929914271162,
+          42.930450201136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1903",
+        "name": "13TH STREET + CRAWFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929087604499,
+          42.975700653677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1896",
+        "name": "13TH STREET + DAKOTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928743542328,
+          42.992044572604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1913",
+        "name": "13TH STREET + EDGERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929352813492,
+          42.952165548336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1898",
+        "name": "13TH STREET + EUCLID"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928875573413,
+          42.98656839296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1917",
+        "name": "13TH STREET + GOLDCREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929520782408,
+          42.939481008839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "290",
+        "name": "13TH STREET + GRANGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929437084657,
+          42.944912329521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1894",
+        "name": "13TH STREET + HARRISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928630782408,
+          42.997789291302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1892",
+        "name": "13TH STREET + HAYES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928547604496,
+          43.001405748945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1912",
+        "name": "13TH STREET + HOLMES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929324844579,
+          42.953941845952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1900",
+        "name": "13TH STREET + HOLT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928949635584,
+          42.982957318182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "288",
+        "name": "13TH STREET + HOWARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929107449075,
+          42.973984203885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2938",
+        "name": "13TH STREET + KLEIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929490208995,
+          42.942163517634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "289",
+        "name": "13TH STREET + LAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929272813492,
+          42.959643139517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "284",
+        "name": "13TH STREET + LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928505208996,
+          43.002963876257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1915",
+        "name": "13TH STREET + MALLORY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92942093783,
+          42.946669475614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1897",
+        "name": "13TH STREET + MANITOBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92878541799,
+          42.990240754413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1895",
+        "name": "13TH STREET + MONTANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92871724008,
+          42.993665057965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "287",
+        "name": "13TH STREET + MORGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929003333334,
+          42.981153287421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1899",
+        "name": "13TH STREET + OHIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928912604496,
+          42.984768984308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "286",
+        "name": "13TH STREET + OKLAHOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92882187566,
+          42.988411725861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1919",
+        "name": "13TH STREET + RAMSEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929558333334,
+          42.937641622621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "570",
+        "name": "13TH STREET + VAN NORMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929235782406,
+          42.962604472896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1905",
+        "name": "13TH STREET + WATERFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929193333335,
+          42.970281621221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1908",
+        "name": "13TH STREET + WHITAKER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929208386903,
+          42.965599954753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1902",
+        "name": "13TH STREET + WILBUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929065573414,
+          42.977540760629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1923",
+        "name": "13TH STREET + ZELLMAN COURT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93046551984,
+          42.925403047532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2068",
+        "name": "16TH STREET + BECHER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933262759919,
+          43.006706721576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2069",
+        "name": "16TH STREET + GRANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933332550927,
+          43.004902901284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2070",
+        "name": "16TH STREET + LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933407132936,
+          43.003098671044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3024",
+        "name": "16TH STREET + ROGERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933204791005,
+          43.008527208998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2071",
+        "name": "16TH STREET + WINDLAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933459164021,
+          43.000261030003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2109",
+        "name": "19TH STREET + 18TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938952759921,
+          42.92736936181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8531",
+        "name": "19TH STREET + CARRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939033279762,
+          42.925859831343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7720",
+        "name": "19TH STREET + JEWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939069217591,
+          42.924294120028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2075",
+        "name": "20TH STREET + 2761 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938443333333,
+          42.994091620204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2087",
+        "name": "20TH STREET + 4073 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939005884259,
+          42.970789206062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2092",
+        "name": "20TH STREET + 4565 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939011822089,
+          42.961824473031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2097",
+        "name": "20TH STREET + 5201 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939224373014,
+          42.950329362286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2094",
+        "name": "20TH STREET + BARNARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939075155424,
+          42.95763269577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2101",
+        "name": "20TH STREET + BIRCHWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939404737433,
+          42.940096851846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2089",
+        "name": "20TH STREET + BOLIVAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93902682209,
+          42.966798989664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2108",
+        "name": "20TH STREET + CARRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.940427288361,
+          42.926105777888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2098",
+        "name": "20TH STREET + CLAYTON CREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939287132938,
+          42.947790661996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2106",
+        "name": "20TH STREET + COLLEGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93960494643,
+          42.930488522605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2111",
+        "name": "20TH STREET + COLLEGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939392395502,
+          42.930052578614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2084",
+        "name": "20TH STREET + CRAWFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938888853174,
+          42.975870761447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2096",
+        "name": "20TH STREET + EDGERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939176613096,
+          42.952212695658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2078",
+        "name": "20TH STREET + EUCLID"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938602240081,
+          42.986822907825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2099",
+        "name": "20TH STREET + GRANGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939325257276,
+          42.945012670678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2419",
+        "name": "20TH STREET + HALSEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93915994643,
+          42.954545659983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2103",
+        "name": "20TH STREET + HENRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939493799604,
+          42.936298289345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2080",
+        "name": "20TH STREET + HOLT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938709582009,
+          42.983142424554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2085",
+        "name": "20TH STREET + HOWARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938921666666,
+          42.974286621048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2104",
+        "name": "20TH STREET + KIMBERLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939536768517,
+          42.93397411529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2076",
+        "name": "20TH STREET + KINNICKINNIC RIVER PKWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938482031086,
+          42.991528391799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2100",
+        "name": "20TH STREET + KLEIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939399319446,
+          42.941753882782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2093",
+        "name": "20TH STREET + LAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939038644178,
+          42.959489251527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2105",
+        "name": "20TH STREET + MANGOLD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939579217592,
+          42.932721130818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2081",
+        "name": "20TH STREET + MORGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938768644178,
+          42.981342803038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2079",
+        "name": "20TH STREET + OHIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938634426586,
+          42.984939847849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2077",
+        "name": "20TH STREET + OKLAHOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938534062168,
+          42.988614468466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2088",
+        "name": "20TH STREET + PLAINFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939022550926,
+          42.969005017495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2102",
+        "name": "20TH STREET + RAMSEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939462132938,
+          42.937696852868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2107",
+        "name": "20TH STREET + SALEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939773488758,
+          42.929046495636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2086",
+        "name": "20TH STREET + VAN BECK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939001613096,
+          42.972601838009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2091",
+        "name": "20TH STREET + VAN NORMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939038124341,
+          42.963359252347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2082",
+        "name": "20TH STREET + WARNIMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938805675266,
+          42.979372104958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2090",
+        "name": "20TH STREET + WHITAKER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939027395504,
+          42.965889099666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2083",
+        "name": "20TH STREET + WILBUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938847550926,
+          42.977667427232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "311",
+        "name": "20TH STREET + WOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.940506768518,
+          42.923674597346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8541",
+        "name": "2ND STREET + 115 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91264724008,
+          43.031919461095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1667",
+        "name": "2ND STREET + BRUCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912663333335,
+          43.025371618875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1665",
+        "name": "2ND STREET + FLORIDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91265635582,
+          43.027461618787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1659",
+        "name": "2ND STREET + MICHIGAN - EVERETT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913123906745,
+          43.036866714519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1668",
+        "name": "2ND STREET + NATIONAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912667084657,
+          43.02336456127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1663",
+        "name": "2ND STREET + PITTSBURGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91264187566,
+          43.029531716234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1662",
+        "name": "2ND STREET + SEEBOTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912631146827,
+          43.030623183979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1666",
+        "name": "2ND STREET + VIRGINIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912657968914,
+          43.026431716962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2979",
+        "name": "2ND STREET + WELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91307182209,
+          43.040315047045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1882",
+        "name": "2ND STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913087861774,
+          43.039060539086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1839",
+        "name": "32ND STREET + ATKINSON - GLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.953035,
+          43.101234949019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1838",
+        "name": "32ND STREET + HAMPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95295130225,
+          43.10476444872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1835",
+        "name": "35TH STREET + CAMERON - FAIRMOUNT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956515573414,
+          43.108419612917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1831",
+        "name": "35TH STREET + CUSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956388386903,
+          43.11572002942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1832",
+        "name": "35TH STREET + ROHR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956425991401,
+          43.113903945849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1830",
+        "name": "35TH STREET + SHERIDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956335835976,
+          43.117578362319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1833",
+        "name": "35TH STREET + VILLARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956473751321,
+          43.112066778647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1879",
+        "name": "3RD STREET + JUNEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914455101851,
+          43.04580769765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1853",
+        "name": "ATKINSON + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.923518906748,
+          43.083933631509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1852",
+        "name": "ATKINSON + 12TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926040208995,
+          43.085066055577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1851",
+        "name": "ATKINSON + 14TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928504635581,
+          43.086091876397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1850",
+        "name": "ATKINSON + 16TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.931085573412,
+          43.08724696216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1849",
+        "name": "ATKINSON + 18TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933395364419,
+          43.088252545663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1846",
+        "name": "ATKINSON + 22ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939207240078,
+          43.091793952431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1844",
+        "name": "ATKINSON + 24TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.941988333332,
+          43.093741615998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1843",
+        "name": "ATKINSON + 25TH ST - ROOSEVELT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.944324946427,
+          43.095306615932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1842",
+        "name": "ATKINSON + 27TH ST - CONGRESS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.947223124339,
+          43.097333282514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1841",
+        "name": "ATKINSON + 29TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.949353644181,
+          43.098740448503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1840",
+        "name": "ATKINSON + 30TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95054588426,
+          43.099431615759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1854",
+        "name": "ATKINSON + 8TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.921235364417,
+          43.082932463005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1848",
+        "name": "ATKINSON + CAPITOL - 19TH PL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93623448016,
+          43.089814623217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1855",
+        "name": "ATKINSON + KEEFE - KING DR."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918714062169,
+          43.081824042911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1845",
+        "name": "ATKINSON + TEUTONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.940908333332,
+          43.093136616023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1837",
+        "name": "CAMERON + 32ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.953120364419,
+          43.107288034243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8093",
+        "name": "COLLEGE + 13TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.930264791005,
+          42.930151739511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8092",
+        "name": "COLLEGE + SOUTHWEST PARK & RIDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938428333334,
+          42.930174117148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2670",
+        "name": "FOREST HOME + 13TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927864271165,
+          43.01211466622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1076",
+        "name": "FOREST HOME + 14TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929256666667,
+          43.011384750779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1077",
+        "name": "FOREST HOME + 15TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.930638906747,
+          43.010664649388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1872",
+        "name": "KING DRIVE + BROWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914247341932,
+          43.056567697883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1860",
+        "name": "KING DRIVE + BURLEIGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914130937831,
+          43.074996705601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1864",
+        "name": "KING DRIVE + CENTER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914093333333,
+          43.067649950424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1861",
+        "name": "KING DRIVE + CHAMBERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914034844578,
+          43.073161706032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1876",
+        "name": "KING DRIVE + CHERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914385830687,
+          43.049928471761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1865",
+        "name": "KING DRIVE + CLARKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914115364417,
+          43.065850717398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1857",
+        "name": "KING DRIVE + CONCORDIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91597,
+          43.078514949968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1875",
+        "name": "KING DRIVE + GALENA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914347759921,
+          43.051397297792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1869",
+        "name": "KING DRIVE + GARFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914188333333,
+          43.059194950781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1863",
+        "name": "KING DRIVE + HADLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914066511242,
+          43.069470625744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1870",
+        "name": "KING DRIVE + LLOYD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9142264041,
+          43.057921801692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1862",
+        "name": "KING DRIVE + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914078333334,
+          43.071298283606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1878",
+        "name": "KING DRIVE + MCKINLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914423435185,
+          43.046872204925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1867",
+        "name": "KING DRIVE + MEINECKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914140573411,
+          43.062213961237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1868",
+        "name": "KING DRIVE + NORTH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914173333333,
+          43.060403284063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1856",
+        "name": "KING DRIVE + PORT WASHINGTON ROAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917690937829,
+          43.080870037563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1873",
+        "name": "KING DRIVE + RESERVOIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914274164021,
+          43.05526504355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1858",
+        "name": "KING DRIVE + RING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.915545364419,
+          43.077700038305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1871",
+        "name": "KING DRIVE + VINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914301039683,
+          43.053945537508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1877",
+        "name": "KING DRIVE + VLIET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914407288361,
+          43.048545139014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1874",
+        "name": "KING DRIVE + WALNUT - PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914311768521,
+          43.052745537636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1866",
+        "name": "KING DRIVE + WRIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914126093255,
+          43.064021708167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp108",
+        "name": "LIPTON + WATERFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929225000001,
+          42.969208287931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1673",
+        "name": "NATIONAL + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.923751822089,
+          43.023261520227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1669",
+        "name": "NATIONAL + 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914655937832,
+          43.023240734284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1671",
+        "name": "NATIONAL + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918077395503,
+          43.023245635553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1672",
+        "name": "NATIONAL + 9TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.922321302248,
+          43.023253186893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1881",
+        "name": "OLD WORLD 3RD STREET + STATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914443333332,
+          43.04302995146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1661",
+        "name": "PLANKINTON + BUFFALO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911522138229,
+          43.0342213286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp95",
+        "name": "PLANKINTON + KILBOURN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913601666668,
+          43.041368284864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1660",
+        "name": "SAINT PAUL + 2ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912536666668,
+          43.034636618484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2110",
+        "name": "SALEM + 20TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93955672024,
+          42.928740190015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7717",
+        "name": "SILVER SPRING + 35TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956318649471,
+          43.119041695309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1910",
+        "name": "VAN NORMAN + 13TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.929623333335,
+          42.962873288203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1891",
+        "name": "WINDLAKE + 13TH ST - GRANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.927968960316,
+          43.004851698088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2072",
+        "name": "WINDLAKE + 18TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.934994999999,
+          42.998834953334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp96",
+        "name": "WINDLAKE + 20TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938110000001,
+          42.996816620087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1890",
+        "name": "WINDLAKE + BECHER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926094480158,
+          43.006543773936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2073",
+        "name": "WINDLAKE + HARRISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.936456666666,
+          42.997634953386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1924",
+        "name": "ZELLMAN COURT + 1500 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932376618384,
+          42.925325518405
+        ]
+      }
+    }
+  ]
+}

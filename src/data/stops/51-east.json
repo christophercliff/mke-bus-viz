@@ -1,0 +1,1075 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "51",
+    "name": "Oklahoma Avenue",
+    "color": "#ed1c24",
+    "direction": "EAST"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5117",
+        "name": "OKLAHOMA + 100TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.037879426586,
+          42.988014848307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "235",
+        "name": "OKLAHOMA + 103RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.040572031084,
+          42.987999848304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5116",
+        "name": "OKLAHOMA + 105TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.043076666667,
+          42.987972590911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "234",
+        "name": "OKLAHOMA + 107TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.045769271164,
+          42.987952970636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5115",
+        "name": "OKLAHOMA + 108TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0474,
+          42.987960818746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5114",
+        "name": "OKLAHOMA + 11011 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05002869775,
+          42.987964046588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp053",
+        "name": "OKLAHOMA + 114TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.054680000001,
+          42.988034953796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5111",
+        "name": "OKLAHOMA + 119TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.062246093253,
+          42.988055333548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5146",
+        "name": "OKLAHOMA + 11TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926449791006,
+          42.98824210571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "temp052",
+        "name": "OKLAHOMA + 122TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.065313333333,
+          42.988098287126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5109",
+        "name": "OKLAHOMA + 12300 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.067205573414,
+          42.988317485557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "249",
+        "name": "OKLAHOMA + 13TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.928891093253,
+          42.988183456013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5145",
+        "name": "OKLAHOMA + 15TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.931588488758,
+          42.988273561508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "248",
+        "name": "OKLAHOMA + 16TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933941302249,
+          42.98830619873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8503",
+        "name": "OKLAHOMA + 18TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.936230155424,
+          42.988332422013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "247",
+        "name": "OKLAHOMA + 20TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.938651039681,
+          42.988310397192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5143",
+        "name": "OKLAHOMA + 22ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.942455310847,
+          42.988436789513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5142",
+        "name": "OKLAHOMA + 24TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94464812434,
+          42.988472865517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5141",
+        "name": "OKLAHOMA + 26TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94709645767,
+          42.988473076307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "246",
+        "name": "OKLAHOMA + 27TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.948442186509,
+          42.988485397396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5140",
+        "name": "OKLAHOMA + 29TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.950768644179,
+          42.988497654762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5139",
+        "name": "OKLAHOMA + 31ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.953497186509,
+          42.988476789538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5138",
+        "name": "OKLAHOMA + 33RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.955795728836,
+          42.988449046876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "245",
+        "name": "OKLAHOMA + 35TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.958275155422,
+          42.98837050267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5137",
+        "name": "OKLAHOMA + 37TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.960590364418,
+          42.988390122815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5136",
+        "name": "OKLAHOMA + 39TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.963086457671,
+          42.98837640961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "252",
+        "name": "OKLAHOMA + 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91448682209,
+          42.985810015211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5135",
+        "name": "OKLAHOMA + 41ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.965524062168,
+          42.988341304174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "244",
+        "name": "OKLAHOMA + 43RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.968077031086,
+          42.988270608005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5149",
+        "name": "OKLAHOMA + 445 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.916584528441,
+          42.986894363052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5133",
+        "name": "OKLAHOMA + 46TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.971737395502,
+          42.988278730487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5132",
+        "name": "OKLAHOMA + 48TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.974197031083,
+          42.988274806451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "243",
+        "name": "OKLAHOMA + 51ST STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.978000728836,
+          42.988321894862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5131",
+        "name": "OKLAHOMA + 53RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.980448488755,
+          42.98832119874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5130",
+        "name": "OKLAHOMA + 56TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.984178124339,
+          42.988310122761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2588",
+        "name": "OKLAHOMA + 60TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.987993124338,
+          42.988309426642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8502",
+        "name": "OKLAHOMA + 6319 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.992009426588,
+          42.988290502594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5129",
+        "name": "OKLAHOMA + 63RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.990079635581,
+          42.988306198728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5127",
+        "name": "OKLAHOMA + 66TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.995156093253,
+          42.988254911858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "241",
+        "name": "OKLAHOMA + 68TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.997890000001,
+          42.988238941313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "251",
+        "name": "OKLAHOMA + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919206302247,
+          42.988206789361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5126",
+        "name": "OKLAHOMA + 70TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00006724008,
+          42.988213941292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5125",
+        "name": "OKLAHOMA + 72ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.002207968914,
+          42.988202380064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5124",
+        "name": "OKLAHOMA + 7500 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005969271164,
+          42.988179531971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240",
+        "name": "OKLAHOMA + 76TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.007871666667,
+          42.988170713377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5122",
+        "name": "OKLAHOMA + 80TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.012703333332,
+          42.98815866691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5121",
+        "name": "OKLAHOMA + 82ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.015060364417,
+          42.988161894786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "239",
+        "name": "OKLAHOMA + 84TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017762031083,
+          42.988154531955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5120",
+        "name": "OKLAHOMA + 8529 W."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.020115884258,
+          42.988131409527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5147",
+        "name": "OKLAHOMA + 8TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.921655155425,
+          42.988249257637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "237",
+        "name": "OKLAHOMA + 92ND STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.027765728837,
+          42.988118666898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5119",
+        "name": "OKLAHOMA + 94TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.029985937831,
+          42.988099257606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "236",
+        "name": "OKLAHOMA + 96TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.032111093253,
+          42.988067590933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5118",
+        "name": "OKLAHOMA + 98TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.034971666665,
+          42.988051620461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "250",
+        "name": "OKLAHOMA + 9TH PLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924076613094,
+          42.988249257638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5151",
+        "name": "OKLAHOMA + AUSTIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906956666668,
+          42.988257590972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "238",
+        "name": "OKLAHOMA + BELOIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.023765000002,
+          42.988114953791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5158",
+        "name": "OKLAHOMA + BRUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.889372395504,
+          42.988198730395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5150",
+        "name": "OKLAHOMA + CHASE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909771039683,
+          42.987835924218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5156",
+        "name": "OKLAHOMA + CLEMENT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.894453697752,
+          42.988242865351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5159",
+        "name": "OKLAHOMA + ELLEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88734869775,
+          42.988175607929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5134",
+        "name": "OKLAHOMA + FOREST HOME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.969603644179,
+          42.988278941344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5152",
+        "name": "OKLAHOMA + HOWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904567395503,
+          42.988266409571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5163",
+        "name": "OKLAHOMA + INDIANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.875968697751,
+          42.988071304032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5160",
+        "name": "OKLAHOMA + KINNICKINNIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.883602395502,
+          42.988136367498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5155",
+        "name": "OKLAHOMA + LOGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.896933697752,
+          42.988246789387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5157",
+        "name": "OKLAHOMA + NEVADA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.891964062168,
+          42.988223245159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5162",
+        "name": "OKLAHOMA + NEW YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.878331666668,
+          42.988091198572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5154",
+        "name": "OKLAHOMA + PINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899481822089,
+          42.988281409575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5153",
+        "name": "OKLAHOMA + QUINCY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901802395504,
+          42.988274257643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5112",
+        "name": "OKLAHOMA + ROOT RIVER PKWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.060005,
+          42.98805162046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5123",
+        "name": "OKLAHOMA + STRATTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.010487968914,
+          42.988185439039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5113",
+        "name": "OKLAHOMA + WOLLMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.052359426588,
+          42.987995924252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5148",
+        "name": "OKLAHOMA AVENUE + OKLAHOMA PLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917929217593,
+          42.988130228106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5165",
+        "name": "SUPERIOR + 3211 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.865739280397,
+          42.982703280394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5166",
+        "name": "SUPERIOR + 3501 S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.865154999999,
+          42.98175662073
+        ]
+      }
+    }
+  ]
+}

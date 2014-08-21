@@ -1,0 +1,193 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "40",
+    "name": "College-Ryan Flyer",
+    "color": "#008658",
+    "direction": "NORTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4802",
+        "name": "10TH STREET + 900 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924334271164,
+          43.042352985336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4801",
+        "name": "10TH STREET + WELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924365991403,
+          43.040096809278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7766",
+        "name": "COLLEGE + NORTHEAST PARK & RIDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933177395503,
+          42.931312735711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2774",
+        "name": "RYAN + PARK & RIDE LOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.935419528439,
+          42.873079718046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7490",
+        "name": "WELLS + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92414369775,
+          43.040276933796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "name": "WISCONSIN + 10TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924148595901,
+          43.038844555671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "name": "WISCONSIN + 5TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917342031085,
+          43.038836196614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "764",
+        "name": "WISCONSIN + CASS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901996720236,
+          43.039037314669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "WISCONSIN + JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903709635583,
+          43.038932997776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "name": "WISCONSIN + JAMES LOVELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.920101666667,
+          43.038853189222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "name": "WISCONSIN + MILWAUKEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905637240078,
+          43.038829964627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "name": "WISCONSIN + OLD WORLD 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914369791004,
+          43.038824842964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "name": "WISCONSIN + WATER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9085890086,
+          43.038673751244
+        ]
+      }
+    }
+  ]
+}

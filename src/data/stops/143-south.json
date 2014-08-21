@@ -1,0 +1,487 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "id": "143",
+    "name": "Ozaukee County Express",
+    "color": "#8dc63f",
+    "direction": "SOUTH"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "623",
+        "name": "6TH STREET + HIGHLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919053279761,
+          43.044472205181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7121",
+        "name": "6TH STREET + VLIET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918815,
+          43.048624951225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7119",
+        "name": "6TH STREET + WALNUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918712449076,
+          43.052765137219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7125",
+        "name": "6TH STREET + WISCONSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919075310848,
+          43.038952301498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8415",
+        "name": "8TH STREET + BURLEIGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.921358226192,
+          43.075005712916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "393",
+        "name": "8TH STREET + CENTER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.921472658067,
+          43.06781679748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "392",
+        "name": "8TH STREET + LOCUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92143083598,
+          43.0714925603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8420",
+        "name": "8TH STREET + NORTH AVENUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92157406217,
+          43.060450628429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6051",
+        "name": "CAPITOL + PORT WASHINGTON ROAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917532497355,
+          43.088935552597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7114",
+        "name": "HALYARD + GARFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.920784999999,
+          43.059181709299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2796",
+        "name": "HIGHWAY 33 + SAUKVILLE PARK & RIDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924055155423,
+          43.384702705538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8412",
+        "name": "KEEFE + 7TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919682968915,
+          43.081700475069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2794",
+        "name": "KILBOURN + 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918304999999,
+          43.041393284863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CDP03",
+        "name": "KILBOURN + MILWAUKEE ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907094635584,
+          43.042351332929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2759",
+        "name": "KILBOURN + OLD WORLD 3RD STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914592031084,
+          43.041368665952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2404",
+        "name": "KILBOURN + VANBUREN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903370364416,
+          43.042572999716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2905",
+        "name": "KILBOURN + WATER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910554271164,
+          43.042116427923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CDP02",
+        "name": "MICHIGAN + 7TH STREET - 6TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.919825728836,
+          43.037394844302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2752",
+        "name": "PIONEER + PARK & RIDE LOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9198,
+          43.280503699914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2753",
+        "name": "PORT WASHINGTON ROAD + 1250 N. PARK & RIDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.923974689153,
+          43.319086724726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2751",
+        "name": "PORT WASHINGTON ROAD + 13120 N."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924180782405,
+          43.256347182851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2761",
+        "name": "PORT WASHINGTON ROAD + GLEN OAKS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924186666668,
+          43.236044943464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2756",
+        "name": "PORT WASHINGTON ROAD + GRAFTON COMMONS LOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.923026666665,
+          43.323128232178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2754",
+        "name": "PORT WASHINGTON ROAD + GRAFTON PARK & RIDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926439062169,
+          43.337502797055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2749",
+        "name": "PORT WASHINGTON ROAD + HIGHLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924075000001,
+          43.250136609557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6683",
+        "name": "PORT WASHINGTON ROAD + VENTURE COURT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924196875662,
+          43.224994104074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4391",
+        "name": "PROSPECT + MASON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899454480159,
+          43.04045495157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1017",
+        "name": "SAINT PAUL + 5TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91711869775,
+          43.034638197038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2755",
+        "name": "SEVEN HILLS + PORT WASHINGTON ROAD PARK & RIDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86972093783,
+          43.411271087755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "name": "WISCONSIN + 5TH STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.917342031085,
+          43.038836196614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "764",
+        "name": "WISCONSIN + CASS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.901996720236,
+          43.039037314669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4392",
+        "name": "WISCONSIN + JEFFERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904594271165,
+          43.038885647881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "name": "WISCONSIN + PLANKINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.911105573412,
+          43.038807876147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "405",
+        "name": "WISCONSIN + WATER STREET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.908912240081,
+          43.038660360384
+        ]
+      }
+    }
+  ]
+}
