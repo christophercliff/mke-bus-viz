@@ -1,0 +1,1606 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "51",
+      "name": "Oklahoma Avenue",
+      "color": "#ed1c24",
+      "pattern_id": "5281",
+      "direction": "WEST"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -87.869493333334,
+          42.985953287216
+        ],
+        [
+          -87.870335546965,
+          42.986647863824
+        ],
+        [
+          -87.870630589956,
+          42.986859766989
+        ],
+        [
+          -87.873044763883,
+          42.988090924273
+        ],
+        [
+          -87.873393451055,
+          42.988110544506
+        ],
+        [
+          -87.873811875661,
+          42.988118392598
+        ],
+        [
+          -87.875681457672,
+          42.98813505926
+        ],
+        [
+          -87.877933333334,
+          42.988146620457
+        ],
+        [
+          -87.883380728838,
+          42.988198456023
+        ],
+        [
+          -87.886993333335,
+          42.988237485524
+        ],
+        [
+          -87.889218333333,
+          42.988264953785
+        ],
+        [
+          -87.891936666666,
+          42.988293181682
+        ],
+        [
+          -87.894208906746,
+          42.988306198729
+        ],
+        [
+          -87.896741511244,
+          42.988321684015
+        ],
+        [
+          -87.899231666669,
+          42.988345713482
+        ],
+        [
+          -87.901637604496,
+          42.988333456111
+        ],
+        [
+          -87.904275364417,
+          42.988330017355
+        ],
+        [
+          -87.906776302248,
+          42.988326578601
+        ],
+        [
+          -87.908546560198,
+          42.988306958437
+        ],
+        [
+          -87.90894889155,
+          42.988338350697
+        ],
+        [
+          -87.909168832689,
+          42.988314806503
+        ],
+        [
+          -87.909378044992,
+          42.98825594598
+        ],
+        [
+          -87.909913906745,
+          42.987964742802
+        ],
+        [
+          -87.912826785735,
+          42.986312693284
+        ],
+        [
+          -87.913114463615,
+          42.986185360045
+        ],
+        [
+          -87.913436328697,
+          42.986091179917
+        ],
+        [
+          -87.913811837959,
+          42.986020544727
+        ],
+        [
+          -87.914074694443,
+          42.985993075464
+        ],
+        [
+          -87.914310728836,
+          42.985996999645
+        ],
+        [
+          -87.914702331352,
+          42.986036241443
+        ],
+        [
+          -87.915104662704,
+          42.986130421654
+        ],
+        [
+          -87.915426527786,
+          42.98623637422
+        ],
+        [
+          -87.915753757286,
+          42.98640118896
+        ],
+        [
+          -87.916048800278,
+          42.986609168834
+        ],
+        [
+          -87.916269533728,
+          42.986832547216
+        ],
+        [
+          -87.916349999998,
+          42.986938498572
+        ],
+        [
+          -87.916827433203,
+          42.9876409122
+        ],
+        [
+          -87.91705273876,
+          42.987872432252
+        ],
+        [
+          -87.917288773153,
+          42.988045090705
+        ],
+        [
+          -87.917606666665,
+          42.988209953787
+        ],
+        [
+          -87.917912438493,
+          42.988304130668
+        ],
+        [
+          -87.918352320771,
+          42.988370839206
+        ],
+        [
+          -87.918994271166,
+          42.988377590999
+        ],
+        [
+          -87.920340740091,
+          42.988361894881
+        ],
+        [
+          -87.920592867739,
+          42.988314806502
+        ],
+        [
+          -87.921473177911,
+          42.988321894862
+        ],
+        [
+          -87.923884480158,
+          42.98830619873
+        ],
+        [
+          -87.926289271165,
+          42.988297865389
+        ],
+        [
+          -87.927287052918,
+          42.98828216925
+        ],
+        [
+          -87.927523087312,
+          42.988337105717
+        ],
+        [
+          -87.928716666667,
+          42.988353287115
+        ],
+        [
+          -87.930165059535,
+          42.988361135176
+        ],
+        [
+          -87.93036890742,
+          42.98831797083
+        ],
+        [
+          -87.931371666665,
+          42.988325333622
+        ],
+        [
+          -87.933691666665,
+          42.988361684049
+        ],
+        [
+          -87.936054062169,
+          42.988393350743
+        ],
+        [
+          -87.936960648816,
+          42.98841297088
+        ],
+        [
+          -87.937309335988,
+          42.98846790723
+        ],
+        [
+          -87.93840687566,
+          42.988491515044
+        ],
+        [
+          -87.940128853847,
+          42.98852290721
+        ],
+        [
+          -87.940305879642,
+          42.988467970909
+        ],
+        [
+          -87.942168697752,
+          42.988493519975
+        ],
+        [
+          -87.944915279783,
+          42.988544532235
+        ],
+        [
+          -87.94514058534,
+          42.988603392482
+        ],
+        [
+          -87.94570775992,
+          42.988614468466
+        ],
+        [
+          -87.947996666667,
+          42.988671620434
+        ],
+        [
+          -87.95056093783,
+          42.988630164518
+        ],
+        [
+          -87.950636039682,
+          42.988622316492
+        ],
+        [
+          -87.950786243387,
+          42.988563456262
+        ],
+        [
+          -87.953072084654,
+          42.988544046934
+        ],
+        [
+          -87.955450573412,
+          42.988523667012
+        ],
+        [
+          -87.956357160059,
+          42.988507970931
+        ],
+        [
+          -87.956523457018,
+          42.988543287107
+        ],
+        [
+          -87.957803333333,
+          42.988559953771
+        ],
+        [
+          -87.959294641545,
+          42.988508941524
+        ],
+        [
+          -87.959568226865,
+          42.988461853258
+        ],
+        [
+          -87.960410573414,
+          42.988460122861
+        ],
+        [
+          -87.962890573412,
+          42.988444152276
+        ],
+        [
+          -87.965342604497,
+          42.988416409622
+        ],
+        [
+          -87.966324292996,
+          42.988392865458
+        ],
+        [
+          -87.966436945775,
+          42.988443877802
+        ],
+        [
+          -87.967721666667,
+          42.988439953778
+        ],
+        [
+          -87.970313333335,
+          42.988439953778
+        ],
+        [
+          -87.971558177909,
+          42.988443877803
+        ],
+        [
+          -87.973988751324,
+          42.988467421948
+        ],
+        [
+          -87.977698542327,
+          42.988536135144
+        ],
+        [
+          -87.980262813491,
+          42.988544468478
+        ],
+        [
+          -87.983998333334,
+          42.988528287107
+        ],
+        [
+          -87.987605573411,
+          42.988524363087
+        ],
+        [
+          -87.989041511245,
+          42.988508181712
+        ],
+        [
+          -87.991860208993,
+          42.988488772398
+        ],
+        [
+          -87.994990782408,
+          42.988491240556
+        ],
+        [
+          -87.997561511244,
+          42.988468877798
+        ],
+        [
+          -87.999822449074,
+          42.988455649874
+        ],
+        [
+          -88.001968542327,
+          42.988432801829
+        ],
+        [
+          -88.005888751324,
+          42.988401135168
+        ],
+        [
+          -88.007458333334,
+          42.988393287113
+        ],
+        [
+          -88.00911,
+          42.988384953779
+        ],
+        [
+          -88.010318333335,
+          42.988384953781
+        ],
+        [
+          -88.012919635581,
+          42.988361135175
+        ],
+        [
+          -88.015007240078,
+          42.988353287113
+        ],
+        [
+          -88.017376666667,
+          42.988353287115
+        ],
+        [
+          -88.019838906745,
+          42.988341029751
+        ],
+        [
+          -88.023552968914,
+          42.988298561517
+        ],
+        [
+          -88.027293333332,
+          42.98828286538
+        ],
+        [
+          -88.02983130225,
+          42.988257865362
+        ],
+        [
+          -88.03225224008,
+          42.988245333601
+        ],
+        [
+          -88.034695208995,
+          42.988210228142
+        ],
+        [
+          -88.036131666665,
+          42.988195228137
+        ],
+        [
+          -88.040296666667,
+          42.988201620455
+        ],
+        [
+          -88.042871666666,
+          42.988201620455
+        ],
+        [
+          -88.045413333332,
+          42.988186620454
+        ],
+        [
+          -88.046908333332,
+          42.988178287122
+        ],
+        [
+          -88.050436666666,
+          42.988201620454
+        ],
+        [
+          -88.055205634295,
+          42.988221240652
+        ],
+        [
+          -88.055414846598,
+          42.988264405066
+        ],
+        [
+          -88.055565050303,
+          42.98833896171
+        ],
+        [
+          -88.055672338663,
+          42.988433138394
+        ],
+        [
+          -88.055972746073,
+          42.988817691688
+        ],
+        [
+          -88.056788137613,
+          42.988527314933
+        ],
+        [
+          -88.057228019892,
+          42.988409594236
+        ],
+        [
+          -88.057555249392,
+          42.988342885741
+        ],
+        [
+          -88.057952216326,
+          42.988287949279
+        ],
+        [
+          -88.058198979555,
+          42.988264405066
+        ],
+        [
+          -88.052121666665,
+          42.988201620455
+        ],
+        [
+          -88.054329999999,
+          42.988209953789
+        ],
+        [
+          -88.059406511244,
+          42.988253666935
+        ],
+        [
+          -88.061928906745,
+          42.988274257644
+        ],
+        [
+          -88.064974635581,
+          42.988302485551
+        ],
+        [
+          -88.067205573414,
+          42.988317485557
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5144",
+          "name": "LAKE DRIVE + 3210 S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.869493333334,
+            42.985953287216
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5057",
+          "name": "OKLAHOMA + SUPERIOR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.873811875661,
+            42.988118392598
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5058",
+          "name": "OKLAHOMA + WENTWORTH - INDIANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.875681457672,
+            42.98813505926
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5059",
+          "name": "OKLAHOMA + DELAWARE - NEW YORK"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.877933333334,
+            42.988146620457
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5060",
+          "name": "OKLAHOMA + KINNICKINNIC"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.883380728838,
+            42.988198456023
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5061",
+          "name": "OKLAHOMA + ELLEN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.886993333335,
+            42.988237485524
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5062",
+          "name": "OKLAHOMA + BRUST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.889218333333,
+            42.988264953785
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5063",
+          "name": "OKLAHOMA + NEVADA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.891936666666,
+            42.988293181682
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5064",
+          "name": "OKLAHOMA + CLEMENT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894208906746,
+            42.988306198729
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5065",
+          "name": "OKLAHOMA + LOGAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.896741511244,
+            42.988321684015
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5066",
+          "name": "OKLAHOMA + PINE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.899231666669,
+            42.988345713482
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5067",
+          "name": "OKLAHOMA + QUINCY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.901637604496,
+            42.988333456111
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5068",
+          "name": "OKLAHOMA + HOWELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.904275364417,
+            42.988330017355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5069",
+          "name": "OKLAHOMA + AUSTIN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.906776302248,
+            42.988326578601
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "212",
+          "name": "OKLAHOMA + CHASE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.909913906745,
+            42.987964742802
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "213",
+          "name": "OKLAHOMA + 3RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.914310728836,
+            42.985996999645
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5070",
+          "name": "OKLAHOMA + 446 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.916349999998,
+            42.986938498572
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5071",
+          "name": "OKLAHOMA AVENUE + OKLAHOMA PLACE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.917606666665,
+            42.988209953787
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "214",
+          "name": "OKLAHOMA + 6TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.918994271166,
+            42.988377590999
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5072",
+          "name": "OKLAHOMA + 8TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.921473177911,
+            42.988321894862
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "215",
+          "name": "OKLAHOMA + 9TH PLACE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.923884480158,
+            42.98830619873
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5073",
+          "name": "OKLAHOMA + 11TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.926289271165,
+            42.988297865389
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "216",
+          "name": "OKLAHOMA + 13TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.928716666667,
+            42.988353287115
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5074",
+          "name": "OKLAHOMA + 15TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.931371666665,
+            42.988325333622
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "217",
+          "name": "OKLAHOMA + 16TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933691666665,
+            42.988361684049
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5075",
+          "name": "OKLAHOMA + 18TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.936054062169,
+            42.988393350743
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "218",
+          "name": "OKLAHOMA + 20TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93840687566,
+            42.988491515044
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5076",
+          "name": "OKLAHOMA + 22ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.942168697752,
+            42.988493519975
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5077",
+          "name": "OKLAHOMA + 25TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94570775992,
+            42.988614468466
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "219",
+          "name": "OKLAHOMA + 27TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947996666667,
+            42.988671620434
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5078",
+          "name": "OKLAHOMA + 29TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.95056093783,
+            42.988630164518
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5079",
+          "name": "OKLAHOMA + 31ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.953072084654,
+            42.988544046934
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5080",
+          "name": "OKLAHOMA + 33RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.955450573412,
+            42.988523667012
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "220",
+          "name": "OKLAHOMA + 35TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957803333333,
+            42.988559953771
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5081",
+          "name": "OKLAHOMA + 37TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.960410573414,
+            42.988460122861
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5082",
+          "name": "OKLAHOMA + 39TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.962890573412,
+            42.988444152276
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5083",
+          "name": "OKLAHOMA + 41ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.965342604497,
+            42.988416409622
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "221",
+          "name": "OKLAHOMA + 43RD ST-FOREST HOME"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967721666667,
+            42.988439953778
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5084",
+          "name": "OKLAHOMA + 45TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.970313333335,
+            42.988439953778
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5085",
+          "name": "OKLAHOMA + 46TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.971558177909,
+            42.988443877803
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5086",
+          "name": "OKLAHOMA + 48TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.973988751324,
+            42.988467421948
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "222",
+          "name": "OKLAHOMA + 51ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.977698542327,
+            42.988536135144
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5087",
+          "name": "OKLAHOMA + 53RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.980262813491,
+            42.988544468478
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5088",
+          "name": "OKLAHOMA + 56TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.983998333334,
+            42.988528287107
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "223",
+          "name": "OKLAHOMA + 60TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.987605573411,
+            42.988524363087
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5089",
+          "name": "OKLAHOMA + 61ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.989041511245,
+            42.988508181712
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5090",
+          "name": "OKLAHOMA + 6350 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.991860208993,
+            42.988488772398
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5091",
+          "name": "OKLAHOMA + 66TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.994990782408,
+            42.988491240556
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "224",
+          "name": "OKLAHOMA + 68TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.997561511244,
+            42.988468877798
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5092",
+          "name": "OKLAHOMA + 70TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.999822449074,
+            42.988455649874
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5093",
+          "name": "OKLAHOMA + 72ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.001968542327,
+            42.988432801829
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5094",
+          "name": "OKLAHOMA + 7500 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.005888751324,
+            42.988401135168
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "225",
+          "name": "OKLAHOMA + 76TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.007458333334,
+            42.988393287113
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5095",
+          "name": "OKLAHOMA + 77TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.00911,
+            42.988384953779
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5096",
+          "name": "OKLAHOMA + STRATTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.010318333335,
+            42.988384953781
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5097",
+          "name": "OKLAHOMA + 80TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.012919635581,
+            42.988361135175
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5098",
+          "name": "OKLAHOMA + 82ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.015007240078,
+            42.988353287113
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "226",
+          "name": "OKLAHOMA + 84TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.017376666667,
+            42.988353287115
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5099",
+          "name": "OKLAHOMA + 8520 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.019838906745,
+            42.988341029751
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "227",
+          "name": "OKLAHOMA + BELOIT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.023552968914,
+            42.988298561517
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "228",
+          "name": "OKLAHOMA + 92ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.027293333332,
+            42.98828286538
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5100",
+          "name": "OKLAHOMA + 94TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.02983130225,
+            42.988257865362
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "229",
+          "name": "OKLAHOMA + 96TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.03225224008,
+            42.988245333601
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5101",
+          "name": "OKLAHOMA + 98TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.034695208995,
+            42.988210228142
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5102",
+          "name": "OKLAHOMA + 99TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.036131666665,
+            42.988195228137
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "230",
+          "name": "OKLAHOMA + 103RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.040296666667,
+            42.988201620455
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5103",
+          "name": "OKLAHOMA + 105TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.042871666666,
+            42.988201620455
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5104",
+          "name": "OKLAHOMA + 107TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.045413333332,
+            42.988186620454
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "231",
+          "name": "OKLAHOMA + 108TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.046908333332,
+            42.988178287122
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5105",
+          "name": "OKLAHOMA + 11100 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.050436666666,
+            42.988201620454
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5106",
+          "name": "OKLAHOMA + WOLLMER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.052121666665,
+            42.988201620455
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp055",
+          "name": "OKLAHOMA + 114TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.054329999999,
+            42.988209953789
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5107",
+          "name": "OKLAHOMA + WAUKESHA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.059406511244,
+            42.988253666935
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5108",
+          "name": "OKLAHOMA + 119TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.061928906745,
+            42.988274257644
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8501",
+          "name": "OKLAHOMA + 122ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.064974635581,
+            42.988302485551
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5109",
+          "name": "OKLAHOMA + 12300 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.067205573414,
+            42.988317485557
+          ]
+        }
+      }
+    ]
+  }
+}

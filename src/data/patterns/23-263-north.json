@@ -1,0 +1,1688 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "23",
+      "name": "FDL-National (Local)",
+      "color": "#f58220",
+      "pattern_id": "263",
+      "direction": "NORTH"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -87.998747347222,
+          43.015300842413
+        ],
+        [
+          -87.999010203706,
+          43.015077270345
+        ],
+        [
+          -88.000083087312,
+          43.015061581047
+        ],
+        [
+          -88.000056265222,
+          43.015724450414
+        ],
+        [
+          -88.000013349877,
+          43.015842118784
+        ],
+        [
+          -87.999981163369,
+          43.016340245722
+        ],
+        [
+          -87.999723671304,
+          43.016642257725
+        ],
+        [
+          -87.999409635584,
+          43.016643974809
+        ],
+        [
+          -87.997556666666,
+          43.016644952577
+        ],
+        [
+          -87.993359999999,
+          43.016708285908
+        ],
+        [
+          -87.990895573411,
+          43.016704163706
+        ],
+        [
+          -87.989860240731,
+          43.016719852585
+        ],
+        [
+          -87.989286248002,
+          43.016974796303
+        ],
+        [
+          -87.989082400117,
+          43.017061084707
+        ],
+        [
+          -87.988894645486,
+          43.017127762026
+        ],
+        [
+          -87.987770364416,
+          43.017351908458
+        ],
+        [
+          -87.985158333333,
+          43.017832986535
+        ],
+        [
+          -87.982805573411,
+          43.018277986772
+        ],
+        [
+          -87.980474791006,
+          43.018707987002
+        ],
+        [
+          -87.978291666666,
+          43.019120342147
+        ],
+        [
+          -87.976580364419,
+          43.01942249814
+        ],
+        [
+          -87.976011736108,
+          43.019532315346
+        ],
+        [
+          -87.976065380288,
+          43.019971582204
+        ],
+        [
+          -87.975818617059,
+          43.02010493045
+        ],
+        [
+          -87.975448472215,
+          43.020246122395
+        ],
+        [
+          -87.974789062168,
+          43.020361321217
+        ],
+        [
+          -87.97437600198,
+          43.020377009161
+        ],
+        [
+          -87.974091687824,
+          43.02035739923
+        ],
+        [
+          -87.973839560177,
+          43.020333867304
+        ],
+        [
+          -87.973630347874,
+          43.020337789293
+        ],
+        [
+          -87.972648659374,
+          43.020510356527
+        ],
+        [
+          -87.972546735432,
+          43.020267193466
+        ],
+        [
+          -87.972546735432,
+          43.020102469556
+        ],
+        [
+          -87.970572031083,
+          43.02045190991
+        ],
+        [
+          -87.968635476174,
+          43.020773511494
+        ],
+        [
+          -87.96853891665,
+          43.020812731084
+        ],
+        [
+          -87.967928333332,
+          43.020933186547
+        ],
+        [
+          -87.967729849865,
+          43.020968484087
+        ],
+        [
+          -87.965051666667,
+          43.021143285719
+        ],
+        [
+          -87.963524999999,
+          43.021226519924
+        ],
+        [
+          -87.961782604497,
+          43.021333973412
+        ],
+        [
+          -87.960182968917,
+          43.021425051467
+        ],
+        [
+          -87.959410492721,
+          43.021479958304
+        ],
+        [
+          -87.959228102508,
+          43.021444661057
+        ],
+        [
+          -87.957872031083,
+          43.021509066584
+        ],
+        [
+          -87.956117866387,
+          43.021626723869
+        ],
+        [
+          -87.956010578027,
+          43.021681630526
+        ],
+        [
+          -87.955245,
+          43.021726718063
+        ],
+        [
+          -87.952722031085,
+          43.021874462803
+        ],
+        [
+          -87.952158767192,
+          43.021901916027
+        ],
+        [
+          -87.952003199069,
+          43.021870540913
+        ],
+        [
+          -87.950455728834,
+          43.021970733527
+        ],
+        [
+          -87.948007395504,
+          43.022109165893
+        ],
+        [
+          -87.946204951046,
+          43.022203290819
+        ],
+        [
+          -87.946054747341,
+          43.022234665763
+        ],
+        [
+          -87.945183333335,
+          43.022311619005
+        ],
+        [
+          -87.94240812434,
+          43.022462598257
+        ],
+        [
+          -87.939588333334,
+          43.022628285657
+        ],
+        [
+          -87.936949999999,
+          43.022771618985
+        ],
+        [
+          -87.935678333335,
+          43.022828285649
+        ],
+        [
+          -87.933161302249,
+          43.022970837189
+        ],
+        [
+          -87.929442395501,
+          43.023164561343
+        ],
+        [
+          -87.928938140206,
+          43.023192013989
+        ],
+        [
+          -87.92860018187,
+          43.023203779406
+        ],
+        [
+          -87.928176392846,
+          43.02320770121
+        ],
+        [
+          -87.926851302248,
+          43.02320505105
+        ],
+        [
+          -87.925521666667,
+          43.023200639522
+        ],
+        [
+          -87.924043906744,
+          43.023193577862
+        ],
+        [
+          -87.922645000002,
+          43.02318446258
+        ],
+        [
+          -87.918353906745,
+          43.023189071616
+        ],
+        [
+          -87.914183542328,
+          43.023168972867
+        ],
+        [
+          -87.912584945755,
+          43.023168972867
+        ],
+        [
+          -87.912594582011,
+          43.023686618947
+        ],
+        [
+          -87.912574217592,
+          43.026204952172
+        ],
+        [
+          -87.91257364418,
+          43.027257402959
+        ],
+        [
+          -87.912553279762,
+          43.029280933042
+        ],
+        [
+          -87.912547341931,
+          43.030350049377
+        ],
+        [
+          -87.912558070767,
+          43.032196976722
+        ],
+        [
+          -87.912531248677,
+          43.032310692301
+        ],
+        [
+          -87.912472240079,
+          43.032475383455
+        ],
+        [
+          -87.912343494046,
+          43.032832212773
+        ],
+        [
+          -87.912246934522,
+          43.033020429599
+        ],
+        [
+          -87.912145010579,
+          43.033192961183
+        ],
+        [
+          -87.911946527112,
+          43.033502732582
+        ],
+        [
+          -87.911482915342,
+          43.034152302927
+        ],
+        [
+          -87.911295160711,
+          43.034407174259
+        ],
+        [
+          -87.911209330023,
+          43.03454833331
+        ],
+        [
+          -87.91116105026,
+          43.034662044532
+        ],
+        [
+          -87.911139592588,
+          43.034909071632
+        ],
+        [
+          -87.911159737432,
+          43.035952697438
+        ],
+        [
+          -87.911143070767,
+          43.037279855655
+        ],
+        [
+          -87.911169892858,
+          43.038797227404
+        ],
+        [
+          -87.912817395504,
+          43.03880543046
+        ],
+        [
+          -87.917342031085,
+          43.038836196614
+        ],
+        [
+          -87.921516666666,
+          43.038841618305
+        ],
+        [
+          -87.921623955027,
+          43.038865143136
+        ],
+        [
+          -87.924148595901,
+          43.038844555671
+        ],
+        [
+          -87.925350225539,
+          43.038836714059
+        ],
+        [
+          -87.925586259933,
+          43.038821030832
+        ],
+        [
+          -87.92581156549,
+          43.038777901937
+        ],
+        [
+          -87.926052964301,
+          43.038750456261
+        ],
+        [
+          -87.927159426588,
+          43.038758680921
+        ],
+        [
+          -87.930809062169,
+          43.038758189209
+        ],
+        [
+          -87.932812341931,
+          43.0387594076
+        ],
+        [
+          -87.932908901456,
+          43.038758189208
+        ],
+        [
+          -87.932903124339,
+          43.040121618251
+        ],
+        [
+          -87.932881666668,
+          43.041456618195
+        ],
+        [
+          -87.932881666668,
+          43.041676173576
+        ],
+        [
+          -87.932962132938,
+          43.041880045726
+        ],
+        [
+          -87.933085514553,
+          43.042087837797
+        ],
+        [
+          -87.933348371037,
+          43.042413246608
+        ],
+        [
+          -87.933605863102,
+          43.042679845311
+        ],
+        [
+          -87.933761431225,
+          43.042915078499
+        ],
+        [
+          -87.933825804241,
+          43.043071900123
+        ],
+        [
+          -87.933841897495,
+          43.043267926589
+        ],
+        [
+          -87.933839791005,
+          43.044161712812
+        ],
+        [
+          -87.933818333332,
+          43.045866618009
+        ],
+        [
+          -87.933803333332,
+          43.047074951291
+        ],
+        [
+          -87.933760937832,
+          43.048446523991
+        ],
+        [
+          -87.933696511243,
+          43.052419857917
+        ],
+        [
+          -87.933653542329,
+          43.055733870654
+        ],
+        [
+          -87.933755466272,
+          43.056705955081
+        ],
+        [
+          -87.933626720239,
+          43.056854902139
+        ],
+        [
+          -87.936648333332,
+          43.058988284123
+        ],
+        [
+          -87.938501355821,
+          43.060374859109
+        ],
+        [
+          -87.939069984132,
+          43.060813833661
+        ],
+        [
+          -87.939214823419,
+          43.060872624657
+        ],
+        [
+          -87.940636394197,
+          43.061973965561
+        ],
+        [
+          -87.941273333334,
+          43.062524950639
+        ],
+        [
+          -87.944928333335,
+          43.065481617182
+        ],
+        [
+          -87.947207031086,
+          43.067313688845
+        ],
+        [
+          -87.949867395502,
+          43.069399274941
+        ],
+        [
+          -87.952404271163,
+          43.071381844295
+        ],
+        [
+          -87.954148333335,
+          43.072741845196
+        ],
+        [
+          -87.956025879645,
+          43.074219154299
+        ],
+        [
+          -87.957082502644,
+          43.075109046199
+        ],
+        [
+          -87.961316666666,
+          43.078418283305
+        ],
+        [
+          -87.964701666666,
+          43.081024949865
+        ],
+        [
+          -87.967037813493,
+          43.082821119113
+        ],
+        [
+          -87.969326666665,
+          43.084593283046
+        ],
+        [
+          -87.972951666666,
+          43.087423282928
+        ],
+        [
+          -87.975843333332,
+          43.0896799495
+        ],
+        [
+          -87.979594999998,
+          43.092653282711
+        ],
+        [
+          -87.981883333333,
+          43.094448282634
+        ],
+        [
+          -87.985343382962,
+          43.097217716341
+        ],
+        [
+          -87.985796725529,
+          43.097042698775
+        ],
+        [
+          -87.985963022488,
+          43.097015279175
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7716",
+          "name": "68TH STREET + ORCHARD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.998747347222,
+            43.015300842413
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7715",
+          "name": "GREENFIELD + 70TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.999409635584,
+            43.016643974809
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1752",
+          "name": "GREENFIELD + 6767 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.997556666666,
+            43.016644952577
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1753",
+          "name": "GREENFIELD + 65TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.993359999999,
+            43.016708285908
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1755",
+          "name": "GREENFIELD + NATIONAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.990895573411,
+            43.016704163706
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1756",
+          "name": "NATIONAL + 60TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.987770364416,
+            43.017351908458
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1757",
+          "name": "NATIONAL + 58TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.985158333333,
+            43.017832986535
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1758",
+          "name": "NATIONAL + 56TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.982805573411,
+            43.018277986772
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8558",
+          "name": "NATIONAL + 54TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.980474791006,
+            43.018707987002
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1760",
+          "name": "NATIONAL + 52ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.978291666666,
+            43.019120342147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2354",
+          "name": "NATIONAL + 50TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.976580364419,
+            43.01942249814
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2355",
+          "name": "WASHINGTON + VA MEDICAL CENTER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.974789062168,
+            43.020361321217
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1763",
+          "name": "NATIONAL + MILLER PARK WAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.970572031083,
+            43.02045190991
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1764",
+          "name": "NATIONAL + 4300 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967928333332,
+            43.020933186547
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1765",
+          "name": "NATIONAL + 41ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.965051666667,
+            43.021143285719
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1766",
+          "name": "NATIONAL + 40TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.963524999999,
+            43.021226519924
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1767",
+          "name": "NATIONAL + 38TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.961782604497,
+            43.021333973412
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1768",
+          "name": "NATIONAL + 37TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.960182968917,
+            43.021425051467
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1769",
+          "name": "NATIONAL + 35TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957872031083,
+            43.021509066584
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1770",
+          "name": "NATIONAL + 33RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.955245,
+            43.021726718063
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1771",
+          "name": "NATIONAL + 31ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.952722031085,
+            43.021874462803
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1772",
+          "name": "NATIONAL + 29TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.950455728834,
+            43.021970733527
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1773",
+          "name": "NATIONAL + LAYTON BLVD."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948007395504,
+            43.022109165893
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1774",
+          "name": "NATIONAL + 25TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.945183333335,
+            43.022311619005
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1775",
+          "name": "NATIONAL + 23RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94240812434,
+            43.022462598257
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1776",
+          "name": "NATIONAL + 21ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.939588333334,
+            43.022628285657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1777",
+          "name": "NATIONAL + 19TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.936949999999,
+            43.022771618985
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1778",
+          "name": "NATIONAL + 18TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.935678333335,
+            43.022828285649
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1779",
+          "name": "NATIONAL + CHAVEZ DRIVE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933161302249,
+            43.022970837189
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1780",
+          "name": "NATIONAL + 14TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.929442395501,
+            43.023164561343
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1781",
+          "name": "NATIONAL + 12TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.926851302248,
+            43.02320505105
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1782",
+          "name": "NATIONAL + 11TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.925521666667,
+            43.023200639522
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1783",
+          "name": "NATIONAL + 10TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.924043906744,
+            43.023193577862
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1784",
+          "name": "NATIONAL + 9TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.922645000002,
+            43.02318446258
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1785",
+          "name": "NATIONAL + 6TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.918353906745,
+            43.023189071616
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1787",
+          "name": "NATIONAL + 3RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.914183542328,
+            43.023168972867
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1788",
+          "name": "2ND STREET + NATIONAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.912594582011,
+            43.023686618947
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1790",
+          "name": "2ND STREET + VIRGINIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.912574217592,
+            43.026204952172
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1791",
+          "name": "2ND STREET + FLORIDA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.91257364418,
+            43.027257402959
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1792",
+          "name": "2ND STREET + PITTSBURGH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.912553279762,
+            43.029280933042
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1793",
+          "name": "2ND STREET + SEEBOTH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.912547341931,
+            43.030350049377
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1794",
+          "name": "PLANKINTON + BUFFALO - ST. PAUL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.911482915342,
+            43.034152302927
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1795",
+          "name": "PLANKINTON + CLYBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.911159737432,
+            43.035952697438
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1796",
+          "name": "PLANKINTON + MICHIGAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.911143070767,
+            43.037279855655
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "406",
+          "name": "WISCONSIN + 2ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.912817395504,
+            43.03880543046
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7",
+          "name": "WISCONSIN + 5TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.917342031085,
+            43.038836196614
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "409",
+          "name": "WISCONSIN + 8TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.921516666666,
+            43.038841618305
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "10",
+          "name": "WISCONSIN + 10TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.924148595901,
+            43.038844555671
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "410",
+          "name": "WISCONSIN + 12TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927159426588,
+            43.038758680921
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "411",
+          "name": "WISCONSIN + 14TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.930809062169,
+            43.038758189209
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "412",
+          "name": "WISCONSIN + 16TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932812341931,
+            43.0387594076
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3826",
+          "name": "16TH STREET + WELLS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932903124339,
+            43.040121618251
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3827",
+          "name": "16TH STREET + KILBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932881666668,
+            43.041456618195
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3829",
+          "name": "17TH STREET + HIGHLAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933839791005,
+            43.044161712812
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3830",
+          "name": "17TH STREET + JUNEAU"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933818333332,
+            43.045866618009
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3831",
+          "name": "17TH STREET + MCKINLEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933803333332,
+            43.047074951291
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3832",
+          "name": "17TH STREET + VLIET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933760937832,
+            43.048446523991
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3834",
+          "name": "17TH STREET + WALNUT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933696511243,
+            43.052419857917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3836",
+          "name": "17TH STREET + 1942 N."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933653542329,
+            43.055733870654
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3839",
+          "name": "FOND DU LAC + 19TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.936648333332,
+            43.058988284123
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "13",
+          "name": "FOND DU LAC + NORTH AVE - 21ST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.938501355821,
+            43.060374859109
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3845",
+          "name": "FOND DU LAC + 23RD ST - OAK"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.941273333334,
+            43.062524950639
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3844",
+          "name": "FOND DU LAC + TAMARACK"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.944928333335,
+            43.065481617182
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "14",
+          "name": "FOND DU LAC + 27TH ST - CENTER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947207031086,
+            43.067313688845
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3846",
+          "name": "FOND DU LAC + 29TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.949867395502,
+            43.069399274941
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3847",
+          "name": "FOND DU LAC + LOCUST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.952404271163,
+            43.071381844295
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "15",
+          "name": "FOND DU LAC + 32ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.954148333335,
+            43.072741845196
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "16",
+          "name": "FOND DU LAC + 35TH ST - BURLEIGH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957082502644,
+            43.075109046199
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3851",
+          "name": "FOND DU LAC + 3823 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.961316666666,
+            43.078418283305
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3853",
+          "name": "FOND DU LAC + TOWNSEND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.964701666666,
+            43.081024949865
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "17",
+          "name": "FOND DU LAC + SHERMAN - KEEFE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967037813493,
+            43.082821119113
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3854",
+          "name": "FOND DU LAC + ROOSEVELT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.969326666665,
+            43.084593283046
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3856",
+          "name": "FOND DU LAC + HOYT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.972951666666,
+            43.087423282928
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "18",
+          "name": "FOND DU LAC + CAPITOL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.975843333332,
+            43.0896799495
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3859",
+          "name": "FOND DU LAC + MAXWELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.979594999998,
+            43.092653282711
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "19",
+          "name": "FOND DU LAC + ELY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.981883333333,
+            43.094448282634
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3898",
+          "name": "CONGRESS + FOND DU LAC"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.985963022488,
+            43.097015279175
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -27,45 +27,11 @@ describe('patterns', function(){
             lib.patterns.getGeoJSON()
                 .then(function(data){
                     data.should.be.an.Array
-                    data.forEach(function(json){
-                        linter.hint(json).forEach(function(err){
+                    data.forEach(function(pattern){
+                        linter.hint(JSON.stringify(pattern.path)).forEach(function(err){
                             if (err) return done(new Error(err.message))
                         })
-                    })
-                    return done(null)
-                }, done)
-        })
-
-    })
-
-})
-
-describe('stops', function(){
-
-    describe('getData()', function(){
-
-        this.timeout(TIMEOUT)
-
-        it('should get the data', function(done){
-            lib.stops.getData()
-                .then(function(data){
-                    data.should.be.an.Array
-                    return done(null)
-                }, done)
-        })
-
-    })
-
-    describe('getGeoJSON()', function(){
-
-        this.timeout(TIMEOUT)
-
-        it('should get the GeoJSON', function(done){
-            lib.stops.getGeoJSON()
-                .then(function(data){
-                    data.should.be.an.Array
-                    data.forEach(function(json){
-                        linter.hint(json).forEach(function(err){
+                        linter.hint(JSON.stringify(pattern.stops)).forEach(function(err){
                             if (err) return done(new Error(err.message))
                         })
                     })

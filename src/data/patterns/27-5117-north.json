@@ -1,0 +1,2016 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "27",
+      "name": "27th Street",
+      "color": "#f58220",
+      "pattern_id": "5117",
+      "direction": "NORTH"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -87.95096833333201,
+          42.923749956554
+        ],
+        [
+          -87.95090932473397,
+          42.924358817155
+        ],
+        [
+          -87.95074302777499,
+          42.924295967307
+        ],
+        [
+          -87.95060355290599,
+          42.92425668612
+        ],
+        [
+          -87.95043189152898,
+          42.924238421492
+        ],
+        [
+          -87.94981498345601,
+          42.924225261152
+        ],
+        [
+          -87.94944483861201,
+          42.924205620538
+        ],
+        [
+          -87.949348333334,
+          42.926983289747
+        ],
+        [
+          -87.94919854232899,
+          42.930195434126
+        ],
+        [
+          -87.94914651124401,
+          42.932599361917
+        ],
+        [
+          -87.94910890674402,
+          42.934212448506
+        ],
+        [
+          -87.94906166666601,
+          42.937506622626
+        ],
+        [
+          -87.94906166666601,
+          42.938643289244
+        ],
+        [
+          -87.948998333335,
+          42.941146622469
+        ],
+        [
+          -87.94890333333399,
+          42.944619955653
+        ],
+        [
+          -87.94885499999998,
+          42.946621622235
+        ],
+        [
+          -87.94880666666597,
+          42.94838662216
+        ],
+        [
+          -87.94876,
+          42.950238288746
+        ],
+        [
+          -87.94871166666502,
+          42.952026622003
+        ],
+        [
+          -87.948696666665,
+          42.954013288584
+        ],
+        [
+          -87.94866500000103,
+          42.955681621846
+        ],
+        [
+          -87.9486,
+          42.957493288435
+        ],
+        [
+          -87.94858499999799,
+          42.959249955026
+        ],
+        [
+          -87.94855333333203,
+          42.960553288302
+        ],
+        [
+          -87.948458333335,
+          42.964511621466
+        ],
+        [
+          -87.94839875132197,
+          42.966529472228
+        ],
+        [
+          -87.948355782406,
+          42.968771621285
+        ],
+        [
+          -87.94830375132199,
+          42.971424954504
+        ],
+        [
+          -87.94826078240703,
+          42.973777587895
+        ],
+        [
+          -87.94822484457598,
+          42.976694738968
+        ],
+        [
+          -87.94814437830502,
+          42.979599003715
+        ],
+        [
+          -87.948192550925,
+          42.980763455389
+        ],
+        [
+          -87.948171093253,
+          42.981717105157
+        ],
+        [
+          -87.94813942658601,
+          42.983342696311
+        ],
+        [
+          -87.948123333333,
+          42.984824953933
+        ],
+        [
+          -87.948108333334,
+          42.98654828719
+        ],
+        [
+          -87.948039062171,
+          42.98883780176
+        ],
+        [
+          -87.94801224008097,
+          42.990120936253
+        ],
+        [
+          -87.94805468915399,
+          42.990987696472
+        ],
+        [
+          -87.94811260449796,
+          42.992116724993
+        ],
+        [
+          -87.94808687566001,
+          42.995787210355
+        ],
+        [
+          -87.94807666666799,
+          42.997634953385
+        ],
+        [
+          -87.94818234193201,
+          43.000653979574
+        ],
+        [
+          -87.94817161309601,
+          43.001003147407
+        ],
+        [
+          -87.947996666667,
+          43.003078286488
+        ],
+        [
+          -87.94790166666803,
+          43.004866619745
+        ],
+        [
+          -87.94787000000099,
+          43.006686619666
+        ],
+        [
+          -87.94783833333497,
+          43.008466619593
+        ],
+        [
+          -87.94780666666799,
+          43.010334952846
+        ],
+        [
+          -87.94777499999901,
+          43.012433286089
+        ],
+        [
+          -87.94772666666802,
+          43.014029952689
+        ],
+        [
+          -87.94767833333299,
+          43.0168832859
+        ],
+        [
+          -87.94766224007901,
+          43.018958086692
+        ],
+        [
+          -87.947657395504,
+          43.022069363803
+        ],
+        [
+          -87.94764666666799,
+          43.024068285596
+        ],
+        [
+          -87.94764666666498,
+          43.025633285529
+        ],
+        [
+          -87.94756083597798,
+          43.033035733462
+        ],
+        [
+          -87.94764666666697,
+          43.034653285149
+        ],
+        [
+          -87.94765739550303,
+          43.034963049177
+        ],
+        [
+          -87.94772176851899,
+          43.035061075442
+        ],
+        [
+          -87.94767833333503,
+          43.036004951758
+        ],
+        [
+          -87.94766333333399,
+          43.038563284984
+        ],
+        [
+          -87.94764239550398,
+          43.040152602027
+        ],
+        [
+          -87.947647759922,
+          43.041523681689
+        ],
+        [
+          -87.94764239550398,
+          43.043064471711
+        ],
+        [
+          -87.94758338690599,
+          43.043146802913
+        ],
+        [
+          -87.94751364947103,
+          43.043809369041
+        ],
+        [
+          -87.94753661309403,
+          43.044233985431
+        ],
+        [
+          -87.94763317261902,
+          43.044904380655
+        ],
+        [
+          -87.94762572883701,
+          43.045794458736
+        ],
+        [
+          -87.94762036441699,
+          43.047126523794
+        ],
+        [
+          -87.94761500000101,
+          43.048576617894
+        ],
+        [
+          -87.947589271163,
+          43.051287604404
+        ],
+        [
+          -87.94755114682602,
+          43.053257790799
+        ],
+        [
+          -87.94754036441799,
+          43.054843685384
+        ],
+        [
+          -87.94753124867901,
+          43.056329364545
+        ],
+        [
+          -87.94750442658903,
+          43.057768192052
+        ],
+        [
+          -87.94748296891703,
+          43.059026369556
+        ],
+        [
+          -87.94742932473702,
+          43.05909300129
+        ],
+        [
+          -87.947439999999,
+          43.060538284056
+        ],
+        [
+          -87.94740833333299,
+          43.06237328398
+        ],
+        [
+          -87.94736541798898,
+          43.063803812491
+        ],
+        [
+          -87.94741369775102,
+          43.06389003506
+        ],
+        [
+          -87.947404062168,
+          43.064190354643
+        ],
+        [
+          -87.94738312434004,
+          43.065600940797
+        ],
+        [
+          -87.94734609325599,
+          43.067173103143
+        ],
+        [
+          -87.94735088425699,
+          43.067848283749
+        ],
+        [
+          -87.947308488756,
+          43.069664860501
+        ],
+        [
+          -87.94729718650797,
+          43.071493194107
+        ],
+        [
+          -87.94726499999899,
+          43.073339950185
+        ],
+        [
+          -87.94722796891404,
+          43.075169276174
+        ],
+        [
+          -87.94720760449798,
+          43.07693409967
+        ],
+        [
+          -87.94717593783099,
+          43.079094277016
+        ],
+        [
+          -87.94714854232899,
+          43.08108144123
+        ],
+        [
+          -87.94708999999898,
+          43.083289949767
+        ],
+        [
+          -87.94706906216902,
+          43.084684862752
+        ],
+        [
+          -87.94703739550403,
+          43.086148196305
+        ],
+        [
+          -87.946996093255,
+          43.088003110264
+        ],
+        [
+          -87.94697515542202,
+          43.089617938804
+        ],
+        [
+          -87.94687848875697,
+          43.092728525084
+        ],
+        [
+          -87.94682645767398,
+          43.094996117045
+        ],
+        [
+          -87.94678885317398,
+          43.096796531235
+        ],
+        [
+          -87.94672499999899,
+          43.098914949116
+        ],
+        [
+          -87.94668744907301,
+          43.100524800606
+        ],
+        [
+          -87.94663380489203,
+          43.100599220941
+        ],
+        [
+          -87.94660317791102,
+          43.100762698858
+        ],
+        [
+          -87.94656562698503,
+          43.101581314385
+        ],
+        [
+          -87.94649052513199,
+          43.101753653102
+        ],
+        [
+          -87.94635105026299,
+          43.101847655833
+        ],
+        [
+          -87.94599333333304,
+          43.101970864939
+        ],
+        [
+          -87.94533350991503,
+          43.102190203644
+        ],
+        [
+          -87.94604161309502,
+          43.103537552732
+        ],
+        [
+          -87.94605234193102,
+          43.103666802685
+        ],
+        [
+          -87.94636150595397,
+          43.104335949085
+        ],
+        [
+          -87.94638832804401,
+          43.104398614946
+        ],
+        [
+          -87.94180848875601,
+          43.104359782524
+        ],
+        [
+          -87.93957431944602,
+          43.104324199228
+        ],
+        [
+          -87.93675994642899,
+          43.104283532734
+        ],
+        [
+          -87.93425369775298,
+          43.104255282577
+        ],
+        [
+          -87.93108869111501,
+          43.104235699457
+        ],
+        [
+          -87.93125999999899,
+          43.10503494886
+        ],
+        [
+          -87.93158906217002,
+          43.106409282861
+        ],
+        [
+          -87.93200666666701,
+          43.10816494873
+        ],
+        [
+          -87.932784999999,
+          43.11147994859
+        ],
+        [
+          -87.93354833333296,
+          43.114221615142
+        ],
+        [
+          -87.93436000000099,
+          43.117638281667
+        ],
+        [
+          -87.934799635584,
+          43.119311353877
+        ],
+        [
+          -87.93508359589799,
+          43.120393383209
+        ],
+        [
+          -87.93514260449598,
+          43.120589162437
+        ],
+        [
+          -87.93511041798774,
+          43.12323359969738
+        ],
+        [
+          -87.93510505356971,
+          43.12466270730572
+        ],
+        [
+          -87.93504068055336,
+          43.12499550839477
+        ],
+        [
+          -87.93494948544685,
+          43.125277409077285
+        ],
+        [
+          -87.93449887433235,
+          43.12623664472422
+        ],
+        [
+          -87.93533531084631,
+          43.126254129162234
+        ],
+        [
+          -87.93749687037291,
+          43.126305371915855
+        ],
+        [
+          -87.93745838690302,
+          43.127910529684
+        ],
+        [
+          -87.937432084656,
+          43.128893659983
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8318",
+          "name": "27TH STREET + 6701 S. LOT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.95096833333201,
+            42.923749956554
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8319",
+          "name": "27TH STREET + 6508 S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.949348333334,
+            42.926983289747
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4005",
+          "name": "27TH STREET + COLLEGE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94919854232899,
+            42.930195434126
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8310",
+          "name": "27TH STREET + MANGOLD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94914651124401,
+            42.932599361917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4007",
+          "name": "27TH STREET + KIMBERLY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94910890674402,
+            42.934212448506
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4008",
+          "name": "27TH STREET + RAMSEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94906166666601,
+            42.937506622626
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4009",
+          "name": "27TH STREET + GOLDCREST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94906166666601,
+            42.938643289244
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4010",
+          "name": "27TH STREET + PARNELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948998333335,
+            42.941146622469
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4011",
+          "name": "27TH STREET + GRANGE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94890333333399,
+            42.944619955653
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4012",
+          "name": "27TH STREET + MALLORY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94885499999998,
+            42.946621622235
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4013",
+          "name": "27TH STREET + UPHAM"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94880666666597,
+            42.94838662216
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4014",
+          "name": "27TH STREET + ABBOTT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94876,
+            42.950238288746
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4015",
+          "name": "27TH STREET + EDGERTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94871166666502,
+            42.952026622003
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4016",
+          "name": "27TH STREET + HOLMES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948696666665,
+            42.954013288584
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4017",
+          "name": "27TH STREET + CARPENTER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94866500000103,
+            42.955681621846
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4018",
+          "name": "27TH STREET + BARNARD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.9486,
+            42.957493288435
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4019",
+          "name": "27TH STREET + LAYTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94858499999799,
+            42.959249955026
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4020",
+          "name": "27TH STREET + 4600 S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94855333333203,
+            42.960553288302
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4021",
+          "name": "27TH STREET + BOTTSFORD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948458333335,
+            42.964511621466
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4022",
+          "name": "27TH STREET + BOLIVAR - COLDSPRING"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94839875132197,
+            42.966529472228
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4023",
+          "name": "27TH STREET + PLAINFIELD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948355782406,
+            42.968771621285
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4024",
+          "name": "27TH STREET + 4000 S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94830375132199,
+            42.971424954504
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4025",
+          "name": "27TH STREET + HOWARD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94826078240703,
+            42.973777587895
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4026",
+          "name": "27TH STREET + 3744 S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94822484457598,
+            42.976694738968
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4027",
+          "name": "27TH STREET + MORGAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948171093253,
+            42.981717105157
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4028",
+          "name": "27TH STREET + HOLT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94813942658601,
+            42.983342696311
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4029",
+          "name": "27TH STREET + OHIO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948123333333,
+            42.984824953933
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4030",
+          "name": "27TH STREET + EUCLID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948108333334,
+            42.98654828719
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4031",
+          "name": "27TH STREET + OKLAHOMA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948039062171,
+            42.98883780176
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8505",
+          "name": "27TH STREET + KINNICKINNIC RIVER PKWY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94805468915399,
+            42.990987696472
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4032",
+          "name": "27TH STREET + DAKOTA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94811260449796,
+            42.992116724993
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4033",
+          "name": "27TH STREET + CLEVELAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94808687566001,
+            42.995787210355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4034",
+          "name": "27TH STREET + HARRISON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94807666666799,
+            42.997634953385
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4035",
+          "name": "27TH STREET + FOREST HOME"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94818234193201,
+            43.000653979574
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4036",
+          "name": "27TH STREET + LINCOLN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947996666667,
+            43.003078286488
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4037",
+          "name": "LAYTON BLVD + GRANT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94790166666803,
+            43.004866619745
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4038",
+          "name": "LAYTON BLVD + BECHER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94787000000099,
+            43.006686619666
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4039",
+          "name": "LAYTON BLVD + ROGERS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94783833333497,
+            43.008466619593
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4040",
+          "name": "LAYTON BLVD + BURNHAM"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94780666666799,
+            43.010334952846
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4041",
+          "name": "LAYTON BLVD + MITCHELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94777499999901,
+            43.012433286089
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4042",
+          "name": "LAYTON BLVD + LAPHAM"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94772666666802,
+            43.014029952689
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4043",
+          "name": "LAYTON BLVD + GREENFIELD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94767833333299,
+            43.0168832859
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4044",
+          "name": "LAYTON BLVD + SCOTT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94766224007901,
+            43.018958086692
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4045",
+          "name": "LAYTON BLVD + NATIONAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947657395504,
+            43.022069363803
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4046",
+          "name": "LAYTON BLVD + PIERCE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94764666666799,
+            43.024068285596
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4047",
+          "name": "LAYTON BLVD + EVERGREEN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94764666666498,
+            43.025633285529
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4048",
+          "name": "27TH STREET + GREVES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94756083597798,
+            43.033035733462
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4049",
+          "name": "27TH STREET + SAINT PAUL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94764666666697,
+            43.034653285149
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4050",
+          "name": "27TH STREET + CLYBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94767833333503,
+            43.036004951758
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4051",
+          "name": "27TH STREET + WISCONSIN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94766333333399,
+            43.038563284984
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4052",
+          "name": "27TH STREET + WELLS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94764239550398,
+            43.040152602027
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3940",
+          "name": "27TH STREET + KILBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947647759922,
+            43.041523681689
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4055",
+          "name": "27TH STREET + HIGHLAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94753661309403,
+            43.044233985431
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4056",
+          "name": "27TH STREET + JUNEAU"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94762572883701,
+            43.045794458736
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4057",
+          "name": "27TH STREET + MCKINLEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94762036441699,
+            43.047126523794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4058",
+          "name": "27TH STREET + VLIET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94761500000101,
+            43.048576617894
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4059",
+          "name": "27TH STREET + GALENA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947589271163,
+            43.051287604404
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4060",
+          "name": "27TH STREET + LISBON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94755114682602,
+            43.053257790799
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4061",
+          "name": "27TH STREET + VINE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94754036441799,
+            43.054843685384
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4062",
+          "name": "27TH STREET + BROWN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94753124867901,
+            43.056329364545
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4063",
+          "name": "27TH STREET + LLOYD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94750442658903,
+            43.057768192052
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4064",
+          "name": "27TH STREET + NORTH AVENUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947439999999,
+            43.060538284056
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4065",
+          "name": "27TH STREET + MEINECKE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94740833333299,
+            43.06237328398
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4066",
+          "name": "27TH STREET + WRIGHT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947404062168,
+            43.064190354643
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4067",
+          "name": "27TH STREET + MEDFORD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94738312434004,
+            43.065600940797
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4068",
+          "name": "27TH STREET + FOND DU LAC"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94734609325599,
+            43.067173103143
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4069",
+          "name": "27TH STREET + CENTER STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94735088425699,
+            43.067848283749
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4070",
+          "name": "27TH STREET + HADLEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947308488756,
+            43.069664860501
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4071",
+          "name": "27TH STREET + LOCUST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94729718650797,
+            43.071493194107
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4072",
+          "name": "27TH STREET + CHAMBERS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94726499999899,
+            43.073339950185
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4073",
+          "name": "27TH STREET + BURLEIGH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94722796891404,
+            43.075169276174
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4074",
+          "name": "27TH STREET + AUER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94720760449798,
+            43.07693409967
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4075",
+          "name": "27TH STREET + CONCORDIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94717593783099,
+            43.079094277016
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4076",
+          "name": "27TH STREET + TOWNSEND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94714854232899,
+            43.08108144123
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4077",
+          "name": "27TH STREET + 3533 N."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94708999999898,
+            43.083289949767
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4079",
+          "name": "27TH STREET + NASH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94706906216902,
+            43.084684862752
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4080",
+          "name": "27TH STREET + VIENNA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94703739550403,
+            43.086148196305
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4081",
+          "name": "27TH STREET + MELVINA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.946996093255,
+            43.088003110264
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4082",
+          "name": "27TH STREET + CAPITOL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94697515542202,
+            43.089617938804
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4083",
+          "name": "27TH STREET + HOPE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94687848875697,
+            43.092728525084
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4084",
+          "name": "27TH STREET + ROOSEVELT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94682645767398,
+            43.094996117045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4085",
+          "name": "27TH STREET + ATKINSON - CONGRESS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94678885317398,
+            43.096796531235
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4087",
+          "name": "27TH STREET + RUBY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94672499999899,
+            43.098914949116
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4088",
+          "name": "27TH STREET + GLENDALE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94660317791102,
+            43.100762698858
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4089",
+          "name": "CORNELL + 27TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94599333333304,
+            43.101970864939
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "811",
+          "name": "TEUTONIA + HAMPTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94636150595397,
+            43.104335949085
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4092",
+          "name": "HAMPTON + 24TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94180848875601,
+            43.104359782524
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4093",
+          "name": "HAMPTON + 22ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93957431944602,
+            43.104324199228
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4094",
+          "name": "HAMPTON + 20TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93675994642899,
+            43.104283532734
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8506",
+          "name": "HAMPTON + 19TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93425369775298,
+            43.104255282577
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3899",
+          "name": "GREEN BAY + HAMPTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93125999999899,
+            43.10503494886
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5659",
+          "name": "GREEN BAY + STARK"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93158906217002,
+            43.106409282861
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5660",
+          "name": "GREEN BAY + FAIRMOUNT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93200666666701,
+            43.10816494873
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1815",
+          "name": "GREEN BAY + VILLARD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932784999999,
+            43.11147994859
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1909",
+          "name": "GREEN BAY + LAWN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93354833333296,
+            43.114221615142
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1916",
+          "name": "GREEN BAY + SHERIDAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93436000000099,
+            43.117638281667
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2240",
+          "name": "GREEN BAY + SILVER SPRING"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.934799635584,
+            43.119311353877
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2014",
+          "name": "GREEN BAY + MARNE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93508359589799,
+            43.120393383209
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2030",
+          "name": "GREEN BAY + CIVIC DRIVE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93511041798774,
+            43.12323359969738
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp061",
+          "name": "FLORIST + GREENBAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93533531084631,
+            43.126254129162234
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp062",
+          "name": "FLORIST + BAKER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93749687037291,
+            43.126305371915855
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2034",
+          "name": "BAKER + 6120 N."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93745838690302,
+            43.127910529684
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2039",
+          "name": "BAKER + CAMDEN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.937432084656,
+            43.128893659983
+          ]
+        }
+      }
+    ]
+  }
+}

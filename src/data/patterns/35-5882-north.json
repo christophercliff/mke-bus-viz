@@ -1,0 +1,1530 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "35",
+      "name": "35th Street",
+      "color": "#8dc63f",
+      "pattern_id": "5882",
+      "direction": "NORTH"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -87.958302031085,
+          42.973252321074
+        ],
+        [
+          -87.958248853174,
+          42.976646620947
+        ],
+        [
+          -87.958195728835,
+          42.979300652604
+        ],
+        [
+          -87.95807234722,
+          42.985666037985
+        ],
+        [
+          -87.958138333333,
+          42.981064954092
+        ],
+        [
+          -87.958041666668,
+          42.984753287267
+        ],
+        [
+          -87.958020208996,
+          42.985714680827
+        ],
+        [
+          -87.957963333332,
+          42.988304953784
+        ],
+        [
+          -87.957957968914,
+          42.988928871971
+        ],
+        [
+          -87.958038435184,
+          42.988999503819
+        ],
+        [
+          -87.958021248679,
+          42.992039953623
+        ],
+        [
+          -87.958010519843,
+          42.993425037728
+        ],
+        [
+          -87.957956875663,
+          42.993578062102
+        ],
+        [
+          -87.957924689155,
+          42.993911575444
+        ],
+        [
+          -87.957946146827,
+          42.994123453568
+        ],
+        [
+          -87.958010519843,
+          42.994398109308
+        ],
+        [
+          -87.958159791006,
+          42.994682349727
+        ],
+        [
+          -87.95858358003,
+          42.995251272938
+        ],
+        [
+          -87.958706961645,
+          42.995494535049
+        ],
+        [
+          -87.958787427916,
+          42.995788802444
+        ],
+        [
+          -87.958824978842,
+          42.995973209293
+        ],
+        [
+          -87.958792792334,
+          42.996455803322
+        ],
+        [
+          -87.958733783735,
+          42.996785377554
+        ],
+        [
+          -87.958143697752,
+          42.998931490332
+        ],
+        [
+          -87.957907663359,
+          42.99982208551
+        ],
+        [
+          -87.957851666668,
+          43.001131619904
+        ],
+        [
+          -87.957830155425,
+          43.002920440294
+        ],
+        [
+          -87.957771146827,
+          43.00363836349
+        ],
+        [
+          -87.957803333335,
+          43.003720747582
+        ],
+        [
+          -87.957787759921,
+          43.004716132391
+        ],
+        [
+          -87.957739999998,
+          43.006551619673
+        ],
+        [
+          -87.957702395504,
+          43.008391721182
+        ],
+        [
+          -87.95767182209,
+          43.010159952854
+        ],
+        [
+          -87.95761275992,
+          43.012225929408
+        ],
+        [
+          -87.957484013887,
+          43.016442478848
+        ],
+        [
+          -87.957430369707,
+          43.016513079072
+        ],
+        [
+          -87.957549999999,
+          43.013989952691
+        ],
+        [
+          -87.957533333334,
+          43.015008285979
+        ],
+        [
+          -87.957433022486,
+          43.016822896971
+        ],
+        [
+          -87.95744911574,
+          43.016944485442
+        ],
+        [
+          -87.957481302248,
+          43.017077840262
+        ],
+        [
+          -87.957658328043,
+          43.017521046848
+        ],
+        [
+          -87.957665937829,
+          43.018938186248
+        ],
+        [
+          -87.957613853174,
+          43.021453577045
+        ],
+        [
+          -87.957622968917,
+          43.027369363917
+        ],
+        [
+          -87.957671248679,
+          43.031459392731
+        ],
+        [
+          -87.957601511245,
+          43.031639771236
+        ],
+        [
+          -87.957591875661,
+          43.032531127657
+        ],
+        [
+          -87.957629426587,
+          43.032923247317
+        ],
+        [
+          -87.957699164022,
+          43.033087936828
+        ],
+        [
+          -87.957687395503,
+          43.033627794137
+        ],
+        [
+          -87.957670728834,
+          43.0347009342
+        ],
+        [
+          -87.957660000001,
+          43.036068285089
+        ],
+        [
+          -87.957644426589,
+          43.038587601695
+        ],
+        [
+          -87.957623488755,
+          43.039961618257
+        ],
+        [
+          -87.957617604499,
+          43.041587015038
+        ],
+        [
+          -87.957628333334,
+          43.043188284788
+        ],
+        [
+          -87.957613333332,
+          43.044388284737
+        ],
+        [
+          -87.957596146825,
+          43.04581877729
+        ],
+        [
+          -87.957581666667,
+          43.048576617893
+        ],
+        [
+          -87.957581666666,
+          43.051438284439
+        ],
+        [
+          -87.957560208994,
+          43.054557697841
+        ],
+        [
+          -87.957548906746,
+          43.056401031214
+        ],
+        [
+          -87.957506511242,
+          43.057819950837
+        ],
+        [
+          -87.957486666669,
+          43.059178284113
+        ],
+        [
+          -87.957464115741,
+          43.060525536811
+        ],
+        [
+          -87.957449115742,
+          43.062357112041
+        ],
+        [
+          -87.957410417989,
+          43.064173193011
+        ],
+        [
+          -87.95739541799,
+          43.066005445687
+        ],
+        [
+          -87.957363751324,
+          43.067832788322
+        ],
+        [
+          -87.957342813494,
+          43.06964594166
+        ],
+        [
+          -87.957374999998,
+          43.071488283598
+        ],
+        [
+          -87.957326666666,
+          43.073451616847
+        ],
+        [
+          -87.957257449075,
+          43.074762787146
+        ],
+        [
+          -87.957237084657,
+          43.076937698331
+        ],
+        [
+          -87.957188751324,
+          43.079046119753
+        ],
+        [
+          -87.957155991403,
+          43.081049949863
+        ],
+        [
+          -87.957136146826,
+          43.082455621876
+        ],
+        [
+          -87.957109844577,
+          43.084263370102
+        ],
+        [
+          -87.957093177908,
+          43.085881118591
+        ],
+        [
+          -87.957057240078,
+          43.08772953799
+        ],
+        [
+          -87.95705234193,
+          43.089597028367
+        ],
+        [
+          -87.956987968916,
+          43.091436133247
+        ],
+        [
+          -87.956941768518,
+          43.093224778715
+        ],
+        [
+          -87.956888124337,
+          43.09528702995
+        ],
+        [
+          -87.956833906746,
+          43.097151116679
+        ],
+        [
+          -87.956833906746,
+          43.097249043549
+        ],
+        [
+          -87.956855364418,
+          43.097350887328
+        ],
+        [
+          -87.957527449075,
+          43.09889553275
+        ],
+        [
+          -87.958263386905,
+          43.100647115335
+        ],
+        [
+          -87.959027240078,
+          43.10247103223
+        ],
+        [
+          -87.95982224008,
+          43.104485448999
+        ],
+        [
+          -87.960069003309,
+          43.10508077063
+        ],
+        [
+          -87.960696666667,
+          43.106338282139
+        ],
+        [
+          -87.961592031086,
+          43.108189283243
+        ],
+        [
+          -87.962269999999,
+          43.109739948663
+        ],
+        [
+          -87.963160000001,
+          43.111733281915
+        ],
+        [
+          -87.963267288362,
+          43.111976082423
+        ],
+        [
+          -87.966116200395,
+          43.111999866853
+        ],
+        [
+          -87.9662664041,
+          43.112042944245
+        ],
+        [
+          -87.966212759919,
+          43.114067547471
+        ],
+        [
+          -87.966196666665,
+          43.115661336936
+        ],
+        [
+          -87.966309319444,
+          43.116017682219
+        ],
+        [
+          -87.966395150132,
+          43.116217391306
+        ],
+        [
+          -87.966507802911,
+          43.116338782785
+        ],
+        [
+          -87.966759930558,
+          43.116546322499
+        ],
+        [
+          -87.96700132937,
+          43.116734282386
+        ],
+        [
+          -87.967258821435,
+          43.116957484003
+        ],
+        [
+          -87.967387567468,
+          43.11716110582
+        ],
+        [
+          -87.967441211648,
+          43.117313821738
+        ],
+        [
+          -87.967473398156,
+          43.117505695044
+        ],
+        [
+          -87.967478762574,
+          43.117975586313
+        ],
+        [
+          -87.967312465616,
+          43.118140047405
+        ],
+        [
+          -87.967124710984,
+          43.118277097977
+        ],
+        [
+          -87.966953049608,
+          43.11833191812
+        ],
+        [
+          -87.966196666665,
+          43.118492462542
+        ],
+        [
+          -87.96599281878,
+          43.118645175137
+        ],
+        [
+          -87.96622187566,
+          43.113458945984
+        ],
+        [
+          -87.966228333333,
+          43.115533281756
+        ],
+        [
+          -87.966089844575,
+          43.118862618864
+        ],
+        [
+          -87.966127395501,
+          43.118964426688
+        ],
+        [
+          -87.966073751321,
+          43.119085812717
+        ],
+        [
+          -87.965928912034,
+          43.119191535837
+        ],
+        [
+          -87.964603900781,
+          43.119171957495
+        ],
+        [
+          -87.964600782406,
+          43.119939365953
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4692",
+          "name": "35TH STREET + LOOMIS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958302031085,
+            42.973252321074
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4694",
+          "name": "35TH STREET + WILBUR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958248853174,
+            42.976646620947
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4695",
+          "name": "35TH STREET + SAINT FRANCIS AVENUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958195728835,
+            42.979300652604
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4696",
+          "name": "35TH STREET + MORGAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958138333333,
+            42.981064954092
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp75",
+          "name": "35TH STREET + POE - OHIO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958041666668,
+            42.984753287267
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4699",
+          "name": "35TH STREET + RUSKIN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958020208996,
+            42.985714680827
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4700",
+          "name": "35TH STREET + OKLAHOMA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957963333332,
+            42.988304953784
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4701",
+          "name": "35TH STREET + DAKOTA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958021248679,
+            42.992039953623
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4702",
+          "name": "35TH STREET + FOREST HOME"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958159791006,
+            42.994682349727
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4703",
+          "name": "35TH STREET + HAYES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957851666668,
+            43.001131619904
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4704",
+          "name": "35TH STREET + LINCOLN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957830155425,
+            43.002920440294
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4705",
+          "name": "35TH STREET + GRANT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957787759921,
+            43.004716132391
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4706",
+          "name": "35TH STREET + BECHER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957739999998,
+            43.006551619673
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4707",
+          "name": "35TH STREET + ROGERS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957702395504,
+            43.008391721182
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4708",
+          "name": "35TH STREET + BURNHAM"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.95767182209,
+            43.010159952854
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4709",
+          "name": "35TH STREET + MITCHELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.95761275992,
+            43.012225929408
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4710",
+          "name": "35TH STREET + LAPHAM"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957549999999,
+            43.013989952691
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp76",
+          "name": "35TH STREET + BRANTING"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957533333334,
+            43.015008285979
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4711",
+          "name": "35TH STREET + GREENFIELD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957433022486,
+            43.016822896971
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4712",
+          "name": "35TH STREET + SCOTT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957665937829,
+            43.018938186248
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "346",
+          "name": "35TH STREET + NATIONAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957613853174,
+            43.021453577045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4713",
+          "name": "35TH STREET + CANAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957622968917,
+            43.027369363917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4714",
+          "name": "35TH STREET + PARK HILL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957591875661,
+            43.032531127657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4715",
+          "name": "35TH STREET + MOUNT VERNON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957687395503,
+            43.033627794137
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4716",
+          "name": "35TH STREET + SAINT PAUL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957670728834,
+            43.0347009342
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4717",
+          "name": "35TH STREET + CLYBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957660000001,
+            43.036068285089
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "347",
+          "name": "35TH STREET + WISCONSIN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957644426589,
+            43.038587601695
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4228",
+          "name": "35TH STREET + WELLS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957623488755,
+            43.039961618257
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4229",
+          "name": "35TH STREET + KILBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957617604499,
+            43.041587015038
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4230",
+          "name": "35TH STREET + STATE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957628333334,
+            43.043188284788
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "348",
+          "name": "35TH STREET + HIGHLAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957613333332,
+            43.044388284737
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4718",
+          "name": "35TH STREET + JUNEAU"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957596146825,
+            43.04581877729
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "349",
+          "name": "35TH STREET + VLIET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957581666667,
+            43.048576617893
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4719",
+          "name": "35TH STREET + GALENA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957581666666,
+            43.051438284439
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "350",
+          "name": "35TH STREET + LISBON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957560208994,
+            43.054557697841
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4720",
+          "name": "35TH STREET + BROWN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957548906746,
+            43.056401031214
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4721",
+          "name": "35TH STREET + LLOYD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957506511242,
+            43.057819950837
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "370",
+          "name": "35TH STREET + GARFIELD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957486666669,
+            43.059178284113
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "351",
+          "name": "35TH STREET + NORTH AVENUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957464115741,
+            43.060525536811
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4722",
+          "name": "35TH STREET + MEINECKE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957449115742,
+            43.062357112041
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4723",
+          "name": "35TH STREET + WRIGHT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957410417989,
+            43.064173193011
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4724",
+          "name": "35TH STREET + CLARKE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.95739541799,
+            43.066005445687
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "352",
+          "name": "35TH STREET + CENTER STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957363751324,
+            43.067832788322
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4725",
+          "name": "35TH STREET + HADLEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957342813494,
+            43.06964594166
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4726",
+          "name": "35TH STREET + LOCUST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957374999998,
+            43.071488283598
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp77",
+          "name": "35TH STREET + CHAMBERS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957326666666,
+            43.073451616847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4727",
+          "name": "35TH STREET + BURLEIGH-FOND DU LAC"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957257449075,
+            43.074762787146
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4728",
+          "name": "35TH STREET + AUER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957237084657,
+            43.076937698331
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4729",
+          "name": "35TH STREET + CONCORDIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957188751324,
+            43.079046119753
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4730",
+          "name": "35TH STREET + TOWNSEND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957155991403,
+            43.081049949863
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4731",
+          "name": "35TH STREET + KEEFE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957136146826,
+            43.082455621876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4732",
+          "name": "35TH STREET + NASH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957109844577,
+            43.084263370102
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4733",
+          "name": "35TH STREET + VIENNA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957093177908,
+            43.085881118591
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4734",
+          "name": "35TH STREET + MELVINA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957057240078,
+            43.08772953799
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6081",
+          "name": "35TH STREET + CAPITOL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.95705234193,
+            43.089597028367
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2961",
+          "name": "35TH STREET + TORONTO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.956987968916,
+            43.091436133247
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7756",
+          "name": "35TH STREET + HOPE - HOPKINS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.956941768518,
+            43.093224778715
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7251",
+          "name": "35TH STREET + MARION"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.956888124337,
+            43.09528702995
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7252",
+          "name": "35TH STREET + CONGRESS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.956833906746,
+            43.097151116679
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7253",
+          "name": "HOPKINS + RUBY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957527449075,
+            43.09889553275
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7254",
+          "name": "HOPKINS + GLENDALE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958263386905,
+            43.100647115335
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7255",
+          "name": "HOPKINS + 37TH ST - COURTLAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.959027240078,
+            43.10247103223
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7256",
+          "name": "HOPKINS + HAMPTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.95982224008,
+            43.104485448999
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7257",
+          "name": "HOPKINS + STARK"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.960696666667,
+            43.106338282139
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7258",
+          "name": "HOPKINS + FAIRMOUNT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.961592031086,
+            43.108189283243
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7259",
+          "name": "HOPKINS + LANCASTER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.962269999999,
+            43.109739948663
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7260",
+          "name": "HOPKINS + VILLARD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.963160000001,
+            43.111733281915
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5674",
+          "name": "VILLARD + SHERMAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.966116200395,
+            43.111999866853
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4274",
+          "name": "SHERMAN + ROHR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.96622187566,
+            43.113458945984
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp78",
+          "name": "SHERMAN + CUSTER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.966228333333,
+            43.115533281756
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4276",
+          "name": "HOPKINS + SILVER SPRING"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.966089844575,
+            43.118862618864
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4280",
+          "name": "42ND STREET + SILVER SPRING"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.964600782406,
+            43.119939365953
+          ]
+        }
+      }
+    ]
+  }
+}

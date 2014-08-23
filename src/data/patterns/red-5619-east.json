@@ -1,0 +1,966 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "RED",
+      "name": "Capitol Drive MetroEXpress",
+      "color": "#ed1c24",
+      "pattern_id": "5619",
+      "direction": "EAST"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -88.068810000002,
+          43.088178282897
+        ],
+        [
+          -88.0647723,
+          43.088793649539
+        ],
+        [
+          -88.059654999998,
+          43.088686616208
+        ],
+        [
+          -88.058925439146,
+          43.088694451446
+        ],
+        [
+          -88.058453370359,
+          43.088717957155
+        ],
+        [
+          -88.057696987417,
+          43.088776721387
+        ],
+        [
+          -88.056849409368,
+          43.088882496862
+        ],
+        [
+          -88.055615593222,
+          43.089086212079
+        ],
+        [
+          -88.054746557501,
+          43.08917631667
+        ],
+        [
+          -88.052634325408,
+          43.089245085148
+        ],
+        [
+          -88.0519476799,
+          43.089260755481
+        ],
+        [
+          -88.051491704368,
+          43.089299931295
+        ],
+        [
+          -88.051046457671,
+          43.089366530121
+        ],
+        [
+          -88.050687041663,
+          43.089421376158
+        ],
+        [
+          -88.050316896819,
+          43.089444881588
+        ],
+        [
+          -88.049217191123,
+          43.089507562689
+        ],
+        [
+          -88.04801036442,
+          43.089529777451
+        ],
+        [
+          -88.042950519841,
+          43.089577114381
+        ],
+        [
+          -88.039651402753,
+          43.089577786528
+        ],
+        [
+          -88.039275893491,
+          43.089511581667
+        ],
+        [
+          -88.038573154729,
+          43.089443917114
+        ],
+        [
+          -88.037879999999,
+          43.089394949512
+        ],
+        [
+          -88.037407931212,
+          43.08945035235
+        ],
+        [
+          -88.037075337294,
+          43.089505755139
+        ],
+        [
+          -88.036801751975,
+          43.089577778689
+        ],
+        [
+          -88.036383327369,
+          43.089616560565
+        ],
+        [
+          -88.035909127669,
+          43.089562766738
+        ],
+        [
+          -88.032931875662,
+          43.089566684301
+        ],
+        [
+          -88.027909062169,
+          43.089558024776
+        ],
+        [
+          -88.022770364416,
+          43.089625275701
+        ],
+        [
+          -88.017741093254,
+          43.08969252662
+        ],
+        [
+          -88.014043697753,
+          43.089744777523
+        ],
+        [
+          -88.011060728834,
+          43.08977694244
+        ],
+        [
+          -88.007469062168,
+          43.089807440698
+        ],
+        [
+          -88.006640782407,
+          43.089808609121
+        ],
+        [
+          -87.997275310846,
+          43.089831942465
+        ],
+        [
+          -87.987189008599,
+          43.089867526692
+        ],
+        [
+          -87.983361666667,
+          43.08984661616
+        ],
+        [
+          -87.976512186506,
+          43.089772852942
+        ],
+        [
+          -87.967410257276,
+          43.089709021317
+        ],
+        [
+          -87.958400810204,
+          43.08973871281
+        ],
+        [
+          -87.957805359802,
+          43.089679949501
+        ],
+        [
+          -87.95596,
+          43.089679949501
+        ],
+        [
+          -87.955042684517,
+          43.089683867057
+        ],
+        [
+          -87.954254115067,
+          43.089734795258
+        ],
+        [
+          -87.947165675265,
+          43.089685515989
+        ],
+        [
+          -87.938889426586,
+          43.089541856308
+        ],
+        [
+          -87.93581630225,
+          43.089471185999
+        ],
+        [
+          -87.927078774504,
+          43.089310207742
+        ],
+        [
+          -87.922851613096,
+          43.089267114353
+        ],
+        [
+          -87.91889267259,
+          43.089224020933
+        ],
+        [
+          -87.918672731451,
+          43.089177009896
+        ],
+        [
+          -87.918425968222,
+          43.089118246048
+        ],
+        [
+          -87.918007543615,
+          43.089047729356
+        ],
+        [
+          -87.917589119009,
+          43.089004635782
+        ],
+        [
+          -87.91730494643,
+          43.089001530065
+        ],
+        [
+          -87.916784597881,
+          43.08901720046
+        ],
+        [
+          -87.915867282398,
+          43.089079882
+        ],
+        [
+          -87.914284779079,
+          43.089216997643
+        ],
+        [
+          -87.912111511244,
+          43.089191204127
+        ],
+        [
+          -87.906834791004,
+          43.089144193066
+        ],
+        [
+          -87.905087550925,
+          43.089132440293
+        ],
+        [
+          -87.899894062168,
+          43.08907694211
+        ],
+        [
+          -87.897436093254,
+          43.089060945814
+        ],
+        [
+          -87.895264271164,
+          43.08904085969
+        ],
+        [
+          -87.892556666668,
+          43.089036616195
+        ],
+        [
+          -87.88893032008,
+          43.089032698598
+        ],
+        [
+          -87.887597813493,
+          43.089068110627
+        ],
+        [
+          -87.88706137169,
+          43.089111204156
+        ],
+        [
+          -87.886921896821,
+          43.089154297655
+        ],
+        [
+          -87.885181666665,
+          43.089171616189
+        ],
+        [
+          -87.882654999999,
+          43.089171616189
+        ],
+        [
+          -87.880221666666,
+          43.089188282854
+        ],
+        [
+          -87.877726666665,
+          43.089188282855
+        ],
+        [
+          -87.877597920632,
+          43.089188282855
+        ],
+        [
+          -87.877679999999,
+          43.085166616355
+        ],
+        [
+          -87.877759426586,
+          43.082027610976
+        ],
+        [
+          -87.877848488757,
+          43.079416528627
+        ],
+        [
+          -87.877897341932,
+          43.077775126575
+        ],
+        [
+          -87.87795323148,
+          43.0748344538
+        ],
+        [
+          -87.877958595898,
+          43.074728654068
+        ],
+        [
+          -87.880873333333,
+          43.074723461205
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5955",
+          "name": "124TH STREET + PICK N SAVE LOT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.068810000002,
+            43.088178282897
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp109",
+          "name": "CAPITOL + 12200 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.0647723,
+            43.088793649539
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5996",
+          "name": "CAPITOL + 11800 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.059654999998,
+            43.088686616208
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5998",
+          "name": "CAPITOL + 110TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.051046457671,
+            43.089366530121
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5999",
+          "name": "CAPITOL + MAYFAIR ROAD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.04801036442,
+            43.089529777451
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6001",
+          "name": "CAPITOL + GRANTOSA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.042950519841,
+            43.089577114381
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6003",
+          "name": "CAPITOL + 100TH ST - LISBON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.037879999999,
+            43.089394949512
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6005",
+          "name": "CAPITOL + 96TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.032931875662,
+            43.089566684301
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6007",
+          "name": "CAPITOL + 92ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.027909062169,
+            43.089558024776
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6009",
+          "name": "CAPITOL + 88TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.022770364416,
+            43.089625275701
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6011",
+          "name": "CAPITOL + 84TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.017741093254,
+            43.08969252662
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6013",
+          "name": "CAPITOL + 81ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.014043697753,
+            43.089744777523
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6014",
+          "name": "CAPITOL + 79TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.011060728834,
+            43.08977694244
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6015",
+          "name": "CAPITOL + 76TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.007469062168,
+            43.089807440698
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6476",
+          "name": "CAPITOL + 76TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.006640782407,
+            43.089808609121
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6019",
+          "name": "CAPITOL + 68TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.997275310846,
+            43.089831942465
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6023",
+          "name": "CAPITOL + 60TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.987189008599,
+            43.089867526692
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6027",
+          "name": "CAPITOL + 56TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.983361666667,
+            43.08984661616
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6030",
+          "name": "CAPITOL + FOND DU LAC"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.976512186506,
+            43.089772852942
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6033",
+          "name": "CAPITOL + SHERMAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967410257276,
+            43.089709021317
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6037",
+          "name": "CAPITOL + 35TH ST - 34TH ST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.95596,
+            43.089679949501
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3051",
+          "name": "CAPITOL + 27TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947165675265,
+            43.089685515989
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6043",
+          "name": "CAPITOL + TEUTONIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.938889426586,
+            43.089541856308
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6044",
+          "name": "CAPITOL + ATKINSON-19TH PLACE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93581630225,
+            43.089471185999
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6049",
+          "name": "CAPITOL + GREEN BAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.922851613096,
+            43.089267114353
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8069",
+          "name": "CAPITOL + PORT WASHINGTON ROAD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.91730494643,
+            43.089001530065
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6052",
+          "name": "CAPITOL + 2ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.912111511244,
+            43.089191204127
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1027",
+          "name": "CAPITOL + RICHARDS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.906834791004,
+            43.089144193066
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1028",
+          "name": "CAPITOL + HOLTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.905087550925,
+            43.089132440293
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6055",
+          "name": "CAPITOL + HUMBOLDT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.899894062168,
+            43.08907694211
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4489",
+          "name": "CAPITOL + ESTABROOK"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.897436093254,
+            43.089060945814
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6056",
+          "name": "CAPITOL + WILSON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.895264271164,
+            43.08904085969
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6057",
+          "name": "CAPITOL + MORRIS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.892556666668,
+            43.089036616195
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3002",
+          "name": "CAPITOL + OAKLAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.887597813493,
+            43.089068110627
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6124",
+          "name": "CAPITOL + MURRAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.885181666665,
+            43.089171616189
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6125",
+          "name": "CAPITOL + MARYLAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.882654999999,
+            43.089171616189
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp103",
+          "name": "CLEVELAND + 92ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.880221666666,
+            43.089188282854
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6127",
+          "name": "CAPITOL + DOWNER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.877726666665,
+            43.089188282855
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6132",
+          "name": "DOWNER + NEWTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.877679999999,
+            43.085166616355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6131",
+          "name": "DOWNER + EDGEWOOD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.877759426586,
+            43.082027610976
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4215",
+          "name": "DOWNER + NEWPORT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.877848488757,
+            43.079416528627
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4216",
+          "name": "DOWNER + HARTFORD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.877897341932,
+            43.077775126575
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "264",
+          "name": "DOWNER + KENWOOD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.87795323148,
+            43.0748344538
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3657",
+          "name": "KENWOOD + PROSPECT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.880873333333,
+            43.074723461205
+          ]
+        }
+      }
+    ]
+  }
+}

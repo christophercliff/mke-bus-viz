@@ -1,0 +1,1130 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "53",
+      "name": "Lincoln Avenue",
+      "color": "#00aeef",
+      "pattern_id": "5299",
+      "direction": "EAST"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -88.052996093253,
+          43.002538568185
+        ],
+        [
+          -88.050781302249,
+          43.002519157967
+        ],
+        [
+          -88.047209999998,
+          43.002451619848
+        ],
+        [
+          -88.043348333333,
+          43.002490721912
+        ],
+        [
+          -88.039649791005,
+          43.002487004207
+        ],
+        [
+          -88.034707031086,
+          43.0025181838
+        ],
+        [
+          -88.031802968914,
+          43.002539260679
+        ],
+        [
+          -88.028984271164,
+          43.002558670893
+        ],
+        [
+          -88.027379271165,
+          43.00257120905
+        ],
+        [
+          -88.02578603901,
+          43.002582978418
+        ],
+        [
+          -88.025689479486,
+          43.002653594574
+        ],
+        [
+          -88.024412395505,
+          43.002652902097
+        ],
+        [
+          -88.022409635584,
+          43.002661722525
+        ],
+        [
+          -88.020761666666,
+          43.002664953172
+        ],
+        [
+          -88.017518333335,
+          43.002681619837
+        ],
+        [
+          -88.015272395503,
+          43.002705722037
+        ],
+        [
+          -88.012893333333,
+          43.002721619835
+        ],
+        [
+          -88.010260937829,
+          43.002733183833
+        ],
+        [
+          -88.0076,
+          43.002761619835
+        ],
+        [
+          -88.004061457671,
+          43.002781030058
+        ],
+        [
+          -88.001688853174,
+          43.002796030058
+        ],
+        [
+          -87.997725155423,
+          43.002824466045
+        ],
+        [
+          -87.994599999999,
+          43.002848286497
+        ],
+        [
+          -87.992406093255,
+          43.002857106955
+        ],
+        [
+          -87.99016494643,
+          43.002856414539
+        ],
+        [
+          -87.987585728835,
+          43.002872594084
+        ],
+        [
+          -87.98638812434,
+          43.002868670979
+        ],
+        [
+          -87.984025155422,
+          43.002872106956
+        ],
+        [
+          -87.981683124339,
+          43.002863773622
+        ],
+        [
+          -87.97929275992,
+          43.002863773621
+        ],
+        [
+          -87.977068333334,
+          43.002867696725
+        ],
+        [
+          -87.971123333334,
+          43.00286082477
+        ],
+        [
+          -87.96969103372,
+          43.00286082477
+        ],
+        [
+          -87.969406719565,
+          43.002809824393
+        ],
+        [
+          -87.967869791007,
+          43.002825722109
+        ],
+        [
+          -87.964548697753,
+          43.00286915811
+        ],
+        [
+          -87.960590364417,
+          43.002915337659
+        ],
+        [
+          -87.958137759922,
+          43.002960235048
+        ],
+        [
+          -87.956560621021,
+          43.002991619824
+        ],
+        [
+          -87.956442603825,
+          43.003023004584
+        ],
+        [
+          -87.955466666667,
+          43.003038286488
+        ],
+        [
+          -87.953009791007,
+          43.003070440307
+        ],
+        [
+          -87.950577550927,
+          43.003095722271
+        ],
+        [
+          -87.948329999999,
+          43.003134953153
+        ],
+        [
+          -87.944738333333,
+          43.003094953154
+        ],
+        [
+          -87.942464999999,
+          43.003054953155
+        ],
+        [
+          -87.939811093253,
+          43.003011030063
+        ],
+        [
+          -87.93827,
+          43.00298328649
+        ],
+        [
+          -87.935566666666,
+          43.002934953159
+        ],
+        [
+          -87.933432915342,
+          43.002891517188
+        ],
+        [
+          -87.931286822089,
+          43.002859850517
+        ],
+        [
+          -87.928526666668,
+          43.002824953166
+        ],
+        [
+          -87.926078333335,
+          43.002816619831
+        ],
+        [
+          -87.923662759922,
+          43.002817106951
+        ],
+        [
+          -87.921246666668,
+          43.002824953166
+        ],
+        [
+          -87.918831093255,
+          43.002809260738
+        ],
+        [
+          -87.91700218651,
+          43.002800645602
+        ],
+        [
+          -87.915588333332,
+          43.002799953167
+        ],
+        [
+          -87.913750310846,
+          43.002809260736
+        ],
+        [
+          -87.911439999998,
+          43.002824953166
+        ],
+        [
+          -87.90809682209,
+          43.002863773622
+        ],
+        [
+          -87.904349999999,
+          43.002876311907
+        ],
+        [
+          -87.900937604498,
+          43.002904260756
+        ],
+        [
+          -87.898226248676,
+          43.002903568355
+        ],
+        [
+          -87.896260573411,
+          43.002916311928
+        ],
+        [
+          -87.895761682534,
+          43.002916311928
+        ],
+        [
+          -87.894967861773,
+          43.000814260312
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5256",
+          "name": "LINCOLN + 12000 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.052996093253,
+            43.002538568185
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8520",
+          "name": "LINCOLN + 111TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.050781302249,
+            43.002519157967
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5257",
+          "name": "LINCOLN + 108TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.047209999998,
+            43.002451619848
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4860",
+          "name": "LINCOLN + 105TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.043348333333,
+            43.002490721912
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4861",
+          "name": "LINCOLN + 102ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.039649791005,
+            43.002487004207
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5259",
+          "name": "LINCOLN + 98TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.034707031086,
+            43.0025181838
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5260",
+          "name": "LINCOLN + NATIONAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.031802968914,
+            43.002539260679
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8522",
+          "name": "LINCOLN + 94TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.028984271164,
+            43.002558670893
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5262",
+          "name": "LINCOLN + 92ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.027379271165,
+            43.00257120905
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5263",
+          "name": "LINCOLN + 90TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.024412395505,
+            43.002652902097
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5264",
+          "name": "LINCOLN + 88TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.022409635584,
+            43.002661722525
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5265",
+          "name": "LINCOLN + 86TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.020761666666,
+            43.002664953172
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5266",
+          "name": "LINCOLN + 84TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.017518333335,
+            43.002681619837
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5267",
+          "name": "LINCOLN + 82ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.015272395503,
+            43.002705722037
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5268",
+          "name": "LINCOLN + 80TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.012893333333,
+            43.002721619835
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5269",
+          "name": "LINCOLN + 78TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.010260937829,
+            43.002733183833
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5270",
+          "name": "LINCOLN + 76TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.0076,
+            43.002761619835
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5271",
+          "name": "LINCOLN + 73RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.004061457671,
+            43.002781030058
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5272",
+          "name": "LINCOLN + 71ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.001688853174,
+            43.002796030058
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5273",
+          "name": "LINCOLN + 68TH ST - BELOIT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.997725155423,
+            43.002824466045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5274",
+          "name": "LINCOLN + 66TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.994599999999,
+            43.002848286497
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5275",
+          "name": "LINCOLN + 64TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.992406093255,
+            43.002857106955
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5276",
+          "name": "LINCOLN + 62ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.99016494643,
+            43.002856414539
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5277",
+          "name": "LINCOLN + 60TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.987585728835,
+            43.002872594084
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5278",
+          "name": "LINCOLN + 59TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.98638812434,
+            43.002868670979
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5279",
+          "name": "LINCOLN + 57TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.984025155422,
+            43.002872106956
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5280",
+          "name": "LINCOLN + 55TH ST-ELECTRIC AVE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.981683124339,
+            43.002863773622
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5281",
+          "name": "LINCOLN + 5215 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.97929275992,
+            43.002863773621
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5282",
+          "name": "LINCOLN + 51ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.977068333334,
+            43.002867696725
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5283",
+          "name": "LINCOLN + 4600 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.971123333334,
+            43.00286082477
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5284",
+          "name": "LINCOLN + 43RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967869791007,
+            43.002825722109
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5285",
+          "name": "LINCOLN + 4000 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.964548697753,
+            43.00286915811
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5286",
+          "name": "LINCOLN + 37TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.960590364417,
+            43.002915337659
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5287",
+          "name": "LINCOLN + 35TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958137759922,
+            43.002960235048
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5288",
+          "name": "LINCOLN + 33RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.955466666667,
+            43.003038286488
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5289",
+          "name": "LINCOLN + 31ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.953009791007,
+            43.003070440307
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5290",
+          "name": "LINCOLN + 29TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.950577550927,
+            43.003095722271
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5291",
+          "name": "LINCOLN + 27TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948329999999,
+            43.003134953153
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5292",
+          "name": "LINCOLN + FOREST HOME"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.944738333333,
+            43.003094953154
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5293",
+          "name": "LINCOLN + 23RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.942464999999,
+            43.003054953155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2549",
+          "name": "LINCOLN + 21ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.939811093253,
+            43.003011030063
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5294",
+          "name": "LINCOLN + 20TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93827,
+            43.00298328649
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5295",
+          "name": "LINCOLN + 18TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.935566666666,
+            43.002934953159
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5296",
+          "name": "LINCOLN + 16TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933432915342,
+            43.002891517188
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5297",
+          "name": "LINCOLN + 15TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.931286822089,
+            43.002859850517
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5298",
+          "name": "LINCOLN + 13TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.928526666668,
+            43.002824953166
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5299",
+          "name": "LINCOLN + 11TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.926078333335,
+            43.002816619831
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5300",
+          "name": "LINCOLN + 9TH PLACE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.923662759922,
+            43.002817106951
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5301",
+          "name": "LINCOLN + 8TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.921246666668,
+            43.002824953166
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5302",
+          "name": "LINCOLN + 6TH ST - CHASE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.918831093255,
+            43.002809260738
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5303",
+          "name": "LINCOLN + 5TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.91700218651,
+            43.002800645602
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5304",
+          "name": "LINCOLN + 4TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.915588333332,
+            43.002799953167
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5305",
+          "name": "LINCOLN + 3RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.913750310846,
+            43.002809260736
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5306",
+          "name": "LINCOLN + 1ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.911439999998,
+            43.002824953166
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5307",
+          "name": "LINCOLN + BURRELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.90809682209,
+            43.002863773622
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1517",
+          "name": "LINCOLN + HOWELL-KINNICKINNIC"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.904349999999,
+            43.002876311907
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5309",
+          "name": "LINCOLN + WOODWARD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.900937604498,
+            43.002904260756
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5310",
+          "name": "LINCOLN + LENOX"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.898226248676,
+            43.002903568355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5311",
+          "name": "LINCOLN + BAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.896260573411,
+            43.002916311928
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "432",
+          "name": "BAY + CONWAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894967861773,
+            43.000814260312
+          ]
+        }
+      }
+    ]
+  }
+}

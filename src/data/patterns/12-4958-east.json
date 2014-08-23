@@ -1,0 +1,1550 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "12",
+      "name": "Teutonia-Hampton",
+      "color": "#8dc63f",
+      "pattern_id": "4958",
+      "direction": "EAST"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -88.027680417991,
+          43.102868365755
+        ],
+        [
+          -88.027712550924,
+          43.101426115953
+        ],
+        [
+          -88.027712550924,
+          43.101300778083
+        ],
+        [
+          -88.027428236769,
+          43.10129686127
+        ],
+        [
+          -88.02737771164,
+          43.10475694948
+        ],
+        [
+          -88.02737771164,
+          43.104843114429
+        ],
+        [
+          -88.024829999999,
+          43.104859948866
+        ],
+        [
+          -88.021031666666,
+          43.1048682822
+        ],
+        [
+          -88.018789999999,
+          43.104883282199
+        ],
+        [
+          -88.016305728835,
+          43.104894865786
+        ],
+        [
+          -88.01316494643,
+          43.10488703262
+        ],
+        [
+          -88.010710728834,
+          43.10488703262
+        ],
+        [
+          -88.006059426588,
+          43.104894865786
+        ],
+        [
+          -88.004717968915,
+          43.104871532447
+        ],
+        [
+          -88.002148853173,
+          43.104832532767
+        ],
+        [
+          -87.99954275992,
+          43.104804782676
+        ],
+        [
+          -87.996813697751,
+          43.104795449026
+        ],
+        [
+          -87.995616666668,
+          43.104768199098
+        ],
+        [
+          -87.991532186506,
+          43.104684282492
+        ],
+        [
+          -87.988766666668,
+          43.104653282208
+        ],
+        [
+          -87.986794999998,
+          43.104629948876
+        ],
+        [
+          -87.983935519842,
+          43.104590282735
+        ],
+        [
+          -87.98163588426,
+          43.104577532664
+        ],
+        [
+          -87.979225155423,
+          43.104578199071
+        ],
+        [
+          -87.976961977512,
+          43.104558115925
+        ],
+        [
+          -87.97452551984,
+          43.104549782589
+        ],
+        [
+          -87.972797550927,
+          43.104549282462
+        ],
+        [
+          -87.971658488755,
+          43.10454978259
+        ],
+        [
+          -87.96922682209,
+          43.104549282461
+        ],
+        [
+          -87.966864946428,
+          43.104534782584
+        ],
+        [
+          -87.965206248677,
+          43.104545365858
+        ],
+        [
+          -87.962836822091,
+          43.104550449004
+        ],
+        [
+          -87.960310181199,
+          43.1045465324
+        ],
+        [
+          -87.960023542326,
+          43.104565449006
+        ],
+        [
+          -87.956850519842,
+          43.104549782588
+        ],
+        [
+          -87.953098906747,
+          43.104510782822
+        ],
+        [
+          -87.951366199723,
+          43.104459866908
+        ],
+        [
+          -87.951071156732,
+          43.104483366566
+        ],
+        [
+          -87.950529271165,
+          43.104477782103
+        ],
+        [
+          -87.947364264527,
+          43.104454282443
+        ],
+        [
+          -87.9470584927,
+          43.104407283096
+        ],
+        [
+          -87.946603697751,
+          43.10423669964
+        ],
+        [
+          -87.946255010579,
+          43.103625703148
+        ],
+        [
+          -87.946126264546,
+          43.103508203123
+        ],
+        [
+          -87.945533333333,
+          43.102364948971
+        ],
+        [
+          -87.943843022488,
+          43.099085370119
+        ],
+        [
+          -87.943032968917,
+          43.097428950753
+        ],
+        [
+          -87.942083333335,
+          43.095561615921
+        ],
+        [
+          -87.941155096564,
+          43.093828372473
+        ],
+        [
+          -87.941144367728,
+          43.093718688241
+        ],
+        [
+          -87.940951248679,
+          43.093276032025
+        ],
+        [
+          -87.940715214286,
+          43.092817703191
+        ],
+        [
+          -87.940444314157,
+          43.092409966318
+        ],
+        [
+          -87.940186822091,
+          43.091924209123
+        ],
+        [
+          -87.940068804895,
+          43.09186544791
+        ],
+        [
+          -87.939021511241,
+          43.089902458256
+        ],
+        [
+          -87.938041875663,
+          43.088034126195
+        ],
+        [
+          -87.937214115741,
+          43.086535880496
+        ],
+        [
+          -87.936315,
+          43.084864949701
+        ],
+        [
+          -87.934973488759,
+          43.082436206571
+        ],
+        [
+          -87.933119999999,
+          43.079086616611
+        ],
+        [
+          -87.933044898147,
+          43.0788711134
+        ],
+        [
+          -87.932435573414,
+          43.076666705212
+        ],
+        [
+          -87.932317556217,
+          43.076247436257
+        ],
+        [
+          -87.931821511242,
+          43.075088461052
+        ],
+        [
+          -87.93120687566,
+          43.073597876433
+        ],
+        [
+          -87.931088858463,
+          43.07330790051
+        ],
+        [
+          -87.930257813492,
+          43.070669950297
+        ],
+        [
+          -87.930139796295,
+          43.0703446914
+        ],
+        [
+          -87.929882084655,
+          43.069641390902
+        ],
+        [
+          -87.929282449076,
+          43.067785626245
+        ],
+        [
+          -87.929239533732,
+          43.067617110909
+        ],
+        [
+          -87.92905005357,
+          43.065964636416
+        ],
+        [
+          -87.928826720237,
+          43.064164728315
+        ],
+        [
+          -87.928668906746,
+          43.062667789202
+        ],
+        [
+          -87.928588440475,
+          43.061872169571
+        ],
+        [
+          -87.928545525131,
+          43.061613492985
+        ],
+        [
+          -87.928491880951,
+          43.061394008964
+        ],
+        [
+          -87.92837994114,
+          43.061007312289
+        ],
+        [
+          -87.928160000001,
+          43.060521306097
+        ],
+        [
+          -87.927446532403,
+          43.059419939097
+        ],
+        [
+          -87.92734460846,
+          43.059274917769
+        ],
+        [
+          -87.926985192452,
+          43.058992713121
+        ],
+        [
+          -87.926999426589,
+          43.057958376252
+        ],
+        [
+          -87.927048333332,
+          43.055769950923
+        ],
+        [
+          -87.927074635581,
+          43.054029457336
+        ],
+        [
+          -87.927095573412,
+          43.052840230261
+        ],
+        [
+          -87.92712724008,
+          43.050071311879
+        ],
+        [
+          -87.927143333334,
+          43.048648284558
+        ],
+        [
+          -87.927154062169,
+          43.047257299023
+        ],
+        [
+          -87.927175000001,
+          43.045874951341
+        ],
+        [
+          -87.927185728837,
+          43.044542886943
+        ],
+        [
+          -87.927200728836,
+          43.043382887364
+        ],
+        [
+          -87.927223279763,
+          43.041742491069
+        ],
+        [
+          -87.927232915346,
+          43.040347888459
+        ],
+        [
+          -87.927249582011,
+          43.038853380723
+        ],
+        [
+          -87.927249582011,
+          43.038575002924
+        ],
+        [
+          -87.925270472234,
+          43.038603476581
+        ],
+        [
+          -87.923661146825,
+          43.038595634938
+        ],
+        [
+          -87.922915492719,
+          43.038603476581
+        ],
+        [
+          -87.922529254621,
+          43.038638763961
+        ],
+        [
+          -87.921665583318,
+          43.038736784355
+        ],
+        [
+          -87.921488557523,
+          43.038779913278
+        ],
+        [
+          -87.919259426588,
+          43.038779977578
+        ],
+        [
+          -87.914745000001,
+          43.038766822736
+        ],
+        [
+          -87.910676666665,
+          43.03874661831
+        ],
+        [
+          -87.910424539018,
+          43.03873093506
+        ],
+        [
+          -87.909705707002,
+          43.03856233987
+        ],
+        [
+          -87.909120985436,
+          43.038581943986
+        ],
+        [
+          -87.907232084656,
+          43.038684977375
+        ],
+        [
+          -87.902973177909,
+          43.03891859835
+        ],
+        [
+          -87.902817609786,
+          43.038926439952
+        ],
+        [
+          -87.902667406081,
+          43.037707058881
+        ],
+        [
+          -87.900650384902,
+          43.037805080763
+        ],
+        [
+          -87.900473359107,
+          43.037789397273
+        ],
+        [
+          -87.900223424604,
+          43.037734387271
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "943",
+          "name": "92ND STREET + 4700 N."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.027680417991,
+            43.102868365755
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "189",
+          "name": "92ND STREET + GLENDALE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.027712550924,
+            43.101426115953
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "156",
+          "name": "92ND STREET + HAMPTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.02737771164,
+            43.10475694948
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "945",
+          "name": "HAMPTON + 90TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.024829999999,
+            43.104859948866
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "946",
+          "name": "HAMPTON + 87TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.021031666666,
+            43.1048682822
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "947",
+          "name": "HAMPTON + GRANTOSA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.018789999999,
+            43.104883282199
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "949",
+          "name": "HAMPTON + APPLETON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.016305728835,
+            43.104894865786
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "950",
+          "name": "HAMPTON + 81ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.01316494643,
+            43.10488703262
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "951",
+          "name": "HAMPTON + 79TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.010710728834,
+            43.10488703262
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "952",
+          "name": "HAMPTON + 76TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.006059426588,
+            43.104894865786
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "953",
+          "name": "HAMPTON + 74TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.004717968915,
+            43.104871532447
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "954",
+          "name": "HAMPTON + 72ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.002148853173,
+            43.104832532767
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "955",
+          "name": "HAMPTON + 70TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.99954275992,
+            43.104804782676
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "956",
+          "name": "HAMPTON + 68TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.996813697751,
+            43.104795449026
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "957",
+          "name": "HAMPTON + FOND DU LAC"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.995616666668,
+            43.104768199098
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "958",
+          "name": "HAMPTON + 64TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.991532186506,
+            43.104684282492
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "959",
+          "name": "HAMPTON + 6200 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.988766666668,
+            43.104653282208
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "960",
+          "name": "HAMPTON + 60TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.986794999998,
+            43.104629948876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "961",
+          "name": "HAMPTON + 57TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.983935519842,
+            43.104590282735
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "962",
+          "name": "HAMPTON + 55TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.98163588426,
+            43.104577532664
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "963",
+          "name": "HAMPTON + 53RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.979225155423,
+            43.104578199071
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "964",
+          "name": "HAMPTON + 51ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.976961977512,
+            43.104558115925
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "965",
+          "name": "HAMPTON + 49TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.97452551984,
+            43.104549782589
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "966",
+          "name": "HAMPTON + 48TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.972797550927,
+            43.104549282462
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "967",
+          "name": "HAMPTON + 47TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.971658488755,
+            43.10454978259
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "968",
+          "name": "HAMPTON + 45TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.96922682209,
+            43.104549282461
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "969",
+          "name": "HAMPTON + SHERMAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.966864946428,
+            43.104534782584
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "970",
+          "name": "HAMPTON + 42ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.965206248677,
+            43.104545365858
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "971",
+          "name": "HAMPTON + 40TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.962836822091,
+            43.104550449004
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "972",
+          "name": "HAMPTON + HOPKINS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.960023542326,
+            43.104565449006
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "973",
+          "name": "HAMPTON + 35TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.956850519842,
+            43.104549782588
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "974",
+          "name": "HAMPTON + 32ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.953098906747,
+            43.104510782822
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "975",
+          "name": "HAMPTON + 30TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.950529271165,
+            43.104477782103
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "976",
+          "name": "HAMPTON + TEUTONIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.946603697751,
+            43.10423669964
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "856",
+          "name": "TEUTONIA + CORNELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.945533333333,
+            43.102364948971
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "857",
+          "name": "TEUTONIA + RUBY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.943843022488,
+            43.099085370119
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "858",
+          "name": "TEUTONIA + CONGRESS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.943032968917,
+            43.097428950753
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "859",
+          "name": "TEUTONIA + ROOSEVELT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.942083333335,
+            43.095561615921
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "860",
+          "name": "TEUTONIA + ATKINSON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.940951248679,
+            43.093276032025
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "862",
+          "name": "TEUTONIA + 21ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.940186822091,
+            43.091924209123
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "863",
+          "name": "TEUTONIA + CAPITOL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.939021511241,
+            43.089902458256
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "864",
+          "name": "TEUTONIA + MELVINA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.938041875663,
+            43.088034126195
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "865",
+          "name": "TEUTONIA + 20TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.937214115741,
+            43.086535880496
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "866",
+          "name": "TEUTONIA + NASH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.936315,
+            43.084864949701
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "867",
+          "name": "TEUTONIA + KEEFE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.934973488759,
+            43.082436206571
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "868",
+          "name": "TEUTONIA + CONCORDIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933119999999,
+            43.079086616611
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "869",
+          "name": "TEUTONIA + RING"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932435573414,
+            43.076666705212
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "870",
+          "name": "TEUTONIA + BURLEIGH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.931821511242,
+            43.075088461052
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "871",
+          "name": "TEUTONIA + CHAMBERS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93120687566,
+            43.073597876433
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "872",
+          "name": "TEUTONIA + LOCUST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.930257813492,
+            43.070669950297
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "873",
+          "name": "TEUTONIA + HADLEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.929882084655,
+            43.069641390902
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "874",
+          "name": "TEUTONIA + CENTER STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.929282449076,
+            43.067785626245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "875",
+          "name": "TEUTONIA + CLARKE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.92905005357,
+            43.065964636416
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "876",
+          "name": "TEUTONIA + WRIGHT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.928826720237,
+            43.064164728315
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "877",
+          "name": "TEUTONIA + MEINECKE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.928668906746,
+            43.062667789202
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "878",
+          "name": "TEUTONIA + NORTH AVENUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.928160000001,
+            43.060521306097
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "879",
+          "name": "12TH STREET + LLOYD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.926999426589,
+            43.057958376252
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "880",
+          "name": "12TH STREET + RESERVOIR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927048333332,
+            43.055769950923
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "881",
+          "name": "12TH STREET + VINE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927074635581,
+            43.054029457336
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "882",
+          "name": "12TH STREET + WALNUT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927095573412,
+            43.052840230261
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "883",
+          "name": "12TH STREET + CHERRY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.92712724008,
+            43.050071311879
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "884",
+          "name": "12TH STREET + VLIET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927143333334,
+            43.048648284558
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "885",
+          "name": "12TH STREET + MCKINLEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927154062169,
+            43.047257299023
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "886",
+          "name": "12TH STREET + JUNEAU"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927175000001,
+            43.045874951341
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "887",
+          "name": "12TH STREET + HIGHLAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927185728837,
+            43.044542886943
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "888",
+          "name": "12TH STREET + STATE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927200728836,
+            43.043382887364
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "889",
+          "name": "12TH STREET + KILBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927223279763,
+            43.041742491069
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "890",
+          "name": "12TH STREET + WELLS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927232915346,
+            43.040347888459
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1501",
+          "name": "12TH STREET + WISCONSIN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927249582011,
+            43.038853380723
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "59",
+          "name": "WISCONSIN + 10TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.923661146825,
+            43.038595634938
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4345",
+          "name": "WISCONSIN + 6TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.919259426588,
+            43.038779977578
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "62",
+          "name": "WISCONSIN + OLD WORLD 3RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.914745000001,
+            43.038766822736
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4348",
+          "name": "WISCONSIN + PLANKINTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.910676666665,
+            43.03874661831
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "65",
+          "name": "WISCONSIN + MILWAUKEE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.907232084656,
+            43.038684977375
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "403",
+          "name": "WISCONSIN + VAN BUREN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.902973177909,
+            43.03891859835
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7709",
+          "name": "MICHIGAN + DOWNTOWN TRANSIT CTR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.900223424604,
+            43.037734387271
+          ]
+        }
+      }
+    ]
+  }
+}

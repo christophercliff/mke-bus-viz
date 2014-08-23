@@ -1,0 +1,1470 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "31",
+      "name": "State-Highland",
+      "color": "#0db14b",
+      "pattern_id": "5879",
+      "direction": "WEST"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -87.899899999999,
+          43.037489951695
+        ],
+        [
+          -87.900071661376,
+          43.037756571791
+        ],
+        [
+          -87.900506179236,
+          43.037854593594
+        ],
+        [
+          -87.900629560851,
+          43.037862435332
+        ],
+        [
+          -87.901353757285,
+          43.037831068376
+        ],
+        [
+          -87.901471774482,
+          43.039073971733
+        ],
+        [
+          -87.901996720236,
+          43.039037314669
+        ],
+        [
+          -87.904594271165,
+          43.038885647881
+        ],
+        [
+          -87.907001195108,
+          43.038765430499
+        ],
+        [
+          -87.909683404122,
+          43.038628201968
+        ],
+        [
+          -87.910311041032,
+          43.03877719293
+        ],
+        [
+          -87.910455880319,
+          43.038800717786
+        ],
+        [
+          -87.911105573412,
+          43.038807876147
+        ],
+        [
+          -87.914369791004,
+          43.038824842964
+        ],
+        [
+          -87.918813386903,
+          43.038829855886
+        ],
+        [
+          -87.921474138245,
+          43.038833776693
+        ],
+        [
+          -87.921631398137,
+          43.03886917268
+        ],
+        [
+          -87.923036875661,
+          43.038865251876
+        ],
+        [
+          -87.925466957028,
+          43.038829964626
+        ],
+        [
+          -87.925660076077,
+          43.03881036059
+        ],
+        [
+          -87.925896110471,
+          43.038771152498
+        ],
+        [
+          -87.926191153462,
+          43.038751548443
+        ],
+        [
+          -87.927159426588,
+          43.038758680921
+        ],
+        [
+          -87.92714771164,
+          43.040160634472
+        ],
+        [
+          -87.927136355818,
+          43.041528284858
+        ],
+        [
+          -87.927128279764,
+          43.04308053866
+        ],
+        [
+          -87.927106822092,
+          43.044491915039
+        ],
+        [
+          -87.927577031085,
+          43.044472015839
+        ],
+        [
+          -87.928698194453,
+          43.044432811365
+        ],
+        [
+          -87.931328751324,
+          43.044444080266
+        ],
+        [
+          -87.933765728837,
+          43.044468095392
+        ],
+        [
+          -87.937664480158,
+          43.044472015839
+        ],
+        [
+          -87.940117084655,
+          43.044473493174
+        ],
+        [
+          -87.942687240079,
+          43.044465159835
+        ],
+        [
+          -87.944711511244,
+          43.04446565228
+        ],
+        [
+          -87.945977513899,
+          43.044477413619
+        ],
+        [
+          -87.947482968915,
+          43.044564383511
+        ],
+        [
+          -87.948437835324,
+          43.044623190086
+        ],
+        [
+          -87.950402604498,
+          43.044651239526
+        ],
+        [
+          -87.952674844575,
+          43.04466300083
+        ],
+        [
+          -87.955042604498,
+          43.044666921264
+        ],
+        [
+          -87.957447968914,
+          43.044686523429
+        ],
+        [
+          -87.959377240079,
+          43.04466300083
+        ],
+        [
+          -87.961114271163,
+          43.044651731997
+        ],
+        [
+          -87.962984999999,
+          43.044664478245
+        ],
+        [
+          -87.963821849212,
+          43.044684080411
+        ],
+        [
+          -87.964041790351,
+          43.044723284724
+        ],
+        [
+          -87.964213451728,
+          43.044774250294
+        ],
+        [
+          -87.964395841941,
+          43.044856579201
+        ],
+        [
+          -87.964578232154,
+          43.045005555039
+        ],
+        [
+          -87.964744529113,
+          43.045166291721
+        ],
+        [
+          -87.965130767211,
+          43.045570091772
+        ],
+        [
+          -87.965238055571,
+          43.045722986243
+        ],
+        [
+          -87.965264877662,
+          43.045856278548
+        ],
+        [
+          -87.965279271163,
+          43.046038190296
+        ],
+        [
+          -87.965275000002,
+          43.04724161795
+        ],
+        [
+          -87.965291093256,
+          43.048715621428
+        ],
+        [
+          -87.965350101854,
+          43.048907709697
+        ],
+        [
+          -87.967980937831,
+          43.048879763566
+        ],
+        [
+          -87.970715364417,
+          43.048910749598
+        ],
+        [
+          -87.972372968916,
+          43.048906829436
+        ],
+        [
+          -87.972609003309,
+          43.04889898911
+        ],
+        [
+          -87.972705562834,
+          43.048851947133
+        ],
+        [
+          -87.9735514947,
+          43.048844599816
+        ],
+        [
+          -87.974715573412,
+          43.048899482125
+        ],
+        [
+          -87.976873955026,
+          43.048978989174
+        ],
+        [
+          -87.977608880296,
+          43.049014270587
+        ],
+        [
+          -87.978858488756,
+          43.049146149017
+        ],
+        [
+          -87.983562968916,
+          43.049630656357
+        ],
+        [
+          -87.985232449073,
+          43.04979290992
+        ],
+        [
+          -87.987446666668,
+          43.050023097288
+        ],
+        [
+          -87.989852031086,
+          43.05048084405
+        ],
+        [
+          -87.991728124338,
+          43.050884925118
+        ],
+        [
+          -87.992328939157,
+          43.051002526093
+        ],
+        [
+          -87.992613253313,
+          43.051053486446
+        ],
+        [
+          -87.993015584665,
+          43.051100526733
+        ],
+        [
+          -87.994451875661,
+          43.051258751331
+        ],
+        [
+          -87.997106302248,
+          43.051566551293
+        ],
+        [
+          -87.999616302247,
+          43.051864484842
+        ],
+        [
+          -88.003194369073,
+          43.052295680429
+        ],
+        [
+          -88.003737293651,
+          43.052055164851
+        ],
+        [
+          -88.005093751323,
+          43.051430257769
+        ],
+        [
+          -88.005376392849,
+          43.051263439801
+        ],
+        [
+          -88.006561929234,
+          43.050401031082
+        ],
+        [
+          -88.006910616405,
+          43.050157986434
+        ],
+        [
+          -88.007286125668,
+          43.050565673683
+        ],
+        [
+          -88.00733440543,
+          43.050636234663
+        ],
+        [
+          -88.007371956356,
+          43.050730315842
+        ],
+        [
+          -88.007378853176,
+          43.052430630817
+        ],
+        [
+          -88.007384217594,
+          43.052705025826
+        ],
+        [
+          -88.009852449073,
+          43.052522511546
+        ],
+        [
+          -88.011236468924,
+          43.052416673301
+        ],
+        [
+          -88.012205208995,
+          43.052396831743
+        ],
+        [
+          -88.016099776485,
+          43.052314512956
+        ],
+        [
+          -88.016190971591,
+          43.052428191252
+        ],
+        [
+          -88.016470000001,
+          43.052661617723
+        ],
+        [
+          -88.017397604496,
+          43.053349858059
+        ],
+        [
+          -88.019011720237,
+          43.054562419641
+        ],
+        [
+          -88.020674689826,
+          43.055773626255
+        ],
+        [
+          -88.020776613769,
+          43.055875538989
+        ],
+        [
+          -88.020846351203,
+          43.05596569242
+        ],
+        [
+          -88.020889266547,
+          43.056067604835
+        ],
+        [
+          -88.021221666667,
+          43.056944950875
+        ],
+        [
+          -88.021736511242,
+          43.058312789939
+        ],
+        [
+          -88.022445573414,
+          43.060267111861
+        ],
+        [
+          -88.02248312434,
+          43.060553230063
+        ],
+        [
+          -88.024846666667,
+          43.060514767537
+        ],
+        [
+          -88.026354068133,
+          43.060483412163
+        ],
+        [
+          -88.026600831363,
+          43.060506928695
+        ],
+        [
+          -88.02812,
+          43.060513284057
+        ],
+        [
+          -88.028809297614,
+          43.060513961743
+        ],
+        [
+          -88.028959501319,
+          43.060474767523
+        ],
+        [
+          -88.029683697753,
+          43.060463009252
+        ],
+        [
+          -88.031651671955,
+          43.060446342575
+        ],
+        [
+          -88.031866248676,
+          43.060465939698
+        ],
+        [
+          -88.037418906745,
+          43.060462514764
+        ],
+        [
+          -88.039898333334,
+          43.060418595319
+        ],
+        [
+          -88.04228275992,
+          43.060382514731
+        ],
+        [
+          -88.045453130976,
+          43.06033156213
+        ],
+        [
+          -88.045780360476,
+          43.060311964965
+        ],
+        [
+          -88.046171962992,
+          43.060268851179
+        ],
+        [
+          -88.047159015909,
+          43.060127751305
+        ],
+        [
+          -88.047331822089,
+          43.060160664661
+        ],
+        [
+          -88.047401559524,
+          43.060203778523
+        ],
+        [
+          -88.047455203704,
+          43.060258650667
+        ],
+        [
+          -88.047508847884,
+          43.060348797654
+        ],
+        [
+          -88.047549271162,
+          43.062707789195
+        ],
+        [
+          -88.04760827976,
+          43.065913676847
+        ],
+        [
+          -88.045890000002,
+          43.065933283831
+        ],
+        [
+          -88.045675423281,
+          43.065937202905
+        ],
+        [
+          -88.045695208994,
+          43.067043193441
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7710",
+          "name": "DOWNTOWN TRANSIT CTR + TRANSIT CENTER BAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.899899999999,
+            43.037489951695
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "764",
+          "name": "WISCONSIN + CASS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.901996720236,
+            43.039037314669
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4392",
+          "name": "WISCONSIN + JEFFERSON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.904594271165,
+            43.038885647881
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "404",
+          "name": "WISCONSIN + BROADWAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.907001195108,
+            43.038765430499
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5",
+          "name": "WISCONSIN + PLANKINTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.911105573412,
+            43.038807876147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6",
+          "name": "WISCONSIN + OLD WORLD 3RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.914369791004,
+            43.038824842964
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "408",
+          "name": "WISCONSIN + 6TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.918813386903,
+            43.038829855886
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "9",
+          "name": "WISCONSIN + 9TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.923036875661,
+            43.038865251876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "410",
+          "name": "WISCONSIN + 12TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927159426588,
+            43.038758680921
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "776",
+          "name": "12TH STREET + WELLS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.92714771164,
+            43.040160634472
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "777",
+          "name": "12TH STREET + KILBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927136355818,
+            43.041528284858
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "778",
+          "name": "12TH STREET + STATE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927128279764,
+            43.04308053866
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2992",
+          "name": "HIGHLAND + 12TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927577031085,
+            43.044472015839
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2993",
+          "name": "HIGHLAND + 15TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.931328751324,
+            43.044444080266
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2994",
+          "name": "HIGHLAND + 17TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933765728837,
+            43.044468095392
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2996",
+          "name": "HIGHLAND + 20TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.937664480158,
+            43.044472015839
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2998",
+          "name": "HIGHLAND + 22ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.940117084655,
+            43.044473493174
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2999",
+          "name": "HIGHLAND + 24TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.942687240079,
+            43.044465159835
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3000",
+          "name": "HIGHLAND + 25TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.944711511244,
+            43.04446565228
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4550",
+          "name": "HIGHLAND + 27TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947482968915,
+            43.044564383511
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4551",
+          "name": "HIGHLAND + 29TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.950402604498,
+            43.044651239526
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4552",
+          "name": "HIGHLAND + 3030 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.952674844575,
+            43.04466300083
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4553",
+          "name": "HIGHLAND + 33RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.955042604498,
+            43.044666921264
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2745",
+          "name": "HIGHLAND + 35TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957447968914,
+            43.044686523429
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4232",
+          "name": "HIGHLAND + 37TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.959377240079,
+            43.04466300083
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4233",
+          "name": "HIGHLAND + 38TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.961114271163,
+            43.044651731997
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4234",
+          "name": "HIGHLAND + 40TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.962984999999,
+            43.044664478245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4235",
+          "name": "HIGHLAND + MARTIN DRIVE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.965279271163,
+            43.046038190296
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4236",
+          "name": "HIGHLAND + MCKINLEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.965275000002,
+            43.04724161795
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "765",
+          "name": "VLIET + 43RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967980937831,
+            43.048879763566
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "766",
+          "name": "VLIET + 45TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.970715364417,
+            43.048910749598
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "767",
+          "name": "VLIET + 47TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.972372968916,
+            43.048906829436
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "768",
+          "name": "VLIET + 49TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.974715573412,
+            43.048899482125
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "769",
+          "name": "VLIET + 50TH PLACE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.976873955026,
+            43.048978989174
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "770",
+          "name": "VLIET + 52ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.978858488756,
+            43.049146149017
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "772",
+          "name": "VLIET + HAWLEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.983562968916,
+            43.049630656357
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "773",
+          "name": "VLIET + 58TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.985232449073,
+            43.04979290992
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "775",
+          "name": "VLIET + 60TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.987446666668,
+            43.050023097288
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4568",
+          "name": "MILWAUKEE + MARTHA WASHINGTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.989852031086,
+            43.05048084405
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4569",
+          "name": "MILWAUKEE + 64TH ST - UPPER PKWY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.991728124338,
+            43.050884925118
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4570",
+          "name": "MILWAUKEE + 66TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.994451875661,
+            43.051258751331
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4571",
+          "name": "MILWAUKEE + 68TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.997106302248,
+            43.051566551293
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4572",
+          "name": "MILWAUKEE + 70TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.999616302247,
+            43.051864484842
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4573",
+          "name": "HARWOOD + MILWAUKEE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.003737293651,
+            43.052055164851
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4574",
+          "name": "HARWOOD + MOWER CT-LINCOLN PL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.005093751323,
+            43.051430257769
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4575",
+          "name": "HARWOOD + WAUWATOSA AVENUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.006561929234,
+            43.050401031082
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4576",
+          "name": "WAUWATOSA AVENUE + MILWAUKEE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.007378853176,
+            43.052430630817
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4578",
+          "name": "MILWAUKEE + CHURCH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.009852449073,
+            43.052522511546
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4579",
+          "name": "MILWAUKEE + DAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.012205208995,
+            43.052396831743
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4580",
+          "name": "LUDINGTON + 83RD ST - KENYON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.016470000001,
+            43.052661617723
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4581",
+          "name": "LUDINGTON + 84TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.017397604496,
+            43.053349858059
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4582",
+          "name": "LUDINGTON + 85TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.019011720237,
+            43.054562419641
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4583",
+          "name": "LUDINGTON + PARKVIEW"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.021221666667,
+            43.056944950875
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4584",
+          "name": "LUDINGTON + STICKNEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.021736511242,
+            43.058312789939
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4585",
+          "name": "LUDINGTON + NORTH AVENUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.022445573414,
+            43.060267111861
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3727",
+          "name": "NORTH AVENUE + 90TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.024846666667,
+            43.060514767537
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3728",
+          "name": "NORTH AVENUE + SWAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.02812,
+            43.060513284057
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3729",
+          "name": "NORTH AVENUE + 94TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.029683697753,
+            43.060463009252
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3730",
+          "name": "NORTH AVENUE + MENOMONEE RIVER PKWY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.031866248676,
+            43.060465939698
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3731",
+          "name": "NORTH AVENUE + 100TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.037418906745,
+            43.060462514764
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2465",
+          "name": "NORTH AVENUE + 102ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.039898333334,
+            43.060418595319
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3733",
+          "name": "NORTH AVENUE + 104TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.04228275992,
+            43.060382514731
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3732",
+          "name": "NORTH AVENUE + MAYFAIR ROAD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.047331822089,
+            43.060160664661
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4184",
+          "name": "MAYFAIR ROAD + 2400 N."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.047549271162,
+            43.062707789195
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4168",
+          "name": "MAYFAIR MALL + NORTHWEST LOT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.045890000002,
+            43.065933283831
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7723",
+          "name": "MAYFAIR MALL + NORTHWEST LOT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.045695208994,
+            43.067043193441
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1432 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "14",
+      "name": "Forest Home",
+      "color": "#00539f",
+      "pattern_id": "4995",
+      "direction": "NORTH"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -88.006323190001,
+          42.955659675178
+        ],
+        [
+          -88.006344647673,
+          42.955514408674
+        ],
+        [
+          -88.006366105345,
+          42.954438640651
+        ],
+        [
+          -88.00648948696,
+          42.954328707093
+        ],
+        [
+          -88.006580682066,
+          42.954203068501
+        ],
+        [
+          -88.006661148337,
+          42.954085282088
+        ],
+        [
+          -88.00669940765,
+          42.953941938372
+        ],
+        [
+          -88.006720865322,
+          42.95380844652
+        ],
+        [
+          -88.00672622974,
+          42.953659249402
+        ],
+        [
+          -88.006688678814,
+          42.95352968319
+        ],
+        [
+          -88.006597483708,
+          42.953325517697
+        ],
+        [
+          -88.006436551167,
+          42.953015341901
+        ],
+        [
+          -88.00631853397,
+          42.952799395804
+        ],
+        [
+          -88.006323898388,
+          42.952504922632
+        ],
+        [
+          -88.00637217815,
+          42.952387132969
+        ],
+        [
+          -88.006375990001,
+          42.952126555333
+        ],
+        [
+          -88.006370625583,
+          42.951792815316
+        ],
+        [
+          -88.006338439075,
+          42.951635760565
+        ],
+        [
+          -88.006225786296,
+          42.951521895619
+        ],
+        [
+          -88.006011209575,
+          42.951364840176
+        ],
+        [
+          -88.005877099124,
+          42.951498337328
+        ],
+        [
+          -88.00575371751,
+          42.951608275942
+        ],
+        [
+          -88.005603513805,
+          42.951686803403
+        ],
+        [
+          -88.0054533101,
+          42.951733919832
+        ],
+        [
+          -88.005249462215,
+          42.951757478032
+        ],
+        [
+          -88.003886900035,
+          42.951769257129
+        ],
+        [
+          -88.003618679134,
+          42.951753551666
+        ],
+        [
+          -88.003409466831,
+          42.951702508883
+        ],
+        [
+          -88.003066144077,
+          42.951596496814
+        ],
+        [
+          -88.002846202937,
+          42.951502263711
+        ],
+        [
+          -88.00264771947,
+          42.951439441562
+        ],
+        [
+          -88.002443871585,
+          42.951392324908
+        ],
+        [
+          -88.002084213469,
+          42.951371573572
+        ],
+        [
+          -88.00183745024,
+          42.951375499963
+        ],
+        [
+          -88.001858907912,
+          42.952062614447
+        ],
+        [
+          -88.006074828973,
+          42.95205415302
+        ],
+        [
+          -88.006364507547,
+          42.952089490134
+        ],
+        [
+          -88.007903333335,
+          42.952096110212
+        ],
+        [
+          -88.008219833999,
+          42.952096110212
+        ],
+        [
+          -88.008236666667,
+          42.953671621932
+        ],
+        [
+          -88.008165835979,
+          42.956711029085
+        ],
+        [
+          -88.008150782408,
+          42.958939695645
+        ],
+        [
+          -88.008034844575,
+          42.965178507837
+        ],
+        [
+          -88.008012813491,
+          42.966375327554
+        ],
+        [
+          -88.008007449073,
+          42.96647346331
+        ],
+        [
+          -88.004198712272,
+          42.966508792143
+        ],
+        [
+          -88.00348869775,
+          42.966939407096
+        ],
+        [
+          -88.001571875661,
+          42.968139626766
+        ],
+        [
+          -87.998349999999,
+          42.970165593754
+        ],
+        [
+          -87.995737968917,
+          42.971846887152
+        ],
+        [
+          -87.994276302247,
+          42.972785004127
+        ],
+        [
+          -87.99279854233,
+          42.973711079954
+        ],
+        [
+          -87.991548333334,
+          42.974517371912
+        ],
+        [
+          -87.988199271165,
+          42.976583556036
+        ],
+        [
+          -87.986821302248,
+          42.977413448911
+        ],
+        [
+          -87.984570573413,
+          42.978780815036
+        ],
+        [
+          -87.982773333334,
+          42.979877482147
+        ],
+        [
+          -87.98084630225,
+          42.981021300283
+        ],
+        [
+          -87.979394271166,
+          42.981901194096
+        ],
+        [
+          -87.977184271165,
+          42.983263665556
+        ],
+        [
+          -87.975383333335,
+          42.984363559676
+        ],
+        [
+          -87.974063333335,
+          42.985155332747
+        ],
+        [
+          -87.970810937831,
+          42.987113560964
+        ],
+        [
+          -87.969321302248,
+          42.988016304001
+        ],
+        [
+          -87.968119999999,
+          42.988781620431
+        ],
+        [
+          -87.96566093783,
+          42.99032748637
+        ],
+        [
+          -87.963398333331,
+          42.99169189644
+        ],
+        [
+          -87.960940937829,
+          42.993172973411
+        ],
+        [
+          -87.958450208993,
+          42.994535925642
+        ],
+        [
+          -87.956008333332,
+          42.995959051351
+        ],
+        [
+          -87.952764999998,
+          42.997893183112
+        ],
+        [
+          -87.950830937833,
+          42.999054156565
+        ],
+        [
+          -87.948563595901,
+          43.000400720664
+        ],
+        [
+          -87.94765687566,
+          43.001020927023
+        ],
+        [
+          -87.9468951283,
+          43.001562329245
+        ],
+        [
+          -87.946734195759,
+          43.00172317971
+        ],
+        [
+          -87.944563333334,
+          43.003043183879
+        ],
+        [
+          -87.941606666667,
+          43.004795927826
+        ],
+        [
+          -87.938370364417,
+          43.006508468104
+        ],
+        [
+          -87.936472240079,
+          43.007501314368
+        ],
+        [
+          -87.934481302247,
+          43.008571416486
+        ],
+        [
+          -87.933086553559,
+          43.009285350949
+        ],
+        [
+          -87.933056666667,
+          43.010104952854
+        ],
+        [
+          -87.933014217592,
+          43.012201619432
+        ],
+        [
+          -87.9329385959,
+          43.014085929804
+        ],
+        [
+          -87.932870364418,
+          43.016680052576
+        ],
+        [
+          -87.932999110451,
+          43.017052662511
+        ],
+        [
+          -87.93300187566,
+          43.019017207883
+        ],
+        [
+          -87.933012604499,
+          43.020058186416
+        ],
+        [
+          -87.932992240078,
+          43.021071420746
+        ],
+        [
+          -87.932991146826,
+          43.022891129297
+        ],
+        [
+          -87.932992240081,
+          43.024130442101
+        ],
+        [
+          -87.933019008598,
+          43.031517891655
+        ],
+        [
+          -87.932971248677,
+          43.034867302715
+        ],
+        [
+          -87.932912759922,
+          43.03591338141
+        ],
+        [
+          -87.932908435184,
+          43.038416522491
+        ],
+        [
+          -87.932908435184,
+          43.038573355614
+        ],
+        [
+          -87.929812759921,
+          43.038563885166
+        ],
+        [
+          -87.92741864418,
+          43.038575456055
+        ],
+        [
+          -87.923661146825,
+          43.038595634938
+        ],
+        [
+          -87.923312459653,
+          43.038587793294
+        ],
+        [
+          -87.922931585973,
+          43.038615239043
+        ],
+        [
+          -87.922545347875,
+          43.03863876396
+        ],
+        [
+          -87.921805058187,
+          43.038736784354
+        ],
+        [
+          -87.921643606477,
+          43.038755169015
+        ],
+        [
+          -87.921482673936,
+          43.038786535499
+        ],
+        [
+          -87.918522395502,
+          43.03876633102
+        ],
+        [
+          -87.913101875663,
+          43.038747027169
+        ],
+        [
+          -87.910430395484,
+          43.038727423106
+        ],
+        [
+          -87.909700834632,
+          43.038570590377
+        ],
+        [
+          -87.909309426588,
+          43.038575947753
+        ],
+        [
+          -87.905844480157,
+          43.038763994091
+        ],
+        [
+          -87.901775519841,
+          43.038989964792
+        ],
+        [
+          -87.90153412103,
+          43.03900172718
+        ],
+        [
+          -87.901416103833,
+          43.037758822359
+        ],
+        [
+          -87.900606076711,
+          43.037798031098
+        ],
+        [
+          -87.900455873006,
+          43.037778426732
+        ],
+        [
+          -87.900223424604,
+          43.037734387271
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp20",
+          "name": "4817 SOUTH 74TH ST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.006323190001,
+            42.955659675178
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp21",
+          "name": "HOMELS + 74TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.00669940765,
+            42.953941938372
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp22",
+          "name": "EDGERTON + 74TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.006375990001,
+            42.952126555333
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp23",
+          "name": "SOUTHRIDGE + PARK & RIDE LOT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.002084213469,
+            42.951371573572
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp24",
+          "name": "EDGERTON + 76TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.006074828973,
+            42.95205415302
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4871",
+          "name": "EDGERTON + 76TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.007903333335,
+            42.952096110212
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5465",
+          "name": "76TH STREET + HOLMES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.008236666667,
+            42.953671621932
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5466",
+          "name": "76TH STREET + BARNARD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.008165835979,
+            42.956711029085
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1170",
+          "name": "76TH STREET + LAYTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.008150782408,
+            42.958939695645
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1171",
+          "name": "76TH STREET + FOREST HOME-ALLERTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.008034844575,
+            42.965178507837
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1172",
+          "name": "76TH STREET + COLDSPRING"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.008012813491,
+            42.966375327554
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1173",
+          "name": "FOREST HOME + COLDSPRING"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.00348869775,
+            42.966939407096
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1174",
+          "name": "FOREST HOME + PLAINFIELD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.001571875661,
+            42.968139626766
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1175",
+          "name": "FOREST HOME + 68TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.998349999999,
+            42.970165593754
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1176",
+          "name": "FOREST HOME + 6563 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.995737968917,
+            42.971846887152
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1177",
+          "name": "FOREST HOME + 65TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.994276302247,
+            42.972785004127
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1178",
+          "name": "FOREST HOME + HOWARD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.99279854233,
+            42.973711079954
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1179",
+          "name": "FOREST HOME + 63RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.991548333334,
+            42.974517371912
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1180",
+          "name": "FOREST HOME + 60TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.988199271165,
+            42.976583556036
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1181",
+          "name": "FOREST HOME + 58TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.986821302248,
+            42.977413448911
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1182",
+          "name": "FOREST HOME + 56TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.984570573413,
+            42.978780815036
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1183",
+          "name": "FOREST HOME + 54TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.982773333334,
+            42.979877482147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1184",
+          "name": "FOREST HOME + MORGAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.98084630225,
+            42.981021300283
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1185",
+          "name": "FOREST HOME + 52ND ST - UTAH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.979394271166,
+            42.981901194096
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1186",
+          "name": "FOREST HOME + CRANDON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.977184271165,
+            42.983263665556
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8553",
+          "name": "FOREST HOME + 49TH ST - SCHAUER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.975383333335,
+            42.984363559676
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1187",
+          "name": "FOREST HOME + 48TH ST - DURAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.974063333335,
+            42.985155332747
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1188",
+          "name": "FOREST HOME + 4631 W."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.970810937831,
+            42.987113560964
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1189",
+          "name": "FOREST HOME + OKLAHOMA - 44TH ST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.969321302248,
+            42.988016304001
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5128",
+          "name": "FOREST HOME + 43RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.968119999999,
+            42.988781620431
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1191",
+          "name": "FOREST HOME + 41ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.96566093783,
+            42.99032748637
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1192",
+          "name": "FOREST HOME + 39TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.963398333331,
+            42.99169189644
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1193",
+          "name": "FOREST HOME + 37TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.960940937829,
+            42.993172973411
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1194",
+          "name": "FOREST HOME + 35TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958450208993,
+            42.994535925642
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1195",
+          "name": "FOREST HOME + LEEDS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.956008333332,
+            42.995959051351
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1197",
+          "name": "FOREST HOME + 31ST ST - HARRISON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.952764999998,
+            42.997893183112
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1198",
+          "name": "FOREST HOME + 29TH ST - ARTHUR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.950830937833,
+            42.999054156565
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1199",
+          "name": "FOREST HOME + 27TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.948563595901,
+            43.000400720664
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1200",
+          "name": "FOREST HOME + 27TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94765687566,
+            43.001020927023
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1201",
+          "name": "FOREST HOME + LINCOLN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.944563333334,
+            43.003043183879
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1202",
+          "name": "FOREST HOME + GRANT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.941606666667,
+            43.004795927826
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1203",
+          "name": "FOREST HOME + 20TH ST - BECHER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.938370364417,
+            43.006508468104
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1204",
+          "name": "FOREST HOME + 19TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.936472240079,
+            43.007501314368
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1210",
+          "name": "FOREST HOME + 17TH ST - ROGERS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.934481302247,
+            43.008571416486
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1212",
+          "name": "16TH STREET + BURNHAM"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933056666667,
+            43.010104952854
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2151",
+          "name": "16TH STREET + MITCHELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933014217592,
+            43.012201619432
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2152",
+          "name": "CHAVEZ DRIVE + LAPHAM"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.9329385959,
+            43.014085929804
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7951",
+          "name": "CHAVEZ DRIVE + GREENFIELD - MUSKEGO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932870364418,
+            43.016680052576
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2155",
+          "name": "CHAVEZ DRIVE + SCOTT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93300187566,
+            43.019017207883
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2156",
+          "name": "CHAVEZ DRIVE + WASHINGTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933012604499,
+            43.020058186416
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2157",
+          "name": "CHAVEZ DRIVE + MINERAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932992240078,
+            43.021071420746
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2158",
+          "name": "CHAVEZ DRIVE + NATIONAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932991146826,
+            43.022891129297
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2159",
+          "name": "16TH STREET + PIERCE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932992240081,
+            43.024130442101
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2161",
+          "name": "16TH STREET + CANAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.933019008598,
+            43.031517891655
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2162",
+          "name": "16TH STREET + SAINT PAUL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932971248677,
+            43.034867302715
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2163",
+          "name": "16TH STREET + CLYBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932912759922,
+            43.03591338141
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2164",
+          "name": "16TH STREET + WISCONSIN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932908435184,
+            43.038416522491
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2165",
+          "name": "WISCONSIN + 14TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.929812759921,
+            43.038563885166
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "891",
+          "name": "WISCONSIN + 12TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.92741864418,
+            43.038575456055
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "59",
+          "name": "WISCONSIN + 10TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.923661146825,
+            43.038595634938
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4344",
+          "name": "WISCONSIN + 8TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.921643606477,
+            43.038755169015
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "61",
+          "name": "WISCONSIN + 5TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.918522395502,
+            43.03876633102
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4347",
+          "name": "WISCONSIN + 2ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.913101875663,
+            43.038747027169
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "64",
+          "name": "WISCONSIN + WATER STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.909309426588,
+            43.038575947753
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4350",
+          "name": "WISCONSIN + JEFFERSON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.905844480157,
+            43.038763994091
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7805",
+          "name": "WISCONSIN + CASS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.901775519841,
+            43.038989964792
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7709",
+          "name": "MICHIGAN + DOWNTOWN TRANSIT CTR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.900223424604,
+            43.037734387271
+          ]
+        }
+      }
+    ]
+  }
+}

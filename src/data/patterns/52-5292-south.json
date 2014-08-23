@@ -1,0 +1,1386 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "52",
+      "name": "Clement-15th Avenue",
+      "color": "#8dc63f",
+      "pattern_id": "5292",
+      "direction": "SOUTH"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -87.91020051984,
+          43.01188082842
+        ],
+        [
+          -87.910447283069,
+          43.012335840014
+        ],
+        [
+          -87.911042733471,
+          43.012324072515
+        ],
+        [
+          -87.911214394848,
+          43.011833758063
+        ],
+        [
+          -87.911230488102,
+          43.011543490063
+        ],
+        [
+          -87.911219759266,
+          43.011025711305
+        ],
+        [
+          -87.909878654758,
+          43.011037479052
+        ],
+        [
+          -87.909425884259,
+          43.010202696883
+        ],
+        [
+          -87.907934303577,
+          43.007452264036
+        ],
+        [
+          -87.907574887569,
+          43.006997216263
+        ],
+        [
+          -87.907408590611,
+          43.006844225306
+        ],
+        [
+          -87.907295937832,
+          43.006706925405
+        ],
+        [
+          -87.906586742072,
+          43.005754866602
+        ],
+        [
+          -87.905653333335,
+          43.00459759445
+        ],
+        [
+          -87.904418697751,
+          43.00305474794
+        ],
+        [
+          -87.902856666667,
+          43.001199157433
+        ],
+        [
+          -87.901998333332,
+          43.000178286611
+        ],
+        [
+          -87.900758333334,
+          42.998679570201
+        ],
+        [
+          -87.899959035048,
+          42.997737953875
+        ],
+        [
+          -87.899851746687,
+          42.997624174258
+        ],
+        [
+          -87.8997069074,
+          42.997514317877
+        ],
+        [
+          -87.898987968917,
+          42.997126341181
+        ],
+        [
+          -87.89687463558,
+          42.995977904513
+        ],
+        [
+          -87.895591666666,
+          42.995307314501
+        ],
+        [
+          -87.894336666666,
+          42.994659085583
+        ],
+        [
+          -87.894245471559,
+          42.994627696551
+        ],
+        [
+          -87.894273853175,
+          42.9938636
+        ],
+        [
+          -87.894284062171,
+          42.992484677084
+        ],
+        [
+          -87.894330728838,
+          42.989756240096
+        ],
+        [
+          -87.894342031085,
+          42.988388392532
+        ],
+        [
+          -87.89434145767,
+          42.98653204364
+        ],
+        [
+          -87.894368333334,
+          42.984618287274
+        ],
+        [
+          -87.894431666667,
+          42.982416620702
+        ],
+        [
+          -87.894448333334,
+          42.981096620756
+        ],
+        [
+          -87.894505728836,
+          42.97839371689
+        ],
+        [
+          -87.894543333335,
+          42.976488287621
+        ],
+        [
+          -87.894569115739,
+          42.974751729059
+        ],
+        [
+          -87.894585208993,
+          42.973903945078
+        ],
+        [
+          -87.894558386903,
+          42.973782271418
+        ],
+        [
+          -87.894477920632,
+          42.973637047702
+        ],
+        [
+          -87.893727968914,
+          42.973628121714
+        ],
+        [
+          -87.89192,
+          42.973626621077
+        ],
+        [
+          -87.889641875662,
+          42.973631029439
+        ],
+        [
+          -87.887248333333,
+          42.973634954409
+        ],
+        [
+          -87.886792357801,
+          42.973642804349
+        ],
+        [
+          -87.886609967588,
+          42.973685978999
+        ],
+        [
+          -87.884725364419,
+          42.973673771139
+        ],
+        [
+          -87.88308921692,
+          42.973661996235
+        ],
+        [
+          -87.882992657395,
+          42.973630596481
+        ],
+        [
+          -87.88205388424,
+          42.973563871949
+        ],
+        [
+          -87.879841666667,
+          42.973559146261
+        ],
+        [
+          -87.87975047156,
+          42.973559146261
+        ],
+        [
+          -87.879777706351,
+          42.972048613464
+        ],
+        [
+          -87.879789008598,
+          42.969060764781
+        ],
+        [
+          -87.879793279761,
+          42.966525064322
+        ],
+        [
+          -87.87980406217,
+          42.964836841316
+        ],
+        [
+          -87.879798697751,
+          42.962715175551
+        ],
+        [
+          -87.879825519841,
+          42.961969294316
+        ],
+        [
+          -87.87988452844,
+          42.961804414086
+        ],
+        [
+          -87.879910884258,
+          42.960386621645
+        ],
+        [
+          -87.879943070767,
+          42.959491529203
+        ],
+        [
+          -87.879959164021,
+          42.958333385886
+        ],
+        [
+          -87.879910884258,
+          42.956786543524
+        ],
+        [
+          -87.879914689153,
+          42.954340914909
+        ],
+        [
+          -87.879968333333,
+          42.952691888304
+        ],
+        [
+          -87.879968333333,
+          42.951906622009
+        ],
+        [
+          -87.879995101851,
+          42.950359484721
+        ],
+        [
+          -87.880011195105,
+          42.949695910211
+        ],
+        [
+          -87.879979008597,
+          42.948733910793
+        ],
+        [
+          -87.879919999999,
+          42.948553288818
+        ],
+        [
+          -87.879968333332,
+          42.944643288985
+        ],
+        [
+          -87.879968333332,
+          42.942148289094
+        ],
+        [
+          -87.879999999999,
+          42.940463289167
+        ],
+        [
+          -87.880014480158,
+          42.939164130024
+        ],
+        [
+          -87.880057395502,
+          42.939101295282
+        ],
+        [
+          -87.88008958201,
+          42.938520070883
+        ],
+        [
+          -87.880111093253,
+          42.936746986045
+        ],
+        [
+          -87.880121822089,
+          42.935588414712
+        ],
+        [
+          -87.880041355819,
+          42.935443100837
+        ],
+        [
+          -87.880084271163,
+          42.933696506905
+        ],
+        [
+          -87.880094999999,
+          42.932062637723
+        ],
+        [
+          -87.880148644179,
+          42.931940881312
+        ],
+        [
+          -87.880180830688,
+          42.931579538291
+        ],
+        [
+          -87.880277390212,
+          42.931194627089
+        ],
+        [
+          -87.880432958335,
+          42.930746870215
+        ],
+        [
+          -87.880907792334,
+          42.929928639457
+        ],
+        [
+          -87.880247968916,
+          42.92992078394
+        ],
+        [
+          -87.876661666666,
+          42.92990828962
+        ],
+        [
+          -87.871129999999,
+          42.929920783939
+        ],
+        [
+          -87.870384345893,
+          42.929924711698
+        ],
+        [
+          -87.870507727507,
+          42.929724395684
+        ],
+        [
+          -87.870577464942,
+          42.929586923533
+        ],
+        [
+          -87.870636253966,
+          42.929240124747
+        ],
+        [
+          -87.870775728835,
+          42.92685197469
+        ],
+        [
+          -87.870854689152,
+          42.92549916694
+        ],
+        [
+          -87.870929791004,
+          42.923947571289
+        ],
+        [
+          -87.871029635582,
+          42.921969336905
+        ],
+        [
+          -87.871083279762,
+          42.921914341158
+        ],
+        [
+          -87.871099373016,
+          42.921662931406
+        ],
+        [
+          -87.871205101851,
+          42.919803885127
+        ],
+        [
+          -87.871210466269,
+          42.919430685624
+        ],
+        [
+          -87.871167550925,
+          42.919356045452
+        ],
+        [
+          -87.871237395501,
+          42.918075194555
+        ],
+        [
+          -87.871363488755,
+          42.915830076202
+        ],
+        [
+          -87.871374217591,
+          42.91532327733
+        ],
+        [
+          -87.864644999998,
+          42.915205434642
+        ],
+        [
+          -87.860916729467,
+          42.915150432858
+        ],
+        [
+          -87.860578771131,
+          42.91511114584
+        ],
+        [
+          -87.860455389517,
+          42.915040429143
+        ],
+        [
+          -87.860353465574,
+          42.914887209356
+        ],
+        [
+          -87.860460728836,
+          42.91469662585
+        ],
+        [
+          -87.860535830688,
+          42.914515904026
+        ],
+        [
+          -87.860560107142,
+          42.91436721293
+        ],
+        [
+          -87.860662031085,
+          42.912520672515
+        ],
+        [
+          -87.860724271164,
+          42.911411743904
+        ],
+        [
+          -87.860895519841,
+          42.908001269687
+        ],
+        [
+          -87.860895519841,
+          42.907887324048
+        ],
+        [
+          -87.864908104527,
+          42.907969836428
+        ],
+        [
+          -87.86498,
+          42.907576623919
+        ],
+        [
+          -87.86525,
+          42.905844957327
+        ],
+        [
+          -87.865440000002,
+          42.904564957383
+        ],
+        [
+          -87.865606296961,
+          42.903574746835
+        ],
+        [
+          -87.86562630225,
+          42.902805079256
+        ],
+        [
+          -87.865615000002,
+          42.901148290865
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7822",
+          "name": "KINNICKINNIC + MITCHELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.91020051984,
+            43.01188082842
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "647",
+          "name": "KINNICKINNIC + 1901 S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.909425884259,
+            43.010202696883
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "648",
+          "name": "KINNICKINNIC + BEECHER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.907295937832,
+            43.006706925405
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "649",
+          "name": "KINNICKINNIC + WARD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.905653333335,
+            43.00459759445
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1427",
+          "name": "KINNICKINNIC + LINCOLN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.904418697751,
+            43.00305474794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1428",
+          "name": "KINNICKINNIC + SMITH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.902856666667,
+            43.001199157433
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1429",
+          "name": "KINNICKINNIC + WILSON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.901998333332,
+            43.000178286611
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1430",
+          "name": "KINNICKINNIC + OTJEN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.900758333334,
+            42.998679570201
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1431",
+          "name": "KINNICKINNIC + POTTER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.898987968917,
+            42.997126341181
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1432",
+          "name": "KINNICKINNIC + RUSSELL - LOGAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.89687463558,
+            42.995977904513
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1433",
+          "name": "KINNICKINNIC + HERMAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.895591666666,
+            42.995307314501
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1434",
+          "name": "KINNICKINNIC + CLEMENT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894336666666,
+            42.994659085583
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5167",
+          "name": "CLEMENT + MONTANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894273853175,
+            42.9938636
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5168",
+          "name": "CLEMENT + DAKOTA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894284062171,
+            42.992484677084
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5169",
+          "name": "CLEMENT + MANITOBA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894330728838,
+            42.989756240096
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5170",
+          "name": "CLEMENT + OKLAHOMA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894342031085,
+            42.988388392532
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5171",
+          "name": "CLEMENT + EUCLID"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.89434145767,
+            42.98653204364
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5172",
+          "name": "CLEMENT + 3287 S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894368333334,
+            42.984618287274
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5173",
+          "name": "CLEMENT + HOLT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894431666667,
+            42.982416620702
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5174",
+          "name": "CLEMENT + MORGAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894448333334,
+            42.981096620756
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5175",
+          "name": "CLEMENT + WILBUR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894505728836,
+            42.97839371689
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5176",
+          "name": "CLEMENT + SAVELAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894543333335,
+            42.976488287621
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5177",
+          "name": "CLEMENT + TRIPOLI"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894569115739,
+            42.974751729059
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5047",
+          "name": "HOWARD + CLEMENT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.893727968914,
+            42.973628121714
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5048",
+          "name": "HOWARD + NEVADA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.89192,
+            42.973626621077
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5049",
+          "name": "HOWARD + BRUST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.889641875662,
+            42.973631029439
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "320",
+          "name": "HOWARD + KANSAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.887248333333,
+            42.973634954409
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2939",
+          "name": "HOWARD + IOWA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.884725364419,
+            42.973673771139
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2940",
+          "name": "HOWARD + PENNSYLVANIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879841666667,
+            42.973559146261
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2941",
+          "name": "PENNSYLVANIA + NORWICH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879777706351,
+            42.972048613464
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2942",
+          "name": "PENNSYLVANIA + DENTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879789008598,
+            42.969060764781
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2943",
+          "name": "PENNSYLVANIA + BOLIVAR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879793279761,
+            42.966525064322
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7438",
+          "name": "PENNSYLVANIA + BOTTSFORD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.87980406217,
+            42.964836841316
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7439",
+          "name": "PENNSYLVANIA + VAN NORMAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879798697751,
+            42.962715175551
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7440",
+          "name": "PENNSYLVANIA + WHITNALL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879910884258,
+            42.960386621645
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2945",
+          "name": "PENNSYLVANIA + EDGERTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879968333333,
+            42.951906622009
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2946",
+          "name": "PENNSYLVANIA + INTERNATIONAL DRIVE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879919999999,
+            42.948553288818
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2947",
+          "name": "PENNSYLVANIA + GRANGE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879968333332,
+            42.944643288985
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "temp058",
+          "name": "PENNSYLVANIA + 5601"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879968333332,
+            42.942148289094
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8360",
+          "name": "PENNSYLVANIA + BIRCHWOOD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.879999999999,
+            42.940463289167
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3011",
+          "name": "PENNSYLVANIA + HANSEN LOGISTICS WAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.88008958201,
+            42.938520070883
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8361",
+          "name": "PENNSYLVANIA + NORSE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.880111093253,
+            42.936746986045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8362",
+          "name": "PENNSYLVANIA + DONALD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.880084271163,
+            42.933696506905
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8363",
+          "name": "COLLEGE + PENNSYLVANIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.880247968916,
+            42.92992078394
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8364",
+          "name": "COLLEGE + HOLLY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.876661666666,
+            42.92990828962
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8365",
+          "name": "COLLEGE + 15TH AVENUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.871129999999,
+            42.929920783939
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1578",
+          "name": "15TH AVENUE + PARK AVENUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.870775728835,
+            42.92685197469
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1579",
+          "name": "15TH AVENUE + OAK CREEK PKWY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.870929791004,
+            42.923947571289
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1580",
+          "name": "15TH AVENUE + BEECH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.871099373016,
+            42.921662931406
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1581",
+          "name": "15TH AVENUE + CHERRY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.871205101851,
+            42.919803885127
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1582",
+          "name": "15TH AVENUE + CHESTNUT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.871237395501,
+            42.918075194555
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1583",
+          "name": "15TH AVENUE + RAWSON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.871363488755,
+            42.915830076202
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2322",
+          "name": "RAWSON + 1200 E."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.864644999998,
+            42.915205434642
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1476",
+          "name": "10TH AVENUE + RAWSON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.860460728836,
+            42.91469662585
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1477",
+          "name": "10TH AVENUE + MINNESOTA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.860662031085,
+            42.912520672515
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1478",
+          "name": "10TH AVENUE + MONROE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.860724271164,
+            42.911411743904
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1514",
+          "name": "10TH AVENUE + MARQUETTE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.860895519841,
+            42.908001269687
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1515",
+          "name": "CHICAGO AVENUE + MARQUETTE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.86498,
+            42.907576623919
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "361",
+          "name": "CHICAGO AVENUE + MARSHALL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.86525,
+            42.905844957327
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "360",
+          "name": "CHICAGO AVENUE + MARION"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.865440000002,
+            42.904564957383
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1518",
+          "name": "CHICAGO AVENUE + MANISTIQUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.86562630225,
+            42.902805079256
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1507",
+          "name": "CHICAGO AVENUE + DREXEL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.865615000002,
+            42.901148290865
+          ]
+        }
+      }
+    ]
+  }
+}

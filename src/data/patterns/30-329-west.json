@@ -1,0 +1,1836 @@
+{
+  "path": {
+    "type": "Feature",
+    "properties": {
+      "id": "30",
+      "name": "Sherman-Wisconsin",
+      "color": "#ffdd00",
+      "pattern_id": "329",
+      "direction": "WEST"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -87.882752711638,
+          43.078116616653
+        ],
+        [
+          -87.882727968916,
+          43.079069949945
+        ],
+        [
+          -87.882638333334,
+          43.081788283166
+        ],
+        [
+          -87.882638333334,
+          43.081894070709
+        ],
+        [
+          -87.880286666667,
+          43.081896354021
+        ],
+        [
+          -87.877944062169,
+          43.081885419357
+        ],
+        [
+          -87.877767036374,
+          43.081885419357
+        ],
+        [
+          -87.877848488757,
+          43.079416528627
+        ],
+        [
+          -87.877897341932,
+          43.077775126575
+        ],
+        [
+          -87.87790270635,
+          43.077645821971
+        ],
+        [
+          -87.880487968916,
+          43.077647610038
+        ],
+        [
+          -87.88267,
+          43.077651528363
+        ],
+        [
+          -87.882857754631,
+          43.077655446688
+        ],
+        [
+          -87.882940053571,
+          43.074826616789
+        ],
+        [
+          -87.882972186507,
+          43.072914543348
+        ],
+        [
+          -87.883015675264,
+          43.071127202354
+        ],
+        [
+          -87.883051146827,
+          43.069522202526
+        ],
+        [
+          -87.883093542327,
+          43.067478869408
+        ],
+        [
+          -87.883083386904,
+          43.066222879102
+        ],
+        [
+          -87.883082293649,
+          43.065015536335
+        ],
+        [
+          -87.883098386903,
+          43.063836122337
+        ],
+        [
+          -87.88313547156,
+          43.06263513302
+        ],
+        [
+          -87.883140835978,
+          43.06253323152
+        ],
+        [
+          -87.884390745378,
+          43.061290803464
+        ],
+        [
+          -87.885869324735,
+          43.059724181129
+        ],
+        [
+          -87.888566666667,
+          43.056945938949
+        ],
+        [
+          -87.890146457672,
+          43.055328376869
+        ],
+        [
+          -87.89128448016,
+          43.054096524836
+        ],
+        [
+          -87.892248595898,
+          43.053078684894
+        ],
+        [
+          -87.892420257275,
+          43.052957167996
+        ],
+        [
+          -87.892559732143,
+          43.052741572907
+        ],
+        [
+          -87.894792395501,
+          43.050384551496
+        ],
+        [
+          -87.896768333333,
+          43.048306617906
+        ],
+        [
+          -87.896982910054,
+          43.048130208605
+        ],
+        [
+          -87.898082968914,
+          43.048136523944
+        ],
+        [
+          -87.900848022486,
+          43.048156242066
+        ],
+        [
+          -87.903317240078,
+          43.048175655207
+        ],
+        [
+          -87.90475490411,
+          43.048175655207
+        ],
+        [
+          -87.904756409391,
+          43.04790847262
+        ],
+        [
+          -87.90478323148,
+          43.045901712405
+        ],
+        [
+          -87.90478323148,
+          43.045709614722
+        ],
+        [
+          -87.90478323148,
+          43.045493994157
+        ],
+        [
+          -87.904614115739,
+          43.043912300021
+        ],
+        [
+          -87.904493906745,
+          43.042834554228
+        ],
+        [
+          -87.904350519843,
+          43.041531221366
+        ],
+        [
+          -87.904175573413,
+          43.03993338047
+        ],
+        [
+          -87.904062920634,
+          43.038921822204
+        ],
+        [
+          -87.904594271165,
+          43.038885647881
+        ],
+        [
+          -87.9085890086,
+          43.038673751244
+        ],
+        [
+          -87.9095706971,
+          43.038638463884
+        ],
+        [
+          -87.909742358477,
+          43.038646305521
+        ],
+        [
+          -87.90992474869,
+          43.038681592877
+        ],
+        [
+          -87.910284164698,
+          43.038771771582
+        ],
+        [
+          -87.910450461657,
+          43.038795296439
+        ],
+        [
+          -87.911105573412,
+          43.038807876147
+        ],
+        [
+          -87.915210937832,
+          43.038834377161
+        ],
+        [
+          -87.920101666667,
+          43.038853189222
+        ],
+        [
+          -87.921458864428,
+          43.038837505999
+        ],
+        [
+          -87.921619796969,
+          43.038861030832
+        ],
+        [
+          -87.924148595901,
+          43.038844555671
+        ],
+        [
+          -87.925350225539,
+          43.038836714059
+        ],
+        [
+          -87.925586259933,
+          43.038821030832
+        ],
+        [
+          -87.92581156549,
+          43.038777901937
+        ],
+        [
+          -87.926052964301,
+          43.038750456261
+        ],
+        [
+          -87.927159426588,
+          43.038758680921
+        ],
+        [
+          -87.930809062169,
+          43.038758189209
+        ],
+        [
+          -87.932812341931,
+          43.0387594076
+        ],
+        [
+          -87.93529130225,
+          43.038751139493
+        ],
+        [
+          -87.936521666668,
+          43.038761618308
+        ],
+        [
+          -87.938529791004,
+          43.038770443354
+        ],
+        [
+          -87.940366666668,
+          43.038765839305
+        ],
+        [
+          -87.942777968916,
+          43.038774172643
+        ],
+        [
+          -87.94483869775,
+          43.038773680926
+        ],
+        [
+          -87.947615519843,
+          43.038775156075
+        ],
+        [
+          -87.950624844577,
+          43.038793585173
+        ],
+        [
+          -87.953899271165,
+          43.03880976013
+        ],
+        [
+          -87.957619217592,
+          43.038842110028
+        ],
+        [
+          -87.957623488755,
+          43.039961618257
+        ],
+        [
+          -87.957617604499,
+          43.041587015038
+        ],
+        [
+          -87.957628333334,
+          43.043188284788
+        ],
+        [
+          -87.957622968916,
+          43.044678067398
+        ],
+        [
+          -87.958190937831,
+          43.044667602994
+        ],
+        [
+          -87.959377240079,
+          43.04466300083
+        ],
+        [
+          -87.961114271163,
+          43.044651731997
+        ],
+        [
+          -87.962984999999,
+          43.044664478245
+        ],
+        [
+          -87.963821849212,
+          43.044684080411
+        ],
+        [
+          -87.964041790351,
+          43.044723284724
+        ],
+        [
+          -87.964213451728,
+          43.044774250294
+        ],
+        [
+          -87.964395841941,
+          43.044856579201
+        ],
+        [
+          -87.964578232154,
+          43.045005555039
+        ],
+        [
+          -87.964744529113,
+          43.045166291721
+        ],
+        [
+          -87.965130767211,
+          43.045570091772
+        ],
+        [
+          -87.965238055571,
+          43.045722986243
+        ],
+        [
+          -87.965264877662,
+          43.045856278548
+        ],
+        [
+          -87.965279271163,
+          43.046038190296
+        ],
+        [
+          -87.965275000002,
+          43.04724161795
+        ],
+        [
+          -87.965285155422,
+          43.048541031041
+        ],
+        [
+          -87.965285155422,
+          43.048705678635
+        ],
+        [
+          -87.963552448399,
+          43.048682157577
+        ],
+        [
+          -87.963525053572,
+          43.050103284495
+        ],
+        [
+          -87.963525053572,
+          43.050271847971
+        ],
+        [
+          -87.963578697752,
+          43.05035024943
+        ],
+        [
+          -87.963573333333,
+          43.051461617773
+        ],
+        [
+          -87.963557240081,
+          43.053178777922
+        ],
+        [
+          -87.963546511245,
+          43.054887825997
+        ],
+        [
+          -87.963476720236,
+          43.055490938636
+        ],
+        [
+          -87.9634659914,
+          43.055710443787
+        ],
+        [
+          -87.964654999999,
+          43.0563249509
+        ],
+        [
+          -87.967409271165,
+          43.057790721343
+        ],
+        [
+          -87.967430782407,
+          43.060514767537
+        ],
+        [
+          -87.967398542327,
+          43.062349768164
+        ],
+        [
+          -87.967366875662,
+          43.064161930409
+        ],
+        [
+          -87.967340573414,
+          43.06599269809
+        ],
+        [
+          -87.967323906747,
+          43.067813193555
+        ],
+        [
+          -87.967297604499,
+          43.06962927499
+        ],
+        [
+          -87.967277240081,
+          43.071465942051
+        ],
+        [
+          -87.967240208994,
+          43.073459454034
+        ],
+        [
+          -87.967196720236,
+          43.075060535273
+        ],
+        [
+          -87.967180573412,
+          43.076921031664
+        ],
+        [
+          -87.967138177909,
+          43.079054453084
+        ],
+        [
+          -87.967100626983,
+          43.081428857706
+        ],
+        [
+          -87.967207915343,
+          43.081679614539
+        ],
+        [
+          -87.967218644179,
+          43.082377026582
+        ],
+        [
+          -87.967309839286,
+          43.082533747297
+        ],
+        [
+          -87.967773751324,
+          43.082540359741
+        ],
+        [
+          -87.970741666667,
+          43.082568283132
+        ],
+        [
+          -87.974048333334,
+          43.082568283132
+        ],
+        [
+          -87.977014635583,
+          43.082602873176
+        ],
+        [
+          -87.979510782409,
+          43.082641878528
+        ],
+        [
+          -87.98203687566,
+          43.082659042502
+        ],
+        [
+          -87.984294115739,
+          43.082689217189
+        ],
+        [
+          -87.98691687566,
+          43.082698370469
+        ],
+        [
+          -87.98953,
+          43.082694949793
+        ],
+        [
+          -87.992088333333,
+          43.082694949794
+        ],
+        [
+          -87.99516687566,
+          43.082701965838
+        ]
+      ]
+    }
+  },
+  "stops": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2369",
+          "name": "MARYLAND + HARTFORD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.882752711638,
+            43.078116616653
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4371",
+          "name": "MARYLAND + NEWPORT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.882727968916,
+            43.079069949945
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4372",
+          "name": "MARYLAND + EDGEWOOD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.882638333334,
+            43.081788283166
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2370",
+          "name": "EDGEWOOD + PROSPECT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.880286666667,
+            43.081896354021
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7750",
+          "name": "EDGEWOOD + DOWNER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.877944062169,
+            43.081885419357
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4215",
+          "name": "DOWNER + NEWPORT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.877848488757,
+            43.079416528627
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4216",
+          "name": "DOWNER + HARTFORD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.877897341932,
+            43.077775126575
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4375",
+          "name": "HARTFORD + 3211 E."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.880487968916,
+            43.077647610038
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4376",
+          "name": "HARTFORD + MARYLAND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.88267,
+            43.077651528363
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4377",
+          "name": "MARYLAND + KENWOOD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.882940053571,
+            43.074826616789
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3658",
+          "name": "MARYLAND + LINNWOOD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.882972186507,
+            43.072914543348
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3659",
+          "name": "MARYLAND + LOCUST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.883015675264,
+            43.071127202354
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4378",
+          "name": "MARYLAND + NEWBERRY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.883051146827,
+            43.069522202526
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4379",
+          "name": "MARYLAND + PARK PLACE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.883093542327,
+            43.067478869408
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4380",
+          "name": "MARYLAND + BELLEVIEW"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.883083386904,
+            43.066222879102
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4381",
+          "name": "MARYLAND + WEBSTER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.883082293649,
+            43.065015536335
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4382",
+          "name": "MARYLAND + BRADFORD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.883098386903,
+            43.063836122337
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4383",
+          "name": "MARYLAND + FARWELL - GREENWICH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.88313547156,
+            43.06263513302
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4384",
+          "name": "FARWELL + NORTH AVENUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.885869324735,
+            43.059724181129
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4218",
+          "name": "FARWELL + LAFAYETTE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.888566666667,
+            43.056945938949
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4219",
+          "name": "FARWELL + KANE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.890146457672,
+            43.055328376869
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4220",
+          "name": "FARWELL + ROYALL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.89128448016,
+            43.054096524836
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4221",
+          "name": "FARWELL + BRADY - CAMBRIDGE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.892248595898,
+            43.053078684894
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4222",
+          "name": "FARWELL + ALBION"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.894792395501,
+            43.050384551496
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4223",
+          "name": "FARWELL + OGDEN - FRANKLIN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.896768333333,
+            43.048306617906
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4224",
+          "name": "OGDEN + HUMBOLDT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.898082968914,
+            43.048136523944
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4225",
+          "name": "OGDEN + MARSHALL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.900848022486,
+            43.048156242066
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4226",
+          "name": "OGDEN + VAN BUREN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.903317240078,
+            43.048175655207
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1049",
+          "name": "JACKSON + OGDEN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.904756409391,
+            43.04790847262
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1050",
+          "name": "JACKSON + JUNEAU"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.90478323148,
+            43.045901712405
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1051",
+          "name": "JACKSON + STATE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.904614115739,
+            43.043912300021
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1052",
+          "name": "JACKSON + KILBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.904493906745,
+            43.042834554228
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4227",
+          "name": "JACKSON + WELLS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.904350519843,
+            43.041531221366
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "491",
+          "name": "JACKSON + MASON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.904175573413,
+            43.03993338047
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4392",
+          "name": "WISCONSIN + JEFFERSON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.904594271165,
+            43.038885647881
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4",
+          "name": "WISCONSIN + WATER STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.9085890086,
+            43.038673751244
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5",
+          "name": "WISCONSIN + PLANKINTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.911105573412,
+            43.038807876147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "407",
+          "name": "WISCONSIN + 4TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.915210937832,
+            43.038834377161
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8",
+          "name": "WISCONSIN + JAMES LOVELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.920101666667,
+            43.038853189222
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "10",
+          "name": "WISCONSIN + 10TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.924148595901,
+            43.038844555671
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "410",
+          "name": "WISCONSIN + 12TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.927159426588,
+            43.038758680921
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "411",
+          "name": "WISCONSIN + 14TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.930809062169,
+            43.038758189209
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "412",
+          "name": "WISCONSIN + 16TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.932812341931,
+            43.0387594076
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "413",
+          "name": "WISCONSIN + 18TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.93529130225,
+            43.038751139493
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "414",
+          "name": "WISCONSIN + 19TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.936521666668,
+            43.038761618308
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "415",
+          "name": "WISCONSIN + 21ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.938529791004,
+            43.038770443354
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "416",
+          "name": "WISCONSIN + 22ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.940366666668,
+            43.038765839305
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "417",
+          "name": "WISCONSIN + 24TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.942777968916,
+            43.038774172643
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "418",
+          "name": "WISCONSIN + 25TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.94483869775,
+            43.038773680926
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "419",
+          "name": "WISCONSIN + 27TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.947615519843,
+            43.038775156075
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "420",
+          "name": "WISCONSIN + 29TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.950624844577,
+            43.038793585173
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "421",
+          "name": "WISCONSIN + 32ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.953899271165,
+            43.03880976013
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "422",
+          "name": "WISCONSIN + 35TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957619217592,
+            43.038842110028
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4228",
+          "name": "35TH STREET + WELLS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957623488755,
+            43.039961618257
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4229",
+          "name": "35TH STREET + KILBOURN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957617604499,
+            43.041587015038
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4230",
+          "name": "35TH STREET + STATE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.957628333334,
+            43.043188284788
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4231",
+          "name": "HIGHLAND + 35TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.958190937831,
+            43.044667602994
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4232",
+          "name": "HIGHLAND + 37TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.959377240079,
+            43.04466300083
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4233",
+          "name": "HIGHLAND + 38TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.961114271163,
+            43.044651731997
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4234",
+          "name": "HIGHLAND + 40TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.962984999999,
+            43.044664478245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4235",
+          "name": "HIGHLAND + MARTIN DRIVE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.965279271163,
+            43.046038190296
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4236",
+          "name": "HIGHLAND + MCKINLEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.965275000002,
+            43.04724161795
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4237",
+          "name": "HIGHLAND + VLIET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.965285155422,
+            43.048541031041
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4238",
+          "name": "40TH STREET + CHERRY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.963525053572,
+            43.050103284495
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4239",
+          "name": "40TH STREET + GALENA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.963573333333,
+            43.051461617773
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4240",
+          "name": "40TH STREET + ROBERTS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.963557240081,
+            43.053178777922
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4241",
+          "name": "40TH STREET + LISBON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.963476720236,
+            43.055490938636
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4242",
+          "name": "LISBON + 41ST ST - BROWN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.964654999999,
+            43.0563249509
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4243",
+          "name": "LISBON + SHERMAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967409271165,
+            43.057790721343
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4244",
+          "name": "SHERMAN + NORTH AVENUE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967430782407,
+            43.060514767537
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4245",
+          "name": "SHERMAN + MEINECKE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967398542327,
+            43.062349768164
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4246",
+          "name": "SHERMAN + WRIGHT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967366875662,
+            43.064161930409
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4247",
+          "name": "SHERMAN + CLARKE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967340573414,
+            43.06599269809
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4248",
+          "name": "SHERMAN + CENTER STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967323906747,
+            43.067813193555
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4249",
+          "name": "SHERMAN + HADLEY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967297604499,
+            43.06962927499
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4250",
+          "name": "SHERMAN + LOCUST"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967277240081,
+            43.071465942051
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4251",
+          "name": "SHERMAN + CHAMBERS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967240208994,
+            43.073459454034
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4252",
+          "name": "SHERMAN + BURLEIGH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967196720236,
+            43.075060535273
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4254",
+          "name": "SHERMAN + AUER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967180573412,
+            43.076921031664
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4255",
+          "name": "SHERMAN + CONCORDIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967138177909,
+            43.079054453084
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4406",
+          "name": "KEEFE + SHERMAN-FOND DU LAC"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.967773751324,
+            43.082540359741
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4407",
+          "name": "KEEFE + 46TH ST - SCRANTON"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.970741666667,
+            43.082568283132
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4408",
+          "name": "KEEFE + 48TH ST - ROOSEVELT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.974048333334,
+            43.082568283132
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4409",
+          "name": "KEEFE + 51ST STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.977014635583,
+            43.082602873176
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4410",
+          "name": "KEEFE + 53RD STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.979510782409,
+            43.082641878528
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4411",
+          "name": "KEEFE + 55TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.98203687566,
+            43.082659042502
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4412",
+          "name": "KEEFE + 57TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.984294115739,
+            43.082689217189
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4413",
+          "name": "KEEFE + 60TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.98691687566,
+            43.082698370469
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4414",
+          "name": "KEEFE + 62ND STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.98953,
+            43.082694949793
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4415",
+          "name": "KEEFE + 64TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.992088333333,
+            43.082694949794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4416",
+          "name": "KEEFE + 67TH STREET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.99516687566,
+            43.082701965838
+          ]
+        }
+      }
+    ]
+  }
+}
