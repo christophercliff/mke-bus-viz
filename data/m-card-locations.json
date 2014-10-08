@@ -1,0 +1,710 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MCTS - Admin Bldg Cashiers",
+        "street": "1942 N. 17th St, Milwaukee, WI",
+        "place_name": "1942 North 17th Street, Milwaukee, 53205, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933852,
+          43.055435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MCTS - FDL Station",
+        "street": "3201 W. Fond du Lac Ave, Milwaukee, WI",
+        "place_name": "3201 West Fond du Lac Avenue, Milwaukee, 53210, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.953932,
+          43.072514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MCTS - KK Station",
+        "street": "1718 S. Kinnickinnic Ave, Milwaukee, WI",
+        "place_name": "1718 South Kinnickinnic Avenue, Milwaukee, 53204, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.910348,
+          43.012072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "1407 E. Brady St, Milwaukee, WI",
+        "place_name": "1407 East Brady Street, Milwaukee, 53202, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89345,
+          43.052902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "801 Cesar E Chavez Drive, Milwaukee, WI",
+        "place_name": "801 South Cesar East Chavez Drive, Milwaukee, 53204, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.933002,
+          43.020138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "801 W. Historic Mitchell St, Milwaukee, WI",
+        "place_name": "801 West Historic Mitchell Street, Milwaukee, 53204, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.921289,
+          43.012296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "2636 W. Fond du Lac Ave, Milwaukee, WI",
+        "place_name": "2636 West Fond du Lac Avenue, Milwaukee, 53206, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.946653,
+          43.066788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "4535 W. North Ave, Milwaukee, WI",
+        "place_name": "4535 West North Avenue, Milwaukee, 53210, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.970493,
+          43.060626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "3432 W. Vliet St, Milwaukee, WI",
+        "place_name": "3432 West Vliet Street, Milwaukee, 53208, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956848,
+          43.048711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "3500 W. Villard Ave, Milwaukee, WI",
+        "place_name": "3500 West Villard Avenue, Milwaukee, 53209, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956443,
+          43.11192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "821 E. Capitol Dr, Milwaukee, WI",
+        "place_name": "821 East Capitol Drive, Milwaukee, 53212, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.900676,
+          43.089195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "3256 S. 27th St, Milwaukee, WI",
+        "place_name": "5500 West Fond du Lac Avenue, Milwaukee, 53216, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.981968,
+          43.094465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "5500 W. Fond du Lac Ave, Milwaukee, WI",
+        "place_name": "7410 West Capitol Drive, Milwaukee, 53216, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004188,
+          43.089926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "7410 W. Capitol Dr, Milwaukee, WI",
+        "place_name": "6404 North 76th Street, Milwaukee, 53223, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005668,
+          43.134216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "6404 N. 76th St, Milwaukee, WI",
+        "place_name": "10400 West Silver Spring Drive, Milwaukee, 53225, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.042446,
+          43.119397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "10400 W. Silver Spring Dr, Milwaukee, WI",
+        "place_name": "2534 West Wisconsin Avenue, Milwaukee, 53233, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.945415,
+          43.038694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Financial",
+        "street": "2534 W. Wisconsin Ave, Milwaukee, WI",
+        "place_name": "12735 West Capitol Drive, Brookfield, 53005, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.080503,
+          43.089407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "12735 W. Capitol Dr, Brookfield, WI",
+        "place_name": "1735 West Silver Spring Drive, Milwaukee, 53209, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.932867,
+          43.118905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "1735 W. Silver Spring Dr, Glendale, WI",
+        "place_name": "9200 North Green Bay Road, Milwaukee, 53209, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.964236,
+          43.185042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "9200 N. Green Bay Rd, Milwaukee, WI",
+        "place_name": "2355 North 35th Street, Milwaukee, 53210, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.957505,
+          43.061628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "2355 N. 35th St, Milwaukee, WI",
+        "place_name": "4145 North Oakland Avenue, Milwaukee, 53211, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.887453,
+          43.092733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "4145 N. Oakland Ave, Shorewood, WI",
+        "place_name": "6950 West State Street, Milwaukee, 53213, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.999394,
+          43.046885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "6950 W. State St, Wauwatosa, WI",
+        "place_name": "6760 West National Avenue, Milwaukee, 53214, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.997004,
+          43.013927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "6760 W. National Ave, West Allis, WI",
+        "place_name": "6969 North Port Washington Road, Milwaukee, 53217, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912902,
+          43.143783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "2201 S. Miller Parkway, West Milw, WI",
+        "place_name": "4279 South 76th Street, Milwaukee, 53220, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.008153,
+          42.966862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "6969 N. Port Washington Rd, Glendale, WI",
+        "place_name": "7401 West Good Hope Road, Milwaukee, 53223, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.002814,
+          43.148695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "4279 S. 76th St, Greenfield, WI",
+        "place_name": "1717 North Mayfair Road, Milwaukee, 53226, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04753,
+          43.053091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "7401 W. Good Hope Rd, Milwaukee, WI",
+        "place_name": "724 North 3rd Street, Milwaukee, 53203, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914539,
+          43.039097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pick 'n Save",
+        "street": "1717 N. Mayfair Rd, Wauwatosa, WI",
+        "place_name": "275 West Wisconsin Avenue, Milwaukee, 53203, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914181,
+          43.038749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Convenient",
+        "street": "724 N. 3rd St, Milwaukee, WI",
+        "place_name": "605 West Lapham Boulevard, Milwaukee, 53204, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.918528,
+          43.014172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shops of Grand Avenue",
+        "street": "275 W. Wisconsin Ave, Milwaukee, WI",
+        "place_name": "2277 South Howell Avenue, Milwaukee, 53207, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.904737,
+          43.003053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Rey",
+        "street": "916 S. Cesar E Chavez Dr, Milwaukee, WI",
+        "place_name": "123 West Oklahoma Avenue, Milwaukee, 53207, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.912551,
+          42.986379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwik Stop",
+        "street": "605 W. Lapham Blvd, Milwaukee, WI",
+        "place_name": "123 East Oklahoma Avenue, Milwaukee, 53207, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.909051,
+          42.988284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bay View Supermarket",
+        "street": "2277 S. Howell Ave, Milwaukee, WI",
+        "place_name": "7222 North Teutonia Avenue, Milwaukee, 53209, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.956704,
+          43.14875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PW Midwest",
+        "street": "123 W. Oklahoma Ave, Milwaukee, WI",
+        "place_name": "3425 West Silver Spring Drive, Milwaukee, 53209, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.955336,
+          43.119145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andy's Petro-Teutonia",
+        "street": "7222 N. Teutonia Ave, Milwaukee, WI",
+        "place_name": "4728 West Burleigh Street, Milwaukee, 53210, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.973583,
+          43.075235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Open Pantry",
+        "street": "3425 W. Silver Spring Dr, Milwaukee, WI",
+        "place_name": "2200 East Kenwood Boulevard, Milwaukee, 53211, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882905,
+          43.074643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clark Beer & Liquor",
+        "street": "4728 W. Burleigh St, Milwaukee, WI",
+        "place_name": "311 West Locust Street, Milwaukee, 53212, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.914174,
+          43.071125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UWM Parking & Transit",
+        "street": "2200 E. Kenwood Blvd, Milwaukee, WI",
+        "place_name": "2879 North Weil Street, Milwaukee, 53212, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.899114,
+          43.070731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fast & Friendly Foods",
+        "street": "311 W. Locust Ave, Milwaukee, WI",
+        "place_name": "6700 West State Street, Milwaukee, 53213, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99623,
+          43.045762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunrise Foods",
+        "street": "2879 N. Weil St, Milwaukee, WI",
+        "place_name": "7101 West Lisbon Avenue, Milwaukee, 53210, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.001287,
+          43.075347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sentry Foods",
+        "street": "6700 W. State St, Wauwatosa, WI",
+        "place_name": "812 South Layton Boulevard, Milwaukee, 53215, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.947798,
+          43.022765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sentry Foods",
+        "street": "7101 W. Lisbon Ave, Milwaukee, WI",
+        "place_name": "6366 North 76th Street, Milwaukee, 53218, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.005796,
+          43.133617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Station on the Park",
+        "street": "812 S. Layton Blvd, Milwaukee, WI",
+        "place_name": "4302 West Capitol Drive, Milwaukee, 53216, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.967133,
+          43.089807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andy's Petro-Mill Road",
+        "street": "6366 N. 76th St, Milwaukee, WI",
+        "place_name": "8200 West Brown Deer Road, Milwaukee, 53223, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01172,
+          43.177717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capitol Citgo Mart",
+        "street": "4302 W. Capitol Dr, Milwaukee, WI",
+        "place_name": "10282 West National Avenue, Milwaukee, 53227, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.043861,
+          42.99548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andy's Petro-Brown Deer",
+        "street": "8200 W. Brown Deer Rd, Milwaukee, WI",
+        "place_name": "1442 West Wisconsin Avenue, Milwaukee, 53233, Wisconsin, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.930674,
+          43.038659
+        ]
+      }
+    }
+  ]
+}
